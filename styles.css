@@ -1,14 +1,14 @@
 /* Navigation Bar Styles */
 .navbar {
     background-color: #36454F‎; /* Dark background for navbar */
-    padding: 15px;
+    padding: 0px;
 }
 
 .nav-links {
     display: flex !important;
     list-style: none !important;
     justify-content: right !important;
-    gap: 0px;
+    gap: 20px;
 }
 
 .nav-links a {
