@@ -7,8 +7,8 @@
 .nav-links {
     display: flex !important;
     list-style: none !important;
-    justify-content: left !important;
-    gap: 20px;
+    justify-content: right !important;
+    gap: 0px;
 }
 
 .nav-links a {
