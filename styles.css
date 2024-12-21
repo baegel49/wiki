@@ -1,3 +1,36 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Navigation Bar Styles */
+.navbar {
+    background-color: #333; /* Dark background for navbar */
+    padding: 15px;
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    gap: 20px;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.nav-links a:hover {
+    color: #007BFF; /* Hover color */
+    transform: scale(1.1); /* Slight zoom effect on hover */
+}
+
 /* General Styles */
 body {
   font-family: Arial, sans-serif;
