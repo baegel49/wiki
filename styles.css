@@ -20,7 +20,7 @@
 }
 
 .nav-links a:hover {
-    color: #FFD700; /* Hover color */
+    color: #FFD700 !important; /* Hover color */
     transform: scale(1.1); /* Slight zoom effect on hover */
 }
 
