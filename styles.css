@@ -1,51 +1,74 @@
+/* General Styles */
 body {
   font-family: Arial, sans-serif;
-  line-height: 1.6;
   margin: 0;
   padding: 0;
-  background-color: #f9f9f9;
+  background-color: #f4f4f9;
   color: #333;
+  text-align: center;
 }
 
 header {
-  background: #4CAF50;
-  color: #fff;
-  padding: 1rem 0;
+  background-color: #4CAF50;
+  color: white;
+  padding: 20px 0;
+}
+
+header h1 {
+  margin: 0;
+}
+
+header p {
+  margin: 5px 0 20px;
+  font-size: 1.2rem;
+}
+
+/* Topic Grid */
+.topics {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.topic {
+  display: flex;
+  flex-direction: column;
   text-align: center;
-}
-
-header nav ul {
-  list-style: none;
-  padding: 0;
-}
-
-header nav ul li {
-  display: inline;
-  margin: 0 10px;
-}
-
-header nav ul li a {
-  color: #fff;
   text-decoration: none;
+  color: inherit;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s, box-shadow 0.3s;
 }
 
-main {
-  padding: 1rem 2rem;
+.topic:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
 }
 
-main section {
-  margin-bottom: 2rem;
+.topic img {
+  width: 100%;
+  height: auto;
+  display: block;
 }
 
-main h2 {
-  border-bottom: 2px solid #4CAF50;
-  padding-bottom: 0.5rem;
+.topic-title {
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  font-size: 1.1rem;
+  font-weight: bold;
 }
 
+/* Footer */
 footer {
-  text-align: center;
-  background: #333;
-  color: #fff;
-  padding: 1rem 0;
-  margin-top: 2rem;
+  margin-top: 20px;
+  background-color: #333;
+  color: white;
+  padding: 10px 0;
 }
