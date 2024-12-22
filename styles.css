@@ -1,21 +1,40 @@
 /* Navigation Bar Styles */
 .navbar {
-    background-color: #36454F‎; /* Dark background for navbar */
-    padding: 0px;
+    background-color: white; /* Dark background for navbar */
+    box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.5); /* Shadow below the navbar */
+    padding: 5px;
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.navbar-logo {
+  color: #333;
+  text-decoration: none;
+  font-family: 'Anonymous Pro', monospace;
+  font-size: 24px;
+  font-weight: lighter;
 }
 
 .nav-links {
     display: flex !important;
     list-style: none !important;
-    justify-content: right !important;
+    justify-content: center;
     gap: 20px;
 }
 
 .nav-links a {
-    color: white;
+    color: #333;
     text-decoration: none !important;
+    font-family: 'Anonymous Pro', monospace;
     font-size: 16px;
-    font-weight: bold;
+    font-weight: light;
     transition: color 0.3s ease, transform 0.3s ease;
 }
 
@@ -26,18 +45,18 @@
 
 /* General Styles */
 body {
-  font-family: Arial, sans-serif;
-  margin: 0;
+  font-family: 'Ubuntu';
+  margin: 0 auto;
   padding: 0;
-  background-color: #f4f4f9;
+  background-color: #FAF9F6;
   color: #333;
   text-align: center;
 }
 
 header {
-  background-color: #36454F;
-  color: white;
-  padding: 20px 0;
+  background-color: white;
+  color: #333;
+  padding: 0px 0;
 }
 
 header h1 {
@@ -47,6 +66,13 @@ header h1 {
 header p {
   margin: 5px 0 20px;
   font-size: 1.2rem;
+}
+
+footer {
+  margin-top: 400px;
+  background-color: white;
+  color: #333;
+  padding: 10px 0;
 }
 
 /* Topic Grid */
@@ -85,16 +111,66 @@ header p {
 
 .topic-title {
   padding: 10px;
-  background-color: #4CAF50;
+  background-color: #333;
   color: white;
   font-size: 1.1rem;
   font-weight: bold;
 }
 
-/* Footer */
-footer {
+/* General heading styles */
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
+  font-weight: lighter; /* Optional: Makes the text bold */
+  color: #333; /* Default heading color */
+  font-family: 'Anonymous Pro', sans-serif; /* Font family declaration */
+}
+
+/* Specific heading font sizes */
+h1 {
+  font-size: 36px; /* Customize font size for h1 */
+  line-height: 1.2;
+}
+
+h2 {
+  font-size: 30px; /* Customize font size for h2 */
+  line-height: 1.3;
+}
+
+h3 {
+  font-size: 24px; /* Customize font size for h3 */
+  line-height: 1.4;
+}
+
+/* Full-width underline for headings */
+.heading-underline {
+  display: flex;
+  flex-direction: column;
+  border-bottom: 1px solid #333; /* Underline color */
+  width: 100%; /* Full width */
   margin-top: 20px;
-  background-color: #333;
-  color: white;
-  padding: 10px 0;
+  margin-bottom: 10px; /* Space below the heading */
+  box-sizing: border-box;
+  position: relative;
+  text-align: left;
+}
+
+.heading-underline::after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+.main-content {
+  padding: 2vw 5vw; /* Top/bottom: 2vw, Left/right: 4vw */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 800px;
+  margin: 0 auto; /* Center the content */
+}
+
+.image-container img {
+  max-width: 100%; /* Image scales to fit the container */
+  height: auto; /* Maintain aspect ratio */
+  display: block; /* Remove inline-block spacing */
 }
