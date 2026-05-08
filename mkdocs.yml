@@ -8,13 +8,25 @@ theme:
     - navigation.indexes
     - search.suggest
     - content.code.copy
+    
   palette:
-    - scheme: default
-      toggle: { icon: material/weather-night, name: Dark }
-    - scheme: slate
-      toggle: { icon: material/weather-sunny, name: Light }
-    - primary: blue grey
-    - accent: amber
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+      primary: blue grey
+      accent: amber
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+      primary: amber
+      accent: teal
 
 plugins:
   - search
