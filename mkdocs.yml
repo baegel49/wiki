@@ -1,0 +1,31 @@
+site_name: Your Setting Name
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.indexes
+    - search.suggest
+    - content.code.copy
+  palette:
+    - scheme: default
+      toggle: { icon: material/weather-night, name: Dark }
+    - scheme: slate
+      toggle: { icon: material/weather-sunny, name: Light }
+
+plugins:
+  - search
+  - awesome-pages
+  - ezlinks:
+      wikilinks: true
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
