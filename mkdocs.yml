@@ -13,6 +13,8 @@ theme:
       toggle: { icon: material/weather-night, name: Dark }
     - scheme: slate
       toggle: { icon: material/weather-sunny, name: Light }
+    - primary: blue grey
+    - accent: amber
 
 plugins:
   - search
