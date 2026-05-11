@@ -1,0 +1,1 @@
+Normund was the son of the great [[Thalen]] king Aldric who led his kindred across the 

@@ -1,0 +1,1 @@
+Kingdom of the [[Thalen]], ruled by the Aldrician dynasty. Capital is [[Ostellyth]]. 

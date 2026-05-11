@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "7e4ffa7e9dd31cb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1f382fac40ceb88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf758fd69b9cec43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cultures/Brethiln.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brethiln"
+            }
+          },
+          {
+            "id": "5f99939a720353da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Cenerian League.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cenerian League"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29c150dc154a7bdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1c0f292edc6a3d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f28251a9fb58d35",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7e1a4f5019ccdac4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "85c9122f9f4db5c2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b916c6b74458ada7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a92a4dd86147b5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2c8dc13b4cbf667",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "cc9b04cbe3a92626",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9cb3780624db18fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "10990ba999c7f077",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "83c3ecc67f13ee3a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5f99939a720353da",
+  "lastOpenFiles": [
+    "Cultures/Cenerian.md",
+    "Cultures/Mycean.md",
+    "Cultures/Brethiln.md",
+    "Locations/Cities/Conquered Cities/Ostellyth.md",
+    "Locations/Realms/Thalendor.md",
+    "Locations/Realms",
+    "Events/Voyage of Normund.md",
+    "Factions/Cenerian League.md",
+    "Factions/First League.md",
+    "Locations/Cities/League Cities/Karsolam.md",
+    "Horrors.md",
+    "Locations/Cities/League Cities/Enetia.md",
+    "Locations/Cities/League Cities/Asparon.md",
+    "Locations/Cities/League Cities/Mirenna.md",
+    "Locations/Cities/League Cities/Lynara.md",
+    "Locations/Regions/Osera.md",
+    "Events/Collapse.md",
+    "Cultures/Thalen.md",
+    "Events/Xeril's Conquests.md"
+  ]
+}
