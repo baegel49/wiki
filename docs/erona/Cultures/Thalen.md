@@ -1,0 +1,1 @@
+Migrants from the [[Unsung Lands]]. Thalens were originally great fortification builders, having had to fortify themselves against the unnatural threats of their eastern homelands. Their knowledge of castle building was brought with them to [[Osera]], giving them a distinct advantage over the [[Brethiln]] on whose lands they settled.

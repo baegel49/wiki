@@ -1,0 +1,1 @@
+De-facto leader of the [[Cenerian League]] and based on the island of [[Pyrgos]]. 

@@ -1,0 +1,1 @@
+Former city of the [[Cenerian League]] which was abandoned after a bright flash engulfed nearly all of the metropolis. Only fishermen and merchant ships survived the ensuing blast. Rumoured to have left behind a crater with perfectly smooth, mirror-like walls. 

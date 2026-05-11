@@ -1,0 +1,1 @@
+A cataclysmic event of earthquakes, floods, volcanic eruptions, and asteroid strikes that shook [[Erona]]. It split the original continent of [[Halcyon]] in twain, leaving behind [[Osera]] and [[Hesperon]].

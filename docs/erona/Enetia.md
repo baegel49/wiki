@@ -1,0 +1,1 @@
+Largest city in the [[Cenerian]] north of [[Osera]] and owner of the second-largest navy in the [[Cenerian League]] (the first being [[Pallas]])

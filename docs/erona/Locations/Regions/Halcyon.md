@@ -1,0 +1,1 @@
+The home continent of the [[First League]] prior to the [[Collapse]]. Now split into [[Osera]] in the East and [[Hesperon]] in the West.

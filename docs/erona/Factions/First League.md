@@ -1,0 +1,1 @@
+An ancient alliance of over 2,000 cities prior to the [[Collapse]].

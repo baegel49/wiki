@@ -1,0 +1,1 @@
+The region east of [[Osera]]. The two are technically connected by an unfertile prairie dotted with mesas but are usually spoken of as two separate lands. 
