@@ -1,4 +1,6 @@
 site_name: Baegels Wiki
+site_url: https://baegel49.github.io/wiki/
+
 theme:
   name: material
   features:
