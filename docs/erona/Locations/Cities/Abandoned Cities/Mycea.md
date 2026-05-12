@@ -1,0 +1,1 @@
+The now-lost capital of the [[Mycean]] people. Its exact location is unknown, though all sages agree that it lies in the deepest parts of the [[Sea of Alvos]]. 

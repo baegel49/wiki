@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bf758fd69b9cec43",
+            "id": "dc530e939ce8652b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cultures/Brethiln.md",
+                "file": "Other/Mist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brethiln"
-            }
-          },
-          {
-            "id": "5f99939a720353da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Cenerian League.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cenerian League"
+              "title": "Mist"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,26 +180,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "5f99939a720353da",
+  "active": "dc530e939ce8652b",
   "lastOpenFiles": [
-    "Cultures/Cenerian.md",
-    "Cultures/Mycean.md",
+    "Locations/Cities/Abandoned Cities/Mycea.md",
+    "Other/Mist.md",
     "Cultures/Brethiln.md",
+    "Factions/Cenerian League.md",
+    "Beings/Wardens.md",
+    "Beings/Lethe.md",
+    "Beings/Horrors.md",
+    "Locations/Other/Pyrgos.md",
+    "Locations/Other/Seventh Sanctum.md",
+    "Other/Heavenly Iron.md",
+    "Other",
+    "Events/Crowning of Andros.md",
+    "Cultures/Mycean.md",
+    "Beings",
+    "Cultures/Thalen.md",
+    "Cultures/Ykrittar.md",
+    "Cultures/Cenerian.md",
     "Locations/Cities/Conquered Cities/Ostellyth.md",
     "Locations/Realms/Thalendor.md",
     "Locations/Realms",
     "Events/Voyage of Normund.md",
-    "Factions/Cenerian League.md",
     "Factions/First League.md",
     "Locations/Cities/League Cities/Karsolam.md",
-    "Horrors.md",
     "Locations/Cities/League Cities/Enetia.md",
     "Locations/Cities/League Cities/Asparon.md",
     "Locations/Cities/League Cities/Mirenna.md",
     "Locations/Cities/League Cities/Lynara.md",
     "Locations/Regions/Osera.md",
-    "Events/Collapse.md",
-    "Cultures/Thalen.md",
-    "Events/Xeril's Conquests.md"
+    "Events/Collapse.md"
   ]
 }

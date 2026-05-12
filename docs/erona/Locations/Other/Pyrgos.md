@@ -1,0 +1,1 @@
+A large island lying off the south of [[Osera]] and north of [[Zinnabar]]. It is home to the [[Cenerian League]] city (and de facto leader) of [[Pallas]]. 
