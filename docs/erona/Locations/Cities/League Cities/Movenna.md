@@ -1,0 +1,1 @@
+Home to the [[Sect of Pyos]], its patriarch, and its main temple complex. Large influx of devout [[Thalen]] migrants, which has resulted in tensions in the overcrowded city.

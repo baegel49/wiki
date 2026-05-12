@@ -1,0 +1,1 @@
+The southern realm of [[Osera]], inhabited by the [[Cenerian]] people. A mountainous land like the rest of Osera, it has fewer woods than northern [[Brethil]] or [[Thalendor]]. 

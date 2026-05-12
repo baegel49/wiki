@@ -1,0 +1,1 @@
+A fortress-city in the south-east of [[Ceneria]], known for resisting [[Xeril's Conquests]]. 

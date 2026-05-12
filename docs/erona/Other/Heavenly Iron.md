@@ -1,0 +1,1 @@
+A type of iron harvested from meteorites, able to be forged into a special steel called 'white steel' for its brilliant and mirror-like finish. 

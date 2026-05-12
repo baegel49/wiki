@@ -1,3 +1,3 @@
 Wardens are beings of stone resembling armoured men in ancient style, presumed to be [[Mycean]] battle dress. Their origin is unknown, though most attribute them to the Myceans as some kind of unliving soldiers. 
 
-Wardens range from active to catatonic. Active Wardens roam the countryside in unknowable fashion, some moving in straight lines (even through homes and over mountains) until they can move no longer. Others patrol a certain area, slaying all who step into it with their swords made of [[Heavenly Iron]]. 
+Wardens range from active to catatonic. Active Wardens roam the countryside in unknowable fashion, some moving in straight lines (even through homes and over mountains) until they can move no longer. Others patrol a certain area, slaying all who step into it with their swords made of [[Heavenly Iron]]. Yet more simply kneel or stand in place, moving only under certain conditions, each as unique as the Warden itself. 

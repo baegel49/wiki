@@ -1,0 +1,1 @@
+The Sect of Pyos is a henotheistic cult, believing in the god Pyos (see [[Cenerian]] for more) above all others but acknowledging that they exist. The sect's patriarch and main temple are based in [[Movenna]]. Some more extreme cliques of the sect believe that all other deities are false, and that only Pyos exists.

@@ -10,6 +10,7 @@ Current members include:
 7. [[Myrdenia]]
 8. [[Seleia]]
 9. [[Iphara]]
+10. [[Movenna]]
 
 Former cities: 
 1. [[Ostellyth]]
