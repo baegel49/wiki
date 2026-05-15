@@ -1,0 +1,1 @@
+A yak-like creature often used by the [[Rurii]] as a beast of burden.

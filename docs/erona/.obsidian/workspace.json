@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/Battle of Oathbridge.md",
+                "file": "Cultures/Rurii.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Battle of Oathbridge"
+              "title": "Rurii"
             }
           }
         ]
@@ -154,21 +154,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/Battle of Oathbridge.md",
+                "file": "Locations/Regions/Far South East.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Battle of Oathbridge"
+              "title": "Outline of Far South East"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,34 +184,35 @@
   },
   "active": "dc530e939ce8652b",
   "lastOpenFiles": [
-    "Factions/Sect of Pyos.md",
-    "Cultures/Altani.md",
-    "Cultures/Ykrittar.md",
     "Cultures/Thalen.md",
+    "Cultures/Rurii.md",
+    "Beings/Karrowhound.md",
+    "Beings/Bana.md",
+    "Beings/Titans.md",
+    "Locations/Regions/Karrow.md",
+    "Locations/Regions/Unsung Lands.md",
+    "Events/Xeril's Conquests.md",
+    "Cultures/Brethiln.md",
+    "Cultures/Altani.md",
+    "Factions/Sect of Pyos.md",
+    "Locations/Other/Seventh Sanctum.md",
+    "Locations/Other/Pyrgos.md",
+    "Cultures/Ykrittar.md",
     "Cultures/Mycean.md",
     "Cultures/Cenerian.md",
-    "Cultures/Brethiln.md",
+    "Locations/Regions/Far South East.md",
+    "Locations/Seas/Sea of Alvos.md",
+    "Locations/Seas",
+    "Events/Battle of Oathbridge.md",
     "Factions/Cenerian League.md",
     "Factions/First League.md",
     "Locations/Cities/League Cities/Movenna.md",
-    "Events/Battle of Oathbridge.md",
     "Beings/Horrors.md",
     "Locations/Realms/Brethil.md",
     "Locations/Realms/Ceneria.md",
     "Locations/Cities/League Cities/Naporia.md",
-    "Events/Collapse.md",
-    "Events/Crowning of Andros.md",
-    "Locations/Other/Seventh Sanctum.md",
-    "Beings/Lethe.md",
-    "Beings/Wardens.md",
-    "Other/Heavenly Iron.md",
-    "Other/Mist.md",
-    "Locations/Cities/Abandoned Cities/Mycea.md",
-    "Locations/Other/Pyrgos.md",
     "Other",
     "Beings",
-    "Locations/Cities/Conquered Cities/Ostellyth.md",
-    "Locations/Realms/Thalendor.md",
     "Locations/Realms"
   ]
 }

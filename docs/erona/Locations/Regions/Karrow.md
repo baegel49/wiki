@@ -1,0 +1,1 @@
+The Karrow, or Karrowland, is a wasteland east of [[Osera]]. Its wastes give way to dry steppes and mesas, and only a few rivers. The [[Rurii]] called the Karrow their home before many migrated after [[Xeril's Conquests]]. 

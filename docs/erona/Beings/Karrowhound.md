@@ -1,0 +1,1 @@
+A wolf-horse-like beast that inhabits the [[Karrow]]. The [[Rurii]] tame these beasts as mounts and as hunting companions. 
