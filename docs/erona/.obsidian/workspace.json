@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cultures/Rurii.md",
+                "file": "Cultures/Thalen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rurii"
+              "title": "Thalen"
             }
           }
         ]
@@ -184,6 +184,7 @@
   },
   "active": "dc530e939ce8652b",
   "lastOpenFiles": [
+    "Cultures/Cenerian.md",
     "Cultures/Thalen.md",
     "Cultures/Rurii.md",
     "Beings/Karrowhound.md",
@@ -199,7 +200,6 @@
     "Locations/Other/Pyrgos.md",
     "Cultures/Ykrittar.md",
     "Cultures/Mycean.md",
-    "Cultures/Cenerian.md",
     "Locations/Regions/Far South East.md",
     "Locations/Seas/Sea of Alvos.md",
     "Locations/Seas",
