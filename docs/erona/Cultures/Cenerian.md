@@ -8,10 +8,10 @@ Cenerians believe in four primary deities, two of which are considered 'good' an
 The primary deities are further split in two: one 'primeval' deity and one 'human' deity, representing the grander beginnings before humanity and humanity's ascension/fall respectively.
 ##### Deities
 Listed in order of 'acceptability of worship' in Cenerian society:
-- Luminor - primeval deity of light, fire, life, and truth, represented by the sun.
-- Pyos - human god of oaths, laws, and civilisation, represented by an eye. 
-- Bel - primeval deity of darkness, water, night, and non-violent death, represented by a fish. 
-- Anzo - human god of war, deception, and violent death, represented by a dagger.
+- **Luminor** - primeval deity of light, fire, life, and truth, represented by the sun.
+- **Pyos** - human god of oaths, laws, and civilisation, represented by an eye. 
+- **Bel** - primeval deity of darkness, water, night, and non-violent death, represented by a fish. 
+- **Anzo** - human god of war, deception, and violent death, represented by a dagger.
 #### Politics
 Cenerians have strong political foundations. Their society is organised along urban foundations, each city making up its own polity. Though variations exist, most are headed by an 'Archon' and a 'Vizier' who are elected from among the most powerful families who have proven their virtue (done through family records, general social gravitas, leading defences or navies, and through investing funds into public works). These elections can be for life, though this is uncommon. Most Archon-Vizier duos are voted out when they fall out of favour, if they are not assassinated first. 
 
