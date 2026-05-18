@@ -1,0 +1,1 @@
+Last remaining [[Cenerian League]] aligned city on [[Zinnabar]]. 

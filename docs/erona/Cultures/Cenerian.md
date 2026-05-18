@@ -4,12 +4,12 @@ Cenerians are named after the southern region of [[Osera]] initially named by th
 #### Culture
 Cenerians have inhabited much from their Mycean origin. They have continued the urban traditions upon which their initial colonisation efforts rested. They have also continued the seafaring traditions of their ancestors, and every city in their culture is linked by river, coast, or sea routes. 
 #### Beliefs
-Cenerians believe in four primary deities, two of which are considered 'good' and 'bad' respectively. Minor deities exist in all living things according to Cenerians and are referred to as 'daeimons'. 
+Cenerians believe in four primary deities, two of which are considered 'good' and 'bad' respectively. Minor deities, 'Daemons' exist in all living things according to Cenerians and are referred to as '[[Echoes]]' of the soul. 
 The primary deities are further split in two: one 'primeval' deity and one 'human' deity, representing the grander beginnings before humanity and humanity's ascension/fall respectively.
 ##### Deities
 Listed in order of 'acceptability of worship' in Cenerian society:
-- **Luminor** - primeval deity of light, fire, life, and truth, represented by the sun.
-- **Pyos** - human god of oaths, laws, and civilisation, represented by an eye. 
+- **Luminor** - primeval deity of light, fire, life, and truth, represented by the sun. Worshipped by the [[Sect of Illumination]]
+- **Pyos** - human god of oaths, laws, and civilisation, represented by an eye. Worshipped by the [[Sect of Pyos]].
 - **Bel** - primeval deity of darkness, water, night, and non-violent death, represented by a fish. 
 - **Anzo** - human god of war, deception, and violent death, represented by a dagger.
 #### Politics
