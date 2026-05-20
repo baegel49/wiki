@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cultures/Brethiln.md",
+                "file": "Locations/Erona.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brethiln"
+              "title": "Erona"
             }
           }
         ],
@@ -199,6 +199,7 @@
   },
   "active": "5cad06c61f4b7558",
   "lastOpenFiles": [
+    "Cultures/Brethiln.md",
     "Cultures/Cenerian.md",
     "Cultures/Thalen.md",
     "Cultures/Rurii.md",
@@ -224,7 +225,6 @@
     "Events/Battle of Oathbridge.md",
     "Events/Xeril's Conquests.md",
     "Locations/Cities/Abandoned Cities/Oneos.md",
-    "Locations/Cities/Abandoned Cities/Tanura.md",
     "Locations/Seas",
     "Other",
     "Beings",
