@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dc530e939ce8652b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Beings/Echoes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Echoes"
-            }
-          },
-          {
             "id": "204983b5650ca171",
             "type": "leaf",
             "state": {
@@ -34,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Timeline of Events"
             }
+          },
+          {
+            "id": "5cad06c61f4b7558",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cultures/Rurii.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rurii"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,34 +197,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "dc530e939ce8652b",
+  "active": "5cad06c61f4b7558",
   "lastOpenFiles": [
-    "Other/Arcanum.md",
-    "Beings/Echoes.md",
-    "Cultures/Cenerian.md",
-    "Cultures/Brethiln.md",
-    "Beings/Horrors.md",
-    "Factions/Sect of Illumination.md",
+    "Locations/Regions/Karrow.md",
+    "Locations/Cities/League Cities/Enetia.md",
     "Locations/Cities/League Cities/Aspola.md",
-    "Locations/Cities/League Cities/Karsolam.md",
+    "Locations/Cities/Conquered Cities/Thenea Deuteron.md",
+    "Locations/Cities/Conquered Cities/Zeutania.md",
+    "Locations/Cities/Conquered Cities/Saphos.md",
+    "Events/Crowning of Andros.md",
     "Events/Sons' War.md",
-    "Chalric.md",
-    "Events/Timeline of Events.md",
+    "Locations/Cities/League Cities/Asparon.md",
+    "Locations/Cities/League Cities/Mirenna.md",
+    "Events/Voyage of Normund.md",
+    "Locations/Regions/Barrier Islands.md",
+    "Events/Collapse.md",
     "Events/Battle of Oathbridge.md",
+    "Events/Xeril's Conquests.md",
+    "Locations/Cities/Abandoned Cities/Oneos.md",
+    "Locations/Cities/Abandoned Cities/Tanura.md",
+    "Locations/Regions/Gorgos.md",
+    "Events/Timeline of Events.md",
+    "Locations/Cities/Conquered Cities/Essalon.md",
+    "Locations/Cities/Conquered Cities/Koray.md",
+    "Beings/Bana.md",
+    "Beings/Karrowhound.md",
     "Cultures/Thalen.md",
     "Cultures/Rurii.md",
-    "Beings/Karrowhound.md",
-    "Beings/Bana.md",
-    "Beings/Titans.md",
-    "Locations/Regions/Karrow.md",
-    "Locations/Regions/Unsung Lands.md",
-    "Events/Xeril's Conquests.md",
-    "Cultures/Altani.md",
-    "Factions/Sect of Pyos.md",
-    "Locations/Other/Seventh Sanctum.md",
-    "Locations/Other/Pyrgos.md",
-    "Cultures/Ykrittar.md",
-    "Cultures/Mycean.md",
+    "Beings/Echoes.md",
     "Locations/Seas",
     "Other",
     "Beings",

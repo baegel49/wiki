@@ -1,0 +1,1 @@
+A large island off the western coast of [[Osera]] and one of the first to be colonised by the [[Mycean]]s, now a firm part of [[Cenerian]] culture.

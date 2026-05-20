@@ -1,1 +1,1 @@
-Last remaining [[Cenerian League]] aligned city on [[Zinnabar]]. 
+Last remaining [[Cenerian League]] aligned city on [[Zinnabar]], and the first founded there by the [[Mycean]]s. Its inhabitants are nominally [[Cenerian]] but often still refer to themselves as [[Mycean]]. 

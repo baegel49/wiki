@@ -1,0 +1,1 @@
+A chain of islands in the [[Sea of Alvos]], formerly the highest peaks in [[Halcyon]] and spared the deluge during the [[Collapse]]. The 2nd, 3rd, and 4th Sanctums were built here when their sages correctly predicted the [[Collapse]]. Some temples and vaults are rumoured to exist here, too, containing treasures beyond imagining according to folklore. 

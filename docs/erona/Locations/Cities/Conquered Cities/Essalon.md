@@ -1,0 +1,1 @@
+Former [[Cenerian League]] city now controlled by a vassal Archon nominally loyal to [[Thalendor]]. 

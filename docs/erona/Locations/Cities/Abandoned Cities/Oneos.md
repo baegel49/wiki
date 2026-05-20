@@ -1,0 +1,1 @@
+A former [[Cenerian League]] city sacked, looted, and effectively razed to the ground after the [[Voyage of Normund]]. It has now been abandoned by its former [[Cenerian]] population.
