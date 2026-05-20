@@ -1,4 +1,6 @@
 Migrants from the [[Unsung Lands]]. Great horseriders, the Thalen have mastered the lance and stirrup. Thalen were also great fortification builders, having had to fortify themselves against the unnatural threats of their eastern homelands. Their knowledge of castle building was brought with them to [[Osera]], giving them a distinct advantage over the [[Brethiln]] on whose lands they settled as [[Thalendor]]. 
+#### Appearance
+[[Thalen]] are relatively tall and broad-shouldered people. Males wear short-cropped beards (long unkempt ones are considered dirty) but both males and females keep longer hair, often 'done-up' in a bun, hair-do, or braids. Short hair is considered childish, but long, flowing hair as befitting only those who do not perform labour, such as noble women. 
 #### Origin
 The Thalen keep stories of their migrations from the Unsung Lands, a once thriving land that turned foul with rot over time, forcing them west. The Thalen were only one of many cultures living there, but no others have attempted the crossing of the wastes between those lands and Osera.
 #### Culture

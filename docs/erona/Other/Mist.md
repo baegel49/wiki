@@ -1,3 +1,0 @@
-The Mist is a corrupting ether that permeates a lot of the older woods and mountains of [[Osera]] and [[Hesperon]]. It is within the mist that the [[Horrors]] live, and presumably multiply. 
-
-The sages of the [[Seventh Sanctum]] believe that the Mist is either caused by the Horrors, or alternatively that both are produced through some black magic by the [[Lethe]]. Alternatively, some plants may be responsible for producing the Mist, though these would have to be quite rugged since the Mist also hangs low over mountains. Further still, it may be a property of the land itself, as no Mist is known to exist in [[Zinnabar]]. 

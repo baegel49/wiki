@@ -1,4 +1,6 @@
 Cenerians are a proud urban & seafaring culture that traces its lineage back to [[Mycean]] days. Many Cenerian cities are politically allied via the [[Cenerian League]]. 
+#### Appearance
+[[Cenerian]]s are average height people, often having a swarthier appearance than their [[Brethiln]] or [[Thalen]] neighbours, especially those who live on [[Zinnabar]]. Shorter hair is considered virtuous among males, especially the nobility, and females often grow their hair out but are expected to cover it, the covering's fabric revealing their social status. Colourful cloth is highly appreciated, particularly in the shades of the sea. 
 #### Origin
 Cenerians are named after the southern region of [[Osera]] initially named by the Mycean seafaring colonisers. In time, these colonies began to self-identify among themselves and others as Cenerian, a name and people that survived the [[Collapse]]. 
 #### Culture

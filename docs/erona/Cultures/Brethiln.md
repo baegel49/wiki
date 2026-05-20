@@ -1,4 +1,6 @@
 The Brethiln are the original inhabitants of [[Osera]] alongside the [[Ykrittar]]. They are great carpenters and hunters, having made the many woods of the continent their source of wealth and sustenance. 
+#### Appearance
+[[Brethiln]] range from short to tall with great variance. Those living in the hills are shorter, while the [[Brethiln]] of the coast and woods are taller, subsisting of a diet of meat and fish. Their skin is rather pale, though their hair is dark, often turning grey and pure white at earlier ages than other cultures. Their clothing is usually practical. 
 #### Origin
 The Brethiln are believed to be the ancestral inhabitants of Osera. Their own stories and folklore speaks of the World-Father carving the first Brethiln from the trees. 
 #### Culture

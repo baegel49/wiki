@@ -1,0 +1,6 @@
+The [[Anchorites]] are an ascetic group who have mastered the self. They live in isolation, often undertaking pilgrimages of the world to spread the word of the inner self to those who will listen, otherwise spending time alone in caves, huts, and rare 'temples of the self' where they sometimes congregate. Sages of the [[Seventh Sanctum]] are known to have come into contact with [[Anchorites]], who already began appearing in [[Sydon]] during the [[Mycean]] Age. The sages concluded that [[Anchorites]] have highly developed [[Echoes]] and can will them into action, especially when combined with the use of [[Arcanum]]. 
+
+#### Beliefs
+The [[Anchorites]] believe that the highest form of existence is in the self. They acknowledge, however, that wisdom not shared is lost; individual masters will teach aspirants who show particular promise in secluded places. They are known to construct shrines and one or two-person shelters in secluded places, with stone markers to guide the way to those who seek it.
+
+#### 

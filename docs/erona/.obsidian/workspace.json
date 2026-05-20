@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/Timeline of Events.md",
+                "file": "Events/1. Timeline of Events.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Timeline of Events"
+              "title": "1. Timeline of Events"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cultures/Rurii.md",
+                "file": "Cultures/Brethiln.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rurii"
+              "title": "Brethiln"
             }
           }
         ],
@@ -199,6 +199,15 @@
   },
   "active": "5cad06c61f4b7558",
   "lastOpenFiles": [
+    "Cultures/Cenerian.md",
+    "Cultures/Thalen.md",
+    "Cultures/Rurii.md",
+    "Factions/Seventh Sanctum.md",
+    "Factions/Sect of Pyos.md",
+    "Factions/Anchorites.md",
+    "Locations/Cities/Independent Cities/Sydon.md",
+    "Events/1. Timeline of Events.md",
+    "Other/Haze.md",
     "Locations/Regions/Karrow.md",
     "Locations/Cities/League Cities/Enetia.md",
     "Locations/Cities/League Cities/Aspola.md",
@@ -216,15 +225,6 @@
     "Events/Xeril's Conquests.md",
     "Locations/Cities/Abandoned Cities/Oneos.md",
     "Locations/Cities/Abandoned Cities/Tanura.md",
-    "Locations/Regions/Gorgos.md",
-    "Events/Timeline of Events.md",
-    "Locations/Cities/Conquered Cities/Essalon.md",
-    "Locations/Cities/Conquered Cities/Koray.md",
-    "Beings/Bana.md",
-    "Beings/Karrowhound.md",
-    "Cultures/Thalen.md",
-    "Cultures/Rurii.md",
-    "Beings/Echoes.md",
     "Locations/Seas",
     "Other",
     "Beings",
