@@ -1,0 +1,3 @@
+A subset of the [[Cenerian]] culture which has evolved alongside it after the fall of [[Mycea]]. 'Southern' is the (sometimes derogatory) term used by [[Cenerian]]s across the [[Sea of Azuth]] for their southern kin. Southerners usually refer to themselves as [[Cenerian]] and sometimes still as [[Mycean]]. 
+
+Southerners are known for their fanatic reverence of duty and family honour, their hygiene, and their assassins, most famous of which are the [[Sigodo]]. 

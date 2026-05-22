@@ -5,7 +5,7 @@ After the succession crisis of the [[Sons' War]], [[Normund]] became king and co
 #### Campaign
 Normund began his campaign by pre-empting a second succession crisis and sending his topmost rivals to besiege northern [[Cenerian]] cities such as [[Koray]] and [[Enetia]]. [[Koray]] was quickly conquered, but a protracted siege at [[Enetia]] resulted in [[Normund]] sending a second wave towards the south, leaving a minimal force to continue the siege, 
 
-The second wave found success at [[Essalon]] on the island of [[Gorgos]], which was used as a forward base for the remainder of the campaign and continues to be ruled by a [[Thalen]] vassal. [[Normund]] was successfully turned away at [[Asparon]], but sacked [[Halessa]], [[Tanura]], and [[Oneos]], razing the latter two to the ground after weeks of looting. 
+The second wave found success at [[Essalon]] on the island of [[Gorgos]], which was used as a forward base for the remainder of the campaign and continues to be ruled by a [[Thalen]] vassal. [[Normund]] was successfully turned away at [[Asparon]], but sacked [[Varanth]], [[Tanura]], and [[Oneos]], razing the latter two to the ground after weeks of looting. 
 
 Only when [[Normund]]'s armies began threatening [[Movenna]] and [[Pallas]], and when [[Xeril's Conquests]] began in tandem, did the [[Crowning of Andros]] occur and peace negotiations began in earnest. 
 

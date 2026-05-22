@@ -1,1 +1,1 @@
-Formerly known as Qorai, Koray was sacked during the [[Voyage of Normund]] and left to [[Brethiln]] of [[Mirenia]] to inhabit. Most of its [[Cenerian]] colonists fled or began accommodating their new [[Brethiln]] overlords.
+Formerly known as Qorai, [[Koray]] was looted during the [[Voyage of Normund]] and left to [[Brethiln]] of [[Mirenia]] to inhabit. Most of its [[Cenerian]] colonists fled or began accommodating their new [[Brethiln]] overlords.

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cultures/Southern.md",
+                "file": "Locations/Cities/Conquered Cities/Koray.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Southern"
+              "title": "Koray"
             }
           }
         ],
@@ -127,11 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Locations/Cities/Conquered Cities/Koray.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Koray"
             }
           },
           {
@@ -179,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,10 +198,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "1f28251a9fb58d35",
+  "active": "5cad06c61f4b7558",
   "lastOpenFiles": [
     "Cultures/Cenerian.md",
+    "Factions/Sigodo.md",
+    "Beings/Dramatis Personae/Normund.md",
+    "Beings/Dramatis Personae/Andros.md",
+    "Beings/Dramatis Personae/Xeril.md",
+    "Events/War of Recovery.md",
+    "Beings/Dramatis Personae/Alvos.md",
+    "Factions/Cenerian League.md",
+    "Events/Crowning of Andros.md",
+    "Beings/Dramatis Personae",
+    "Locations/Cities/League Cities/Varanth.md",
     "Cultures/Southern.md",
+    "Locations/Seas/Sea of Azuth.md",
     "Cultures/Brethiln.md",
     "Cultures/Thalen.md",
     "Factions/Anchorites.md",
@@ -213,19 +225,9 @@
     "Beings/Deities/Bel.md",
     "Beings/Deities/Anzo.md",
     "Beings/Deities/Pyos.md",
-    "Factions/Cenerian League.md",
     "Factions/Sect of Pyos.md",
     "**Luminor**.md",
-    "Factions/Sect of Illumination.md",
     "Beings/Deities",
-    "Events/Collapse.md",
-    "Locations/Cities/League Cities/Myrdenia.md",
-    "Locations/Cities/Abandoned Cities/Thenea Deuteron.md",
-    "Locations/Cities/League Cities/Iphora.md",
-    "Locations/Cities/League Cities/Mara-Halyon.md",
-    "Locations/Cities/League Cities/Halessa.md",
-    "Events/Voyage of Normund.md",
-    "Locations/Cities/Abandoned Cities/Oneos.md",
     "Locations/Seas",
     "Other",
     "Beings",

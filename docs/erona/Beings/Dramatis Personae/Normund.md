@@ -1,0 +1,1 @@
+Current king of [[Thalendor]], who made his name with his invasion of [[Ceneria]], known as the [[Voyage of Normund]]. 

@@ -9,6 +9,12 @@ Cenerians are a proud urban & seafaring culture that traces its lineage back to 
 Cenerians are named after the southern region of [[Osera]] initially named by the Mycean seafaring colonisers. In time, these colonies began to self-identify among themselves and others as Cenerian, a name and people that survived the [[Collapse]]. 
 #### Culture
 Cenerians have inhabited much from their Mycean origin. They have continued the urban traditions upon which their initial colonisation efforts rested. They have also continued the seafaring traditions of their ancestors, and every city in their culture is linked by river, coast, or sea routes. 
+
+Cenerians have three cultural norms that were passed down from [[Mycean]] days: 
+
+- **Honour** - personal respect that is commanded by an individual, but also a term used when referring to the value of a hostage or slave. 
+- **Renown** - A post-death equivalent of honour, which is determined by how well one dies. Less important in [[Ceneria]], highly valued by [[Southern]]ers. 
+- **Nemesis** - Anyone committing acts of hubris, shame, or disrespect welcome *nemesis* as a response to their social violations, which in extreme circumstances can mean exile or that one's life is forfeit to whoever chooses to take it, in essence, an outlaw.
 #### Beliefs
 Cenerians believe in four primary deities, two of which are considered 'good' and 'bad' respectively. Minor deities, 'Daemons' exist in all living things according to Cenerians and are referred to as '[[Echoes]]' of the soul. 
 The primary deities are further split in two: one 'primeval' deity and one 'human' deity, representing the grander beginnings before humanity and humanity's ascension/fall respectively.

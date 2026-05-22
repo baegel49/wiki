@@ -1,4 +1,4 @@
-A present-day incarnation of the [[First League]], albeit at a reduced scale due to the [[Collapse]]. 
+A present-day incarnation of the [[First League]], albeit at a reduced scale due to the [[Collapse]]. It is sometimes called the 'Second League'. 
 
 Current members include:
 
@@ -6,7 +6,7 @@ Current members include:
 2. [[Enetia]]
 3. [[Lynara]]
 4. [[Asparon]]
-5. [[Halessa]]
+5. [[Varanth]]
 6. [[Naporia]]
 7. [[Myrdenia]]
 8. [[Seleia]]
@@ -21,5 +21,5 @@ Former cities:
 2. [[Sydon]]
 3. [[Thenea Epeson]]
 4. [[Thenea Deuteron]]
-5. [[Karas]]
+5. [[Qaras]]
 6. [[Qalydra]] 
