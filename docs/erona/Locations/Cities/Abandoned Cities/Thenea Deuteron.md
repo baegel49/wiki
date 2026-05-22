@@ -1,0 +1,1 @@
+Former city of the [[Cenerian League]], conquered by the [[Rurii]] during [[Xeril's Conquests]], subsequently becoming their capital until the conquest of [[Zeutana]], where [[Xeril]]'s court eventually moved. The city now lies abandoned.

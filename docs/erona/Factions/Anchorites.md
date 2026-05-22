@@ -2,5 +2,3 @@ The [[Anchorites]] are an ascetic group who have mastered the self. They live in
 
 #### Beliefs
 The [[Anchorites]] believe that the highest form of existence is in the self. They acknowledge, however, that wisdom not shared is lost; individual masters will teach aspirants who show particular promise in secluded places. They are known to construct shrines and one or two-person shelters in secluded places, with stone markers to guide the way to those who seek it.
-
-#### 

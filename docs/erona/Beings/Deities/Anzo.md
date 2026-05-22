@@ -1,0 +1,1 @@
+[[Cenerian]] God (with human origin) of war, deception, and violent death, represented by a dagger. It is taboo to worship [[Anzo]] in [[Cenerian]] culture, though in moments before battle it is common for soldiers to pray to him to kill their enemies.

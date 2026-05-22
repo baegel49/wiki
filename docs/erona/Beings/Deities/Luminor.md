@@ -1,0 +1,1 @@
+Primeval deity of light, fire, life, and truth, represented by the sun. Worshipped by the [[Sect of Illumination]] and is a core part of [[Cenerian]] beliefs.

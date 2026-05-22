@@ -1,0 +1,1 @@
+Primeval deity of darkness, water, night, and non-violent death, represented by a fish. The worship of [[Bel]] is popular among [[Cenerian]] fishermen and sailors, who sacrifice to it out of fear.

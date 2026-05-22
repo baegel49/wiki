@@ -1,1 +1,0 @@
-Former city of the [[Cenerian League]], conquered by the [[Rurii]] during [[Xeril's Conquests]], subsequently becoming their capital until the conquest of [[Zeutania]], where [[Xeril]]'s court eventually moved. 
