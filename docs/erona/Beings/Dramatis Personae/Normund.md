@@ -1,1 +1,1 @@
-Current king of [[Thalendor]], who made his name with his invasion of [[Ceneria]], known as the [[Voyage of Normund]]. 
+[[Normund]] is the son of the great [[Thalen]] king Aldric who led his kindred across the [[Karrow]] from the [[Unsung Lands]] and into contemporary [[Brethil]], now [[Thalendor]]. He is the current king of [[Thalendor]], who made his name with his invasion of [[Ceneria]], known as the [[Voyage of Normund]]. 

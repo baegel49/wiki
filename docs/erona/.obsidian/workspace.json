@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Cities/Conquered Cities/Koray.md",
+                "file": "Other/Haze.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Koray"
+              "title": "Haze"
             }
           }
         ],
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Cities/Conquered Cities/Koray.md",
+                "file": "Other/Haze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Koray"
+              "title": "Outgoing links from Haze"
             }
           },
           {
@@ -200,9 +200,12 @@
   },
   "active": "5cad06c61f4b7558",
   "lastOpenFiles": [
-    "Cultures/Cenerian.md",
     "Factions/Sigodo.md",
+    "Events/Voyage of Normund.md",
     "Beings/Dramatis Personae/Normund.md",
+    "Locations/Cities/Conquered Cities/Ostellyth.md",
+    "Locations/Cities/Conquered Cities/Koray.md",
+    "Cultures/Cenerian.md",
     "Beings/Dramatis Personae/Andros.md",
     "Beings/Dramatis Personae/Xeril.md",
     "Events/War of Recovery.md",
@@ -224,9 +227,6 @@
     "Beings/Deities/Luminor.md",
     "Beings/Deities/Bel.md",
     "Beings/Deities/Anzo.md",
-    "Beings/Deities/Pyos.md",
-    "Factions/Sect of Pyos.md",
-    "**Luminor**.md",
     "Beings/Deities",
     "Locations/Seas",
     "Other",

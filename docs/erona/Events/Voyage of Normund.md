@@ -1,6 +1,8 @@
-[[Normund]] was the son of the great [[Thalen]] king Aldric who led his kindred across the [[Karrow]] from the [[Unsung Lands]] and into contemporary [[Brethil]], now [[Thalendor]]. 
+[[Normund]] is the son of the great [[Thalen]] king Aldric who led his kindred across the [[Karrow]] from the [[Unsung Lands]] and into contemporary [[Brethil]], now [[Thalendor]]. 
 
 After the succession crisis of the [[Sons' War]], [[Normund]] became king and consolidated his power. After internal challenges to his rule rose again, he used the crisis to launch a campaign against [[Cenerian]] cities, first in the north and eventually into the south. 
+
+The invasions were only possible due to the large [[Cenerian]] fleet left behind during the [[Thalen]] conquest of [[Ostellyth]], but [[Normund]] and his armies surprised all by their quick mastery of the waves. Instead of using [[Cenerian]] ramming tactics, they instead perfect the art of ship-to-ship boarding, using their superior men-at-arms at close quarters, supported by close range crossbow fire. 
 
 #### Campaign
 Normund began his campaign by pre-empting a second succession crisis and sending his topmost rivals to besiege northern [[Cenerian]] cities such as [[Koray]] and [[Enetia]]. [[Koray]] was quickly conquered, but a protracted siege at [[Enetia]] resulted in [[Normund]] sending a second wave towards the south, leaving a minimal force to continue the siege, 
