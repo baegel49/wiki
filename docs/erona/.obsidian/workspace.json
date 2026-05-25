@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Haze.md",
+                "file": "Locations/Regions/The Eye.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Haze"
+              "title": "The Eye"
+            }
+          },
+          {
+            "id": "0af5e529ccfa8091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other/Arcanum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arcanum"
             }
           }
         ],
@@ -127,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other/Haze.md",
+                "file": "Locations/Regions/The Eye.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Haze"
+              "title": "Outgoing links from The Eye"
             }
           },
           {
@@ -200,6 +214,10 @@
   },
   "active": "5cad06c61f4b7558",
   "lastOpenFiles": [
+    "Other/Haze.md",
+    "Locations/Regions/The Eye.md",
+    "Factions/Anchorites.md",
+    "Other/Arcanum.md",
     "Factions/Sigodo.md",
     "Events/Voyage of Normund.md",
     "Beings/Dramatis Personae/Normund.md",
@@ -218,15 +236,11 @@
     "Locations/Seas/Sea of Azuth.md",
     "Cultures/Brethiln.md",
     "Cultures/Thalen.md",
-    "Factions/Anchorites.md",
     "Beings/Deities/Sky-Mother.md",
     "Beings/Deities/World-Father.md",
     "Cultures/Rurii.md",
     "Cultures/Mycean.md",
     "Cultures/Altani.md",
-    "Beings/Deities/Luminor.md",
-    "Beings/Deities/Bel.md",
-    "Beings/Deities/Anzo.md",
     "Beings/Deities",
     "Locations/Seas",
     "Other",

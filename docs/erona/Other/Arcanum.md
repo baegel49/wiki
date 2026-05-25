@@ -1,4 +1,7 @@
-The written language of the [[Mycean]] and [[Cenerian]] peoples, often equated with magic due to its possibility in awakening the powers of [[Echoes]]. Arcanum can, under the right conditions, uphold reality, impose a new reality, and sometimes even re-write the fabric of reality altogether. Arcanum's power has five stages:
+The written language of the [[Mycean]] and [[Cenerian]] peoples, often equated with magic due to its possibility in awakening the powers of [[Echoes]]. Arcanum can, under the right conditions, uphold reality, impose a new reality, and sometimes even re-write the fabric of reality altogether. 
+
+Arcanum's power has five stages:
+
 - **Recording the already-true.** Ledger of grain that's in the granary. Deed for land held by the named party. Merchant stock.
 - **Witnessing the agreed.** A contract both parties consented to. A judgment where facts aren't in dispute. 
 - **Imposing the disputed.** A binding on someone who doesn't consent but is named. A judgment cast over the protests of the accused. 
