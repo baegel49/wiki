@@ -27,30 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Regions/The Eye.md",
+                "file": "Other/A Typical Day in Ceneria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Eye"
+              "title": "A Typical Day in Ceneria"
             }
           },
           {
-            "id": "0af5e529ccfa8091",
+            "id": "b99b56ba309f792a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Arcanum.md",
+                "file": "Locations/Cities/Conquered Cities/Koray.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arcanum"
+              "title": "Koray"
+            }
+          },
+          {
+            "id": "9f04b7e3761d900e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cultures/Cenerian.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cenerian"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,17 +198,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Regions/Far South East.md",
+                "file": "Other/A Typical Day in Ceneria.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Far South East"
+              "title": "Outline of A Typical Day in Ceneria"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -212,8 +226,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "5cad06c61f4b7558",
+  "active": "b99b56ba309f792a",
   "lastOpenFiles": [
+    "Locations/Cities/Conquered Cities/Essalon.md",
+    "Other/Cultural Matrices.md",
+    "Other/A Typical Day in Ceneria.md",
+    "Factions/Trading Fellowship.md",
+    "Cultures/Cenerian.md",
     "Other/Haze.md",
     "Locations/Regions/The Eye.md",
     "Factions/Anchorites.md",
@@ -223,7 +242,6 @@
     "Beings/Dramatis Personae/Normund.md",
     "Locations/Cities/Conquered Cities/Ostellyth.md",
     "Locations/Cities/Conquered Cities/Koray.md",
-    "Cultures/Cenerian.md",
     "Beings/Dramatis Personae/Andros.md",
     "Beings/Dramatis Personae/Xeril.md",
     "Events/War of Recovery.md",
@@ -237,10 +255,6 @@
     "Cultures/Brethiln.md",
     "Cultures/Thalen.md",
     "Beings/Deities/Sky-Mother.md",
-    "Beings/Deities/World-Father.md",
-    "Cultures/Rurii.md",
-    "Cultures/Mycean.md",
-    "Cultures/Altani.md",
     "Beings/Deities",
     "Locations/Seas",
     "Other",
