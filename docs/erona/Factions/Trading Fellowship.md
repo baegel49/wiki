@@ -1,0 +1,5 @@
+Trading Fellowships are prominent throughout the [[Cenerian League]] as merchant unions that use collective bargaining as a tool against the powerful nobles that seek to restrict their wealth and power. To [[Cenerian]] society, merchants are a vital but looked-down-upon class, considered greedy, two-faced, and without honour. 
+
+Trading Fellowships are unique to each city, but they keep a loose overall connection with one another. A trader from, say, [[Aspola]], will find lodging and contacts in the Trading Fellowship of [[Essalon]] despite not being a local member. 
+
+The Trading Fellowships also act as a kind of bank, issuing letters of credit instead of sending valuable currency wherever possible. These are usually only accepted between merchants trading with one another, but some artisans and nobles also make use of them. 

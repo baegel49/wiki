@@ -1,0 +1,1 @@
+The [[Pale Maiden]] is a prophetess 
