@@ -1,4 +1,4 @@
-The [[Haze]] is a corrupting ether that permeates many woods and mountain ranges of [[Osera]] and [[Hesperon]]. It is within the [[Haze]] that the [[Horrors]] live, and presumably multiply.
+The [[Haze]] is a corrupting ether that permeates many woods and mountain ranges of [[Osera]] and [[Hespenor]]. It is within the [[Haze]] that the [[Horrors]] live, and presumably multiply.
 
 #### Origin
 The sages of the [[Seventh Sanctum]] believe that the [[Haze]] is either caused by the Horrors, or alternatively that both are produced through some black magic by the [[Lethe]]. Alternatively, some plants may be responsible for producing the [[Haze]], though these would have to be quite rugged since the [[Haze]] also hangs low over mountains. Further still, it may be a property of the land itself, as no [[Haze]] is known to exist in [[Zinnabar]]. Lastly, the abundance of [[Haze]] on [[The Eye]] suggests it is perhaps related to falling stars or other calamities which occurred during the [[Collapse]]. For the [[Sect of Illumination]], it is [[Bel]] made incarnate. 

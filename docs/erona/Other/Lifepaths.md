@@ -7,5 +7,5 @@
 | 4   | [[Lethe]]    | [[Zinnabar]]            | Runaway slave/thrall/serf (any) |
 | 5   | [[Southern]] | [[Brethil]]             | Outcast/Outlaw (any)            |
 | 6   | [[Thalen]]   | [[Thalendor]]           | Missionary (pious/sanctum)      |
-| 7   | [[Rurii]]    | [[Hesperon]]            | Ex-mercenary/soldier (any)      |
+| 7   | [[Rurii]]    | [[Hespenor]]            | Ex-mercenary/soldier (any)      |
 | 8   | [[Ykrittar]] | [[Karrow]]              |                                 |

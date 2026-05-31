@@ -1,7 +1,7 @@
 Horrors are many-legged, blind or many-eyed creatures that live in the [[Haze]]. Their white, leathery skin acts as near-perfect camouflage within the misty conditions that they inhabit, though should they find themselves outside of their preferred environment they are easily spotted. 
 
 #### Origin
-It is unknown where exactly horrors originate. Their appearance on both [[Osera]] and [[Hesperon]] suggests that they likely existed on [[Halcyon]] before it was torn in twain. Their as-of-yet unrecorded presence on [[Zinnabar]] further suggests that they are a phenomenon restricted by geography. 
+It is unknown where exactly horrors originate. Their appearance on both [[Osera]] and [[Hespenor]] suggests that they likely existed on [[Halcyon]] before it was torn in twain. Their as-of-yet unrecorded presence on [[Zinnabar]] further suggests that they are a phenomenon restricted by geography. 
 
 #### Biology
 The sages of the [[Seventh Sanctum]] have studied horrors for centuries but have very little to show for it: 

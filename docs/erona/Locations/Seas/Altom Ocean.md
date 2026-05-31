@@ -1,3 +1,3 @@
-The [[Altom Ocean]] lies between the respective southern and western tips of [[Hesperon]] and [[Zinnabar]]. It is a vast ocean that has never been explored by [[Mycean]]s or [[Cenerian]]s, their ships (built for the calm, northern seas) toppling too easily in the high waves. 
+The [[Altom Ocean]] lies between the respective southern and western tips of [[Hespenor]] and [[Zinnabar]]. It is a vast ocean that has never been explored by [[Mycean]]s or [[Cenerian]]s, their ships (built for the calm, northern seas) toppling too easily in the high waves. 
 
 The [[Pillars of Bel]] are said to be found if one dares go far enough, but few have seen them, and even fewer have returned. 

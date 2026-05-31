@@ -1,3 +1,5 @@
+![](https://i.pinimg.com/1200x/f6/31/68/f63168f89d88e0319622f3064d7815c9.jpg)
+
 Cenerians are a proud urban & seafaring culture that traces its lineage back to [[Mycean]] days. Many Cenerian cities are politically allied via the [[Cenerian League]], including some on [[Zinnabar]], which has a closely aligned but somewhat distinct culture colloquially known as [[Southern]].
 
 **Male Names:** Acarion, Achios, Acton, Altenos, Amnon, Andros, Arion, Castor, Crotor, Danos, Denos, Destor, Darion, Encurion, Galon, Gavalon, Hecaron, Lacalion, Leosios, Lucon, Lycon, Lycos, Manteos, Menon, Milos, Nemos, Nethor, Nicasor, Obron, Ocheros, Oros, Pelicos, Pharon, Poryclos, Rhanos, Sachanion, Semnon, Serandon, Sovos, Syneos, Taros, Tasynor, Temion, Varios, Velanon, Zenon
@@ -24,7 +26,7 @@ Listed in order of 'acceptability of worship' in Cenerian society:
 - **[[Luminor]]** - primeval deity of light, fire, life, and truth, represented by the sun. Worshipped by the [[Sect of Illumination]]
 - **[[Pyos]]** - human god of oaths, laws, and civilisation, represented by an eye. Worshipped by the [[Sect of Pyos]].
 - **[[Bel]]** - primeval deity of darkness, water, night, and non-violent death, represented by a fish. 
-- **[[Anzo]]** - human god of war, deception, and violent death, represented by a dagger.
+- **[[Anzo]]** - human god of war, deception, and violent death, represented by a dagger. The [[Sigodo]] infamously worship [[Anzo]] outrightly.
 #### Politics
 Cenerians have strong political foundations. Their society is organised along urban foundations, each city making up its own polity. Though variations exist, most are headed by an 'Archon' and a 'Vizier' who are elected from among the most powerful families who have proven their virtue (done through family records, general social gravitas, leading defences or navies, and through investing funds into public works). These elections can be for life, though this is uncommon. Most Archon-Vizier duos are voted out when they fall out of favour, if they are not assassinated first. 
 

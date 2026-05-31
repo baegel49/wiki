@@ -1,3 +1,4 @@
+![](https://i.pinimg.com/1200x/af/66/3d/af663dd3e40e763bdcde51861c814716.jpg)
 Migrants from the [[Unsung Lands]]. Great horseriders, the Thalen have mastered the lance and stirrup. Thalen were also great fortification builders, having had to fortify themselves against the unnatural threats of their eastern homelands. Their knowledge of castle building was brought with them to [[Osera]], giving them a distinct advantage over the [[Brethiln]] on whose lands they settled as [[Thalendor]]. 
 
 **Male Names:** Alay, Alaren, Athegar, Amalric, Anbard, Baldulf, Borvald, Brunn, Chalric, Cunbert, Dalard, Durold, Ecard, Erdurand, Folc, Funbard, Galrec, Galthard, Gilvard, Gunteric, Hecard, Harobert, Inric, Lomarc, Lorgand, Merovic, Norbund, Olither, Osric, Perin, Romund, Rothard, Servic, Sigard, Sorgar, Thalric, Thalvin, Tharerd, Theodric, Ulvard, Varmund, Vigother

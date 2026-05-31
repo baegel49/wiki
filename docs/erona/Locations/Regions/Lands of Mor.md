@@ -1,0 +1,3 @@
+The [[Lands of Mor]] is the region that surrounds [[Karsolam]] in [[Hespenor]] and is named after the death deity of [[Mor]]. It is allegedly the location of the gates to the [[Underworld]]. 
+
+The [[Lands of Mor]] are extremely dangerous, known for their rich presence of [[Haze]] and thus [[Horrors]]. Volcanic activity and earthquakes are also common, splitting the grey landscape apart with ravines, canyons, and occasional rivers of magma.
