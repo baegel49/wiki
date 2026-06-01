@@ -1,0 +1,1 @@
+A type of magic often associated with the [[Sect of Illumination]], who are famous for perfecting it. [[Phasonomy]] is the oldest magical tradition in the [[Mycean]] culture and its [[Cenerian]] offspring. Nevertheless, it is not as old as [[Geomancery]], which is known to have existed at least since the time of the [[Titans]]. 

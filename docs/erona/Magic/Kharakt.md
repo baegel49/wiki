@@ -1,0 +1,1 @@
+[[Kharakt]] is the best [[Cenerian]] translation for the [[Anchorites]]' word for their ritualistic scarring that they use to compel their [[Echoes]] to perform magic. By using scarring (and sometimes tattoos), the [[Anchorites]] can perform supernatural feats with their bodies. The body is, however, a limited canvas, and can only hold so many inscriptions. 

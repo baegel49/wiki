@@ -1,0 +1,1 @@
+The oldest type of magic available, [[Geomancery]] uses natural materials such as the earth, wood, and stone as foundation for its magic. Using these materials, a Geomancer can produce spells by carving the right shapes into them. 

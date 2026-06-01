@@ -4,6 +4,8 @@ After the succession crisis of the [[Sons' War]], [[Normund]] became king and co
 
 The invasions were only possible due to the large [[Cenerian]] fleet left behind during the [[Thalen]] conquest of [[Ostellyth]], but [[Normund]] and his armies surprised all by their quick mastery of the waves. Instead of using [[Cenerian]] ramming tactics, they instead perfect the art of ship-to-ship boarding, using their superior men-at-arms at close quarters, supported by close range crossbow fire. 
 
+![](https://i.pinimg.com/1200x/df/eb/02/dfeb0268b5293d8b851692088a35f5b9.jpg)
+
 #### Campaign
 Normund began his campaign by pre-empting a second succession crisis and sending his topmost rivals to besiege northern [[Cenerian]] cities such as [[Koray]] and [[Enetia]]. [[Koray]] was quickly conquered, but a protracted siege at [[Enetia]] resulted in [[Normund]] sending a second wave towards the south, leaving a minimal force to continue the siege, 
 

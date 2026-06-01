@@ -1,3 +1,5 @@
+![](https://i.pinimg.com/1200x/cf/4e/2b/cf4e2b93a51d6532d221f64181e2f297.jpg)
+
 The Brethiln are the original inhabitants of [[Osera]] alongside the [[Ykrittar]]. They are great carpenters and hunters, having made the many woods of the continent their source of wealth and sustenance. 
 
 **Male Names:** Arlekh, Belgir, Borun, Bracho, Branoc, Bredan, Cadfin, Col, Crahan, Dermot, Doru, Druli, Fenegan, Gasti, Gawen, Granyd, Lago, Lum, Luichan, Lyd, Merag, Nal, Rath, Rugan, Sein, Udris, Ydwin
@@ -5,12 +7,16 @@ The Brethiln are the original inhabitants of [[Osera]] alongside the [[Ykrittar]
 **Female Names:** Abeil, Anwyn, Beitrin, Brigis, Cidre, Eilidh, Eira, Gweth, Imulir, Kara, Leadh, Moera, Nia, Norena, Olawyn, Rhia, Selag, Una, Ylen
 #### Appearance
 [[Brethiln]] range from short to tall with great variance. Those living in the hills are shorter, while the [[Brethiln]] of the coast and woods are taller, subsisting of a diet of meat and fish. Their skin is rather pale, though their hair is dark, often turning grey and pure white at earlier ages than other cultures. Their clothing is usually practical. 
+
+![](https://i.pinimg.com/1200x/91/7c/97/917c979f85b2435aa886fe0ae7e66a54.jpg)
 #### Origin
 The Brethiln are believed to be the ancestral inhabitants of Osera. Their own stories and folklore speaks of the World-Father carving the first Brethiln from the trees. 
 #### Culture
 Brethiln are pastoralists with some limited agriculture, mostly dedicated to the eventual production of alcohol. They are a gregarious people, holding many feasts (especially after a bountiful hunt) that are celebrated with the wider village or town. Brethiln do not have cities as such, and the largest equivalent are fortress towns home to some hundreds of people but no more. 
 #### Beliefs
 The Brethiln believe in '[[World-Father]]' as a primary deity, attributing all life and existence to him. The Brethiln believe that he made all beings, and that he will judge them collectively in the end-times. Some Brethiln believe the [[Collapse]] were those end-times, and that any who survived are now doomed to wander the world, even after death. In their view, the World-Father judged the Brethiln poorly, and their recent setbacks as a people to the [[Thalen]] conquests is proof of this.
+
+![](https://i.pinimg.com/736x/dc/a4/5a/dca45ad2935433f3830f8348eff5fde5.jpg)
 #### Politics
 The Brethiln operate as a decentralised clan system across many hearths and larger villages. Each household has a sworn fealty to a hearth, and each hearth has fealty to a clan. The clans in turn elect their most senior chieftains who form the Moot (alongside the Druids), which in turn can elect a Great Chieftain. During the Thalen invasion, the Great Chieftain [[Rogan]] was elected, who promised to turn the fortunes of the Brethiln people. He died at the [[Battle of Oathbridge]].
 

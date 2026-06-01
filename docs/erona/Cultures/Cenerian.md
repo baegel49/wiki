@@ -12,6 +12,8 @@ Cenerians are named after the southern region of [[Osera]] initially named by th
 #### Culture
 Cenerians have inhabited much from their Mycean origin. They have continued the urban traditions upon which their initial colonisation efforts rested. They have also continued the seafaring traditions of their ancestors, and every city in their culture is linked by river, coast, or sea routes. 
 
+![](https://i.pinimg.com/1200x/00/3b/87/003b8783ffc8586e6f384354ef58f053.jpg)
+
 Cenerians have three cultural norms that were passed down from [[Mycean]] days: 
 
 - **Honour** - personal respect that is commanded by an individual, but also a term used when referring to the value of a hostage or slave. 
@@ -27,6 +29,8 @@ Listed in order of 'acceptability of worship' in Cenerian society:
 - **[[Pyos]]** - human god of oaths, laws, and civilisation, represented by an eye. Worshipped by the [[Sect of Pyos]].
 - **[[Bel]]** - primeval deity of darkness, water, night, and non-violent death, represented by a fish. 
 - **[[Anzo]]** - human god of war, deception, and violent death, represented by a dagger. The [[Sigodo]] infamously worship [[Anzo]] outrightly.
+
+![](https://i.redd.it/rurvtjw2lgn41.png)
 #### Politics
 Cenerians have strong political foundations. Their society is organised along urban foundations, each city making up its own polity. Though variations exist, most are headed by an 'Archon' and a 'Vizier' who are elected from among the most powerful families who have proven their virtue (done through family records, general social gravitas, leading defences or navies, and through investing funds into public works). These elections can be for life, though this is uncommon. Most Archon-Vizier duos are voted out when they fall out of favour, if they are not assassinated first. 
 
