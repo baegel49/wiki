@@ -1,1 +1,1 @@
-A refuge for sages, mages, and scholars on a small island chain near [[Pyrgos]]. 
+A refuge for sages, mages, and scholars on a small island chain near [[Pyrgoa]]. 

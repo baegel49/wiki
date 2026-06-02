@@ -1,0 +1,1 @@
+An island off the southern coast of [[Ceneria]] and home to the city of [[Myrdenia]]. Known for its extensive salt deposits and mines. 

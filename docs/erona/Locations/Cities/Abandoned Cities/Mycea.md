@@ -1,1 +1,3 @@
-The now-lost capital of the [[Mycean]] people. Its exact location is unknown, though all sages agree that it lies in the deepest parts of the [[Sea of Alvos]]. 
+Tragic Mycea, lost to the waters of the [[Collapse]]! Our scrolls tell of golden towers and domes that lined your roofs, and ever was Luminor's favour upon you. First of the [[First League]], last to fall. 
+#### Meta
+The now-lost capital of the [[Mycean]] people, located on the former continent of [[Halcyon]]. Its exact location is unknown, though all sages agree that it lies in the deepest parts of the [[Sea of Alvos]]. 

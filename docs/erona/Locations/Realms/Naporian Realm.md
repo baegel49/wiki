@@ -1,0 +1,1 @@
+A relatively large and prosperous realm controlled by [[Naporia]], lying mostly within the [[Valley of Plenty]] and on the southern [[Cenerian Peaks]].

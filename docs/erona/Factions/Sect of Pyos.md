@@ -1,4 +1,4 @@
-The Sect of Pyos is a henotheistic cult, believing in the god [[Pyos]] above all other gods but acknowledging that they exist. They are often referred to as Pyosians. The sect's patriarch and main temple are based in [[Movenna]]. Some more extreme cliques of the sect believe that all other deities are false, and that only [[Pyos]] exists.
+The [[Sect of Pyos ]]is a henotheistic cult, believing in the god [[Pyos]] above all other gods but begrudgingly acknowledging that they nevertheless exist. Some more extreme cliques of the sect believe that all other deities are false, and that only [[Pyos]] exists. The sect's patriarch and main temple are based in [[Movenna]]. They are often referred to as Pyosians.
 
 #### Beliefs
 The Pyosians believe in law, order, and oaths above all else, without which (they argue) the world would fall into further collapse. They blame the [[Collapse]] on the devolution of law and order in the [[First League]].

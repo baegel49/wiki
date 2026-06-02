@@ -1,1 +1,1 @@
-An ancient alliance of over 2,000 cities prior to the [[Collapse]].
+An ancient alliance of over 200 cities prior to the [[Collapse]] led by the now-lost city of [[Mycea]]. 

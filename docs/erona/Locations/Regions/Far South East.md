@@ -1,1 +1,3 @@
-A relatively unknown region whose merchants and pirates only sometimes visit [[Sydon]].
+A relatively unknown region whose merchants and pirates sometimes visit [[Sydon]], which has become a port of convenience. Some of these have struck out further from the [[Sydonese Archipelago]] and have even clashed with [[Rurii]] and [[Cenerian]] ships. 
+
+Not much is known about the mysterious [[Far South East]], sometimes called ... All that is known is learned from their merchants and pirates who are known to tell tall tales. Nevertheless, some basic facts have been constructed by the [[Seventh Sanctum|Sanctum]], mainly that an offshoot of the [[Rurii]] has been terrorising those realms as well, though with less success than [[Xeril's Conquests]]. We also know that 

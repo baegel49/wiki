@@ -1,0 +1,1 @@
+The labyrinthine expanse of islands that must be navigate to reach [[Sydon]]. 

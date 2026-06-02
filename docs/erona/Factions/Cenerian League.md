@@ -14,6 +14,8 @@ Current members include:
 10. [[Movenna]]
 11. [[Aspola]]
 12. [[Mara-Halyon]]
+13. [[Karsolam]]
+14. [[Pylos]]
 
 Former cities: 
 
@@ -21,5 +23,8 @@ Former cities:
 2. [[Sydon]]
 3. [[Thenea Epeson]]
 4. [[Thenea Deuteron]]
-5. [[Qaras]]
-6. [[Qalydra]] 
+5. [[Koray]]
+6. [[Oneos]]
+7. [[Tanura]]
+8. [[Saphos]]
+9. [[Zeutana]]

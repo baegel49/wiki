@@ -1,1 +1,1 @@
-A fortress-city in the south-east of [[Ceneria]], known for resisting [[Xeril's Conquests]]. 
+A fortress-city in the south-east of [[Ceneria]], and a member of the [[Cenerian League]]. Known for resisting [[Xeril's Conquests]] and controlling the relatively prosperous [[Naporian Realm]].

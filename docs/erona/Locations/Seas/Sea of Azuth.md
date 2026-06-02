@@ -1,1 +1,1 @@
-The sea that divides [[Osera]] from [[Zinnabar]]. The islands of [[Pyrgos]] and [[Gorgos]] lie within it. It is named after the infamous founder of the Sixth Sanctum before it was destroyed and subsequently moved to its current iteration at the [[Seventh Sanctum]]. 
+The sea that divides [[Osera]] from [[Zinnabar]]. The islands of [[Pyrgoa]] and [[Gorgos]] lie within it. It is named after the infamous founder of the Sixth Sanctum before it was destroyed and subsequently moved to its current iteration at the [[Seventh Sanctum]]. 

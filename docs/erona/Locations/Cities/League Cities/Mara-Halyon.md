@@ -1,0 +1,1 @@
+A member of the [[Cenerian League]]. Known for its nearby [[Sigodo]] fortress monastery.

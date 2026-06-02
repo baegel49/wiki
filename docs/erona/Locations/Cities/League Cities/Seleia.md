@@ -1,0 +1,1 @@
+A member of the [[Cenerian League]] and located on the island of [[Pyrgoa]].
