@@ -1,1 +1,1 @@
-A yak-like creature often used by the [[Rurii]] as a beast of burden.
+A yak-like creature often used by the [[Rurii]] as a beast of burden. It lives on hills and mountains in the [[Karrow]] and eastern [[Osera]]. 

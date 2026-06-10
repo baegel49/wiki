@@ -1,1 +1,3 @@
-Primeval deity of darkness, water, night, and non-violent death, represented by a fish. The worship of [[Bel]] is popular among [[Cenerian]] fishermen and sailors, who sacrifice to it out of fear.
+Primeval deity of darkness, water, night, and non-violent death, represented by a fish. The worship of [[Bel]] is popular among [[Cenerian]] fishermen and sailors, who sacrifice to it out of fear. 
+
+Bel is said to rule the [[Underworld]], which is often thought of as underneath the ocean in [[Mycean]] mythology. His rule is connected to it via the [[Pillars of Bel]], which are said to be the direct path between the [[Heavens]], the [[Erona|mortal world]] and the [[Underworld]]. 

@@ -1,0 +1,1 @@
+The 'dark' aspect of [[Luminor]], ever since the [[Collapse]], Melos is no longer worshipped. Some [[Mycean]] cults of his were known to have existed, however. They said that [[Melos]] was the dark side of the sun, never seen, but just as powerful. 

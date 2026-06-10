@@ -1,0 +1,1 @@
+The Archmage founder of the [[Seventh Sanctum]] and namesake of the [[Sea of Azuth]]. Azuth was one of the few fifth degree [[Arcanum]] wielders who did not appreciably go insane. He was known to have lived a long life, longer than most. He died in an expedition to the [[Barrier Islands]]. 

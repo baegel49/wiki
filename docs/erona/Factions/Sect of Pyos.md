@@ -6,3 +6,6 @@ The Sect refers to its members as the 'Sworn' after they have taken and signed a
 
 #### Role 
 The Sect is known for its exceptional scribes, who craft texts in [[Arcanum]] at various levels of binding. Their interpretation of the law is more or less followed throughout the realms, particularly in [[Ceneria]] and [[Thalendor]]. [[Thalendor]] especially keeps a close eye that its constituents follow this code. Knights of [[Thalendor]] who wish to serve the king need to be sworn members of the [[Sect of Pyos]], taking the title of Paladin. 
+
+#### Hierarchy
+The Pyosian Sect is divided into a strict hierarchy of unsworn and sworn, the latter of which can be considered for priesthood, the former only for scribal duty. After attaining priesthood, 

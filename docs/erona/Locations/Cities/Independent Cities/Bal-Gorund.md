@@ -1,0 +1,3 @@
+A city under the mountain, [[Bal-Gorund]] is the last refuge of the [[Manlings]], who have made it their impregnable fortress. No outsiders are allowed in or out, under penalty of death. 
+
+[[Bal-Gorund]] is located in the highest peak of the [[Akkron Wall]] and is known for its labyrinthine tunnels and cave systems. Those who have never been speak of grand underground halls, those who claim to have escaped it speak only of cramped and dark tunnels. 

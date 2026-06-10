@@ -2,3 +2,6 @@ The [[Anchorites]] are an ascetic group who have mastered the self. They live in
 
 #### Beliefs
 The [[Anchorites]] believe that the highest form of existence is in the self. They acknowledge, however, that wisdom not shared is lost; individual masters will teach aspirants who show particular promise in secluded places. They are known to construct shrines and one or two-person shelters in secluded places, with stone markers to guide the way to those who seek it.
+
+#### Kharakt
+[[Anchorites]] use a system of scarring and tattooing known as '[[Kharakt]]'. It is through this system, or at least partially so, that they achieve greater-than-life abilities. Through this skin modification, their body becomes akin to a wizard's scroll, albeit the changes are often permanent. Common modifications include scripts such as 'skin of iron', 'reflexes of the fly', 'speed of the [[Rykes|Ryke]]', and so on. 

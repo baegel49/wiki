@@ -1,1 +1,3 @@
-Mythological beings rumoured to be the creators of the bridges that connect much of [[Osera]]n islands and peninsulas. Scholars of the [[Seventh Sanctum]] have theorised that the Titans, if they existed, were likely afraid of water or had no ability to swim or fashion boats. The [[Rurii]] have an oral history which claims that they are the descendants of runaway slaves of these Titans.
+Mythological beings rumoured to be the creators of the bridges that connect much of [[Osera]]n islands and peninsulas. Scholars of the [[Seventh Sanctum]] have theorised that the Titans, if they existed, were likely afraid of water or had no ability to swim or fashion boats. 
+
+The [[Rurii]] have an oral history which claims that they are the descendants of runaway slaves of these Titans. In their stories, the Titans lived on top of the mountains that dot Osera.

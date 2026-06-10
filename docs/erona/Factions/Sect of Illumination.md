@@ -10,6 +10,7 @@ Unlike the [[Sect of Pyos]], the [[Sect of Illumination]] has no official role i
 
 #### Organisation
 The [[Sect of Illumination]] is divided into chapters in major cities but has very little hierachy beyond recognising seniority and particular devotion. Much of the sect is grass-roots: every village and town usually has a holy man dedicated to interpreting the signs of [[Luminor]] for the sake of weather and harvests. These and their chapterhouse compatriots in the city are often known as '*wakers*' for their custom of attending dawn and subsequently waking their community through throat-singing amplified via bodies of water or horns. Some are also specialised as '*seers*' who claim to be able to divine the future from fire, which is considered [[Luminor]]'s presence made manifest.
+Beyond this are the twelves 'Flames', each of them considered a high priest unto their own. The Flames each run an important temple dedicated to an aspect of Luminor, usually based in a [[Cenerian]] city.
 
 #### Magic
 Unlike the [[Sect of Pyos]], the [[Sect of Illumination]] despises [[Arcanum]] (which was developed long after sun-worship began in [[Mycea]], making the sect distrustful of it). Instead, the *seers* are known to be able to divine possible futures contained within fire, and some clerics cut a substance known as '*Sun crystal*' into shapes that can perform miraculous things, such as storing light and even focusing that light into powerful rays.
