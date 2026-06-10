@@ -1,0 +1,1 @@
+[[Linovia]] is one of three remaining [[Brethiln]] realms in northern [[Osera]], the other two being [[Mirenia]] and [[Velwynne]]. Its capital is [[Linov]].

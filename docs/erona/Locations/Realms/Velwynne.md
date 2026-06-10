@@ -1,0 +1,1 @@
+[[Velwynne]] is one of three remaining [[Brethiln]] realms in northern [[Osera]], the other two being [[Mirenia]] and [[Linovia]]. Its capital is [[Vorne]].

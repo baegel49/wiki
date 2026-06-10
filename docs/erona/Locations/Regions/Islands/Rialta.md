@@ -1,0 +1,1 @@
+An island off the coast of [[Thalendor]], though traditionally associated with the [[Ceneria]]n realm. It is the location of [[Enetia]], one of the leading cities of the [[Cenerian League]]. 

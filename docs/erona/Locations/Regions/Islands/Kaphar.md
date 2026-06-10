@@ -1,0 +1,1 @@
+An island closely located to western [[Ceneria]], connected to the mainland via one of the bridges believed to have been built by the [[Titans]]. 

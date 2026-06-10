@@ -1,1 +1,3 @@
 A shrinking realm, Brethil used to cover the central and northern portions of [[Osera]], before the conquering [[Thalen]] established the great realm of [[Thalendor]] in the centre of Osera. Brethil is predominantly inhabited by the [[Brethiln]] people, who have, however, slowly been replaced by the Thalen and [[Altani]]. 
+
+Brethil is subdivided into three smaller realms: [[Velwynne]], [[Mirenia]], and [[Linovia]]. 

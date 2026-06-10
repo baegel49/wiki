@@ -1,0 +1,1 @@
+Vorne is the capital of the [[Brethiln]] realm of [[Velwynne]]. It is one of three [[Brethiln]] 'cities', the other two being [[Koray]] and [[Linov]]. 

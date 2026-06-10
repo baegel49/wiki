@@ -1,0 +1,1 @@
+The island of the doomed and abandoned city of [[Thenea Epeson]]. Its sister island, Deinos, is home to the largest active volcano on [[Osera]]. 

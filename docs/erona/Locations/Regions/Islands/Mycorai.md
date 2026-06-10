@@ -1,0 +1,1 @@
+An island off the coast of [[Zinnabar]], with the [[Sea of Azuth]] on its eastern and [[Sea of Alvos]] on its western side, respectively. It is considered part of the wider realm of [[Ceneria]]. The abandoned city of [[Pylos]], which was founded by [[Mycean]] colonists centuries ago, is located here.
