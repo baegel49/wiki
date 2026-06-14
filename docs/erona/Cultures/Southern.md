@@ -1,3 +1,5 @@
 A subset of the [[Cenerian]] culture which has evolved alongside it after the fall of [[Mycea]]. 'Southern' is the (sometimes derogatory) term used by [[Cenerian]]s across the [[Sea of Azuth]] for their southern kin. Southerners usually refer to themselves as [[Cenerian]] and sometimes still as [[Mycean]]. 
 
+It is unclear where the exact cultural fault lines between [[Cenerian]] and [[Southern]] lie exactly. Depending on who is asked, [[Southern]]ers only come from [[Zinnabar]]. Others include islanders in the [[Sea of Azuth]] as part of the wider [[Southern]] sub-culture, particularly because these islanders also often insist on their [[Mycean]] heritage. 
+
 Southerners are known for their fanatic reverence of duty and family honour, their hygiene, and their assassins, most famous of which are the [[Sigodo]]. 

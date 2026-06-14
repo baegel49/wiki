@@ -3,6 +3,7 @@ The southern realm of [[Osera]], inhabited by the [[Cenerian]] people. [[Ceneria
 The Cenerian realms and their associated cities are: 
 
 - [[Valkyros]] - [[Varanth]]
+- [[Lithandor]] - [[Movenna]]
 - 
 
 Islands associated with [[Ceneria]]: 
