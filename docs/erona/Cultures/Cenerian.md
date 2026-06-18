@@ -39,3 +39,15 @@ The cities are linked via the [[Cenerian League]], founded in the aftermath of t
 The exception to this is the far city of [[Karsolam]] which rules itself under different conditions while nominally remaining part of the wider Cenerian world. 
 
 Recently, [[Andros]], Archon of [[Pallas]] has revived the old title of 'Sovereign', an event known as the [[Crowning of Andros]]. 
+
+#### Society
+[[Cenerian]] society is socially fluid among its free citizens, but not its slave caste. A rough outline: 
+
+
+![[cenerian_classes.png]]
+
+- **Seravon** - the ruling elite who own farmland and are called to fight as heavy cavalry. This elite is further divided by offices, such as *Archons*, *Councillors*, and *Kephars* who rule over fortresses, towns, and important villages. 
+- **Citizens** - anyone living within the walls of a city, pays tax, and provides military service.
+- **Freemen** - free villagers, farmers, artisans not living within cities. Same rights as citizens but not allowed to live within the city
+- **Parasts** - military slaves that are exempt from manual labour as long as they fight
+- **Slaves** - hereditary slaves from the first peoples conquered by the [[Mycean]]s
