@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cultures/Cenerian.md",
+                "file": "Other/Mycean powder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cenerian"
+              "title": "Mycean powder"
             }
           }
         ],
@@ -214,11 +214,15 @@
   },
   "active": "98d6e5507451647c",
   "lastOpenFiles": [
-    "cenerian_classes.png",
+    "Events/1. Timeline of Events.md",
+    "Other/Mycean powder.md",
+    "z.Images/cenerian_classes.png",
+    "z.Images",
+    "Overview.md",
+    "Cultures/Cenerian.md",
     "Cultures/Qedhi.md",
     "Locations/Cities/League Cities/Karsolam.md",
     "Locations/Regions/Islands/Valia.md",
-    "Overview.md",
     "Events/Battle of Oathbridge.md",
     "Events/Voyage of Normund.md",
     "Events/Sons' War.md",
@@ -238,8 +242,6 @@
     "Locations/Realms/Morenia.md",
     "Locations/Realms/Lonovia.md",
     "Locations/Cities/Independent Cities/Linov.md",
-    "Locations/Realms/Brethil.md",
-    "Locations/Realms/Ceneria.md",
     "Locations/Regions/Islands",
     "Magic",
     "Beings/Dramatis Personae",

@@ -1,0 +1,1 @@
+[[Mycean powder]] is a combination of rockyellow (sulfur) and nitre, and is also known as "flame powder". 
