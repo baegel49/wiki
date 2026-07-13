@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Mycean powder.md",
+                "file": "Locations/Realms/Thalendor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mycean powder"
+              "title": "Thalendor"
             }
           }
         ],
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b916c6b74458ada7",
@@ -214,19 +215,27 @@
   },
   "active": "98d6e5507451647c",
   "lastOpenFiles": [
+    "Locations/Cities/League Cities/Aspola.md",
+    "Locations/Cities/League Cities/Mara-Halyon.md",
+    "Locations/Cities/League Cities/Movenna.md",
+    "Locations/Cities/League Cities/Asparon.md",
+    "Events/Crowning of Andros.md",
     "Events/1. Timeline of Events.md",
+    "Cultures/Cenerian.md",
+    "Untitled.md",
+    "Other/A Typical Day in Ceneria.md",
+    "Cultures/Rurii.md",
+    "Cultures/Qedhi.md",
+    "Other/Haze.md",
     "Other/Mycean powder.md",
     "z.Images/cenerian_classes.png",
     "z.Images",
     "Overview.md",
-    "Cultures/Cenerian.md",
-    "Cultures/Qedhi.md",
     "Locations/Cities/League Cities/Karsolam.md",
     "Locations/Regions/Islands/Valia.md",
     "Events/Battle of Oathbridge.md",
     "Events/Voyage of Normund.md",
     "Events/Sons' War.md",
-    "Events/Crowning of Andros.md",
     "Events/Collapse.md",
     "Locations/Regions/Islands/Kaphar.md",
     "Beings/Echoes.md",
@@ -234,14 +243,6 @@
     "Cultures/Ykrittar.md",
     "Cultures/Thalen.md",
     "Cultures/Southern.md",
-    "Cultures/Manlings.md",
-    "Beings/Lethe.md",
-    "Beings/Karrowhound.md",
-    "Locations/Regions/Akkron Wall.md",
-    "Factions/Dunwarden.md",
-    "Locations/Realms/Morenia.md",
-    "Locations/Realms/Lonovia.md",
-    "Locations/Cities/Independent Cities/Linov.md",
     "Locations/Regions/Islands",
     "Magic",
     "Beings/Dramatis Personae",

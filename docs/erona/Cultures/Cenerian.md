@@ -32,7 +32,7 @@ Listed in order of 'acceptability of worship' in Cenerian society:
 
 ![](https://i.redd.it/rurvtjw2lgn41.png)
 #### Politics
-Cenerians have strong political foundations. Their society is organised along urban foundations, each city making up its own polity. Though variations exist, most are headed by an 'Archon' and a 'Vizier' who are elected from among the most powerful families who have proven their virtue (done through family records, general social gravitas, leading defences or navies, and through investing funds into public works). These elections can be for life, though this is uncommon. Most Archon-Vizier duos are voted out when they fall out of favour, if they are not assassinated first. 
+Cenerians have strong political foundations. Their society is organised along urban foundations, each city making up its own polity. Though variations exist, most are headed by an 'Archon' and a 'Seneshals' who are elected from among the most powerful families who have proven their virtue (done through family records, general social gravitas, leading defences or navies, and through investing funds into public works). These elections can be for life, though this is uncommon. Most Archon-Seneshal duos are voted out when they fall out of favour, if they are not assassinated first. 
 
 The cities are linked via the [[Cenerian League]], founded in the aftermath of the [[Collapse]] by the Archon of [[Pallas]] and [[Enetia]] as a union of northern and southern [[Ceneria]]. 
 

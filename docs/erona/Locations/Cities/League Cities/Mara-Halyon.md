@@ -1,1 +1,1 @@
-A member of the [[Cenerian League]]. Known for its nearby [[Sigodo]] fortress monastery.
+A member of the [[Cenerian League]]. Known for being run democratically by all its citizens and not just its oligarchy. The infamous [[Sigodo]] fortress monastery is nearby.

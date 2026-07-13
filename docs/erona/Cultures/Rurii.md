@@ -1,6 +1,6 @@
-The Rurii are a people that originate from the [[Karrow]], a land east of [[Osera]] and the wastes that separate it from the [[Unsung Lands]]. After [[Xeril's Conquests]], many permanently migrated into the more fertile regions of [[Ceneria]] and [[Zinnabar]]. They refer to themselves as the Mora-Bantár, and their leaders as Great Morr. 
+The Rurii are a people that originate from the [[Karrow]], a land east of [[Osera]] and the wastes that separate it from the [[Unsung Lands]]. After [[Xeril's Conquests]], many permanently migrated into the more fertile regions of [[Ceneria]] and [[Zinnabar]]. They refer to themselves as the Mora-Bantár, or simply Morr, and their leaders as Great Morr. 
 #### Appearance
-Rurii are considered not only a culture but a race apart from other [[Oseran]]s. They differ quite significantly from other races, particularly in their backward knees and fur-like covering of their bodies, which are hunched. 
+Rurii are considered not only a culture but a race apart from other Oserans. They differ quite significantly from other races, particularly in their backward knees and fur-like covering of their bodies, which are hunched. 
 #### Origin
 The Rurii keep an oral history of their people which states they are the descendants of the runaway slaves of the [[Titans]]. Whatever their origin, their stay in the Karrow has deeply affected them: they are hairier than most, and are often considered 'beastlike' by man other cultures. 
 #### Culture
