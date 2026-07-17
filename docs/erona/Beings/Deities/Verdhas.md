@@ -1,3 +1,3 @@
-An old aspect of [[Luminor]], once worshipped by [[Mycean]] soldiers and officers. Verdhas was worshipped by slaying a bull and subsequent feasting, a reference to his own mythological bull slaying. Worship of Verdhas was somewhat taboo, as it presupposed that [[Luminor]] was not a single deity. 
+An old aspect of [[Luminor]], once worshipped by [[Mycean]] soldiers and officers. [[Verdhas]] was worshipped by slaying a bull and subsequent feasting, a reference to his own mythological bull slaying. Worship of [[Verdhas]] was somewhat taboo, as it presupposed that [[Luminor]] was not a single deity. 
 
 [[Verdhas]] is said to be the aspect of fire and holy war. Worship of him as has been revived with [[Andros]], who has been proclaimed '[[Verdhas]] reborn' by his own priests. 

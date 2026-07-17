@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beings/Deities/Verdhas.md",
+                "file": "Other/Adventure Starts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Verdhas"
+              "title": "Adventure Starts"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Adventure Starts"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,14 +211,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "56be75fc814bd4c8",
+  "active": "332c94358a976ba3",
   "lastOpenFiles": [
+    "Beings/Deities/Verdhas.md",
+    "Other/Adventure Starts.md",
     "Locations/Seas/Sea of Azuth.md",
     "Locations/Seas/Aspolan Sea.md",
     "Other/Tensions.md",
     "Locations/Seas/Altom Ocean.md",
     "Other/Lifepaths.md",
-    "Other/Adventure Starts.md",
     "Locations/Regions/Islands/Rausmoa Archipelago.md",
     "Locations/Realms/Empire of Kantara.md",
     "Locations/Regions/Far South East.md",
@@ -240,7 +240,6 @@
     "Other/A Typical Day in Ceneria.md",
     "Cultures/Rurii.md",
     "Cultures/Qedhi.md",
-    "Other/Haze.md",
     "z.Images/cenerian_classes.png",
     "z.Images",
     "Locations/Regions/Islands",

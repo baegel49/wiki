@@ -15,6 +15,10 @@ Sovereign [[Andros]] is leading a military campaign on [[Zinnabar]]i shores agai
 The [[Sect of Pyos]] has ruled from [[Movenna]] since before the [[Collapse]], and both [[Ceneria]] and [[Thalendor]] are its devout followers. Cenerian priests are now moving to revoke the recognition that the [[Voyage of Normund]] won for [[Thalen]] ordinations, creating ideal conditions for a schism and potential civil war. The Patriarch is quietly hiring outsiders to find who is driving the schism. Expect investigations, interrogations, and intrigue.
 
 
+##### The Varanthian Problem --- Urban Intrigue (3/3/1) --- Medium
+The city of [[Varanth]] is experiencing a crisis. Nominally part of the [[Cenerian League]], it is de facto ruled by an [[Altani]] warlord and his warband, initially hired to defend against [[Thalen]] aggression. The same [[Thalen]] have now settled across the Yenner river, founding what they call "Newtown". The original Archon is now a mere puppet, and [[Varanth]] risks falling into disarray. The League cannot afford open hostilities during the [[War of Recovery]], and a different solution is needed.
+
+
 ##### Enetia's Monopoly --- Base Building/Realpolitik (2/5/1-3) --- Medium
 The [[Iphora]]n trading fellowship has quietly funded a survey expedition to the Far Land ([[Hespenor]]) to upend [[Enetia]]’s monopoly derived from the [[Haze]]-rich crater located in the [[Sea of Alvos]], known as [[The Eye]]. The Fellowship needs people willing to sail west and establish mining operations, or to infiltrate Enetia to gather information and perform industrial sabotage. 
 
