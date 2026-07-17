@@ -1,0 +1,1 @@
+[[Lonova]] is one of three remaining [[Brethiln]] realms in northern [[Osera]], the other two being [[Mirena]] and [[Velwynne]]. Its capital is [[Linov]].

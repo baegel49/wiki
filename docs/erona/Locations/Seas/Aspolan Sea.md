@@ -1,0 +1,1 @@
+The [[Aspolan Sea]] lies between [[Zinnabar]] and [[Pyrgoa]], named after the first colony on [[Zinnabar]]: [[Aspola]]. 

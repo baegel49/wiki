@@ -1,1 +1,1 @@
-[[Linov]] is the capital of [[Lonovia]]. Though often described as a city, [[Linov]] is small compared by [[Cenerian]] standards and more akin to a heavily fortified town. It is one of three [[Brethiln]] 'cities', the other two being [[Koray]] and [[Vorne]]. 
+[[Linov]] is the capital of [[Lonova]]. Though often described as a city, [[Linov]] is small compared by [[Cenerian]] standards and more akin to a heavily fortified town. It is one of three [[Brethiln]] 'cities', the other two being [[Koray]] and [[Vorne]]. 

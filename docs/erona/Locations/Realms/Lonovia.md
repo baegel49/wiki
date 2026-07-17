@@ -1,1 +1,0 @@
-[[Lonovia]] is one of three remaining [[Brethiln]] realms in northern [[Osera]], the other two being [[Morenia]] and [[Velwynne]]. Its capital is [[Linov]].

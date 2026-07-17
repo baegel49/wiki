@@ -1,0 +1,1 @@
+[[Mirena]] is one of three remaining [[Brethiln]] realms in northern [[Osera]], the other two being [[Velwynne]] and [[Lonova]]. Its capital is [[Koray]].

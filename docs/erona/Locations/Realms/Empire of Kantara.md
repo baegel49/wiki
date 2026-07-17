@@ -1,0 +1,1 @@
+The [[Empire of Kantara]] is located in the [[Far South East]], and not much is known about it. Their pirates sometimes cross the [[Rausmoa Archipelago]] and raid ships in the [[Sea of Azuth]] and [[Aspolan Sea]].

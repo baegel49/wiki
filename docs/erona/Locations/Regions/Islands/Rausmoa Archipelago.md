@@ -1,0 +1,1 @@
+A set of labyrinthine islands connecting [[Zinnabar]] and [[Osera]] in the south east. Beyond it lies the infamous pirate port of [[Sydon]], and further the [[Far South East]] and the [[Empire of Kantara]]. 
