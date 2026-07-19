@@ -39,7 +39,7 @@ The dead of [[Karsolam]] must walk west to the gates of the [[Underworld]], and 
 An elite team of scoundrels, diplomats, and warriors is assembled to infiltrate the undercity of [[Bal-Gorund]], the infamous [[Manlings]] fortress-city, to retrieve the “soulstone”, an object of impossible value. It is rumoured to be kept in the deepest vault, protected by more than just  [[Manlings]]. 
 
 
-##### Mission to Kantara --- Naval Adventure (3/4/5) --- Medium
+##### [[Mission to Kantara]] --- Naval Adventure (3/4/5) --- Medium
 Contact with the [[Empire of Kantara]] has been sporadic throughout [[Osera]]’s history, usually done via the pirate port of [[Sydon]], which lies beyond the [[Rausmoa Archipelago]]. A new diplomatic and trade mission is deemed vital to the ongoing supplies of [[Haze]] for the continent. Expect a naval adventure (not gunpowder) with management of resources paramount. 
 
 

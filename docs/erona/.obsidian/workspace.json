@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Adventure Starts.md",
+                "file": "Other/A Typical Day in Ceneria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adventure Starts"
-            }
-          },
-          {
-            "id": "3b81d39f6ffe3eba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Seas/Altom Ocean.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Altom Ocean"
+              "title": "A Typical Day in Ceneria"
             }
           },
           {
@@ -213,8 +199,20 @@
   },
   "active": "332c94358a976ba3",
   "lastOpenFiles": [
-    "Beings/Deities/Verdhas.md",
+    "Other/Adventures/Mission to Kantara.md",
+    "Pasted image 20260717135355.png",
+    "Other/Adventures",
     "Other/Adventure Starts.md",
+    "Overview.md",
+    "Beings/Titans.md",
+    "Beings/Lethe.md",
+    "Beings/Horrors.md",
+    "Beings/Creatures/Skrats.md",
+    "Beings/Creatures/Rykes.md",
+    "Beings/Creatures/Karrowhound.md",
+    "Beings/Creatures/Bana.md",
+    "Beings/Creatures",
+    "Beings/Deities/Verdhas.md",
     "Locations/Seas/Sea of Azuth.md",
     "Locations/Seas/Aspolan Sea.md",
     "Other/Tensions.md",
@@ -229,17 +227,6 @@
     "Locations/Cities/Abandoned Cities/Ospora.md",
     "Locations/Cities/Abandoned Cities/Oneos.md",
     "Locations/Cities/League Cities/Aranesse.md",
-    "Locations/Cities/League Cities/Asparon.md",
-    "Untitled",
-    "Locations/Cities/League Cities/Aspola.md",
-    "Locations/Cities/League Cities/Mara-Halyon.md",
-    "Locations/Cities/League Cities/Movenna.md",
-    "Events/Crowning of Andros.md",
-    "Events/1. Timeline of Events.md",
-    "Cultures/Cenerian.md",
-    "Other/A Typical Day in Ceneria.md",
-    "Cultures/Rurii.md",
-    "Cultures/Qedhi.md",
     "z.Images/cenerian_classes.png",
     "z.Images",
     "Locations/Regions/Islands",
@@ -248,7 +235,6 @@
     "Beings/Deities",
     "Locations/Seas",
     "Other",
-    "Beings",
-    "Locations/Realms"
+    "Beings"
   ]
 }
