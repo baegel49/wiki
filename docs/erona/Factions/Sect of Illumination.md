@@ -1,4 +1,4 @@
-The Sect of Illumination is a dispersed sect which primarily worships [[Luminor]], the god of light, fire, life, and truth, represented by the sun. They are sometimes called *Luminari* or *Luminoi* by others, though they refer to themselves (and everyone else) as 'Luminor's children'. 
+The Sect of Illumination is a dispersed sect which primarily worships [[Luminor]], the god of light, fire, life, and truth, represented by the sun. They are sometimes called *Eluminoi* by others, though they refer to themselves (and everyone else) as 'Luminor's children'. 
 
 Unlike the [[Sect of Pyos]], the Sect of Illumination has no main temple, though its followers are particularly numerous in [[Aspola]] where the dawn is particularly bright.
 

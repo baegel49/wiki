@@ -1,1 +1,38 @@
 Primeval deity of light, fire, life, and truth, represented by the sun. Worshipped by the [[Sect of Illumination]] and is a core part of [[Cenerian]] beliefs.
+
+#### Aspects of Luminor
+Luminor is one god but presents different aspects according to *Eluminoi* teaching. Some of the aspects are particularly strong during different phases of the day, others depending on season. In some cases, some people are considered to be an aspect made manifest, as is the case with [[Andros]] said to be [[Verdhas]] in the flesh.
+
+##### Verdhas
+Verdhas is the Aspect of fire and holy war. His worship is old, attested among the soldiers and officers of Mycea, and his rite is the slaying of a bull with feasting after, in memory of a bull-slaying of his own which the myths report and leave unexplained. His worship was long held in poor odour, since to pray to the sun's war-face implies that the sun has faces, and the implication sat badly with the Sect in centuries past.
+Now, the priests attending Sovereign [[Andros]] have proclaimed him Verdhas reborn, and the Sect has found itself acknowledging, with whatever grace it could gather, an Aspect it spent centuries treating as a soldiers' indiscretion. Illuminant clergy of the stricter sort regard it heresy at sword-point, and say so where the Sovereign's men cannot hear. What precedent the affair sets is the open question of *Eluminoi* politics.
+
+##### Melos
+The Dark Aspect of Luminor, and the dark side of the sun. Melos is named here for completeness, and with caution. The Mycean cults held Melos to be the dark side of the sun, never seen and equal in power to the seen. His worship did not survive the Collapse, and no shrine to him is known to stand. The Sect does not list Melos among the Aspects and does not explain the omission. Certain claims connecting Melos to the veiled worship of the Wall country are treated below, under Mavron, since they concern a living devotion and are best judged beside it.
+
+##### Eleon
+Eleon is the Aspect of dawn and of mercy, called the Unrisen because his worship concerns the sun that has yet to appear. His shrines stand on east-facing headlands and are most numerous in Aspola, where the dawn is held to be brighter than elsewhere, a claim the Aspolans make about most things. The rite is confession spoken into the last dark before sunrise. When the disk clears the horizon the penitent is held absolved, on the reasoning that the day's sun witnessed none of what was confessed. Debtors, returned exiles, and the newly purified are the shrines' steadiest custom.
+Pyosian writers, it must be said, regard the dawn-absolution as legally incoherent, since in their teaching what is witnessed once is witnessed always. The two Sects have argued the point in tract and counter-tract for longer than either archive fully records.
+
+##### Mesarion
+Mesarion is the Aspect of noon and of judgment. At the zenith nothing casts a shadow, and the teaching holds that at that hour nothing is concealed. His shrines are open courtyards built around a gnomon so cut that at true noon it swallows its own shadow entirely, a piece of craft the shrine-wardens guard closely. The rites are the noon-oath and the standing trial, in which an accused stands unshaded through the noon hour while assessors observe him. What precisely the assessors read in him is taught to assessors and to nobody else.
+
+Witnessed truth is the domain of Pyos, and the question of whose eye receives a noon-oath has occupied advocates in every League city for centuries. The prudent contract now names its god. The scholar Halea of Movenna has catalogued eleven distinct formulae in use for this purpose, and her judgment, that the multiplication of formulae has enriched the advocates and clarified nothing, is quoted here with approval.
+
+##### Lychera
+Lychera is the Aspect of the lamp, the hearth, and the fire carried through the night. Hers are the threshold lamps and crossroad lights by which a city may be walked after dark, a service whose weight is best appreciated by recalling that the night of Erona is unrelieved by any moon. Her shrines are the lamps themselves, tended by widows, who through her tending hold a minor clerical standing and a small stipend, where stipends are paid.
+
+Lychera is ancient and almost entirely unstudied, the learned finding little to dispute in a lamp. This Sanctum will record one observation of its own: the widows of the flame walk every street at dusk and dawn, are greeted by every household, and are questioned by nobody. A researcher seeking the true condition of any Cenerian city could do worse than to begin with them, and it is the experience of our travelling brethren that certain city magistrates began there long ago.
+
+##### Halior
+Halior is the Aspect of the sun at sea, of the nightly descent into the water, and of safe return. His shrines are often a marked post at the rail of a ship, and by our count he is therefore the most widely enshrined of all the Aspects, though no census will ever confirm it. His rite is wine poured over the rail as the sun touches the horizon, performed on League vessels with a regularity that puts temple observance to shame.
+
+The Sect licenses Halior as harmless sailors' custom and shows no wish to discuss him further. The reticence has been noticed. The evening libation is older than its explanation; sailors questioned about it speak of luck and of custom, and only afterward of Luminor. A treatise in the anonymous Book-genre, circulating under the title _Things the Sea Has Refused_, argues that the rite predates the Aspect and that the wine was first poured to another recipient altogether, whose worship the coastal cities set aside after the Collapse for reasons no longer stated. The [[Sect of Illumination]] has issued no reply to the treatise, and is reported to purchase copies wherever they appear, which its clergy describe as a matter of doctrinal tidiness. The reader may weigh that description at leisure.
+
+##### Mavron
+Mavron is the Aspect of the sun seen through Mist, and of endurance under a dimmed light. His worship is young, arising after the Collapse in the villages of the Haze margins and along the Akkron Wall, and it has been refused a license three times, most recently within living memory. His worshippers include the Dunwarden, whose service leaves them unwelcome at the fountain-gates of licensed temples and who have made Mavron's rite their own. That rite is a lamp lit at noon. Licensed clergy call the practice perverse. On the Akkrons it is held to require no explanation, and travellers who have wintered there report that after a month of the Mist they lit their own.
+
+A preacher of the Wall country, whose name our informants render as Ocheros the Dim, has taught that Mavron and Melos are one Aspect approached from its two sides, the veiled sun of the living and the dark sun of the old cults being a single god. The teaching has been condemned wherever the Sect has clergy to condemn it, which on the Akkrons is not many places, and it spreads at the pace such things spread. This Sanctum records the doctrine without endorsing it, and notes only that of all the questions in this article, this is the one our Eluminoi correspondents most firmly decline to discuss.
+
+##### Alsena
+Alsena is the Aspect of the slow sun of the growing season, of vineyard, orchard, and patience. Her shrines are living things, a pruned tree or a trained vine consecrated as the shrine itself, and her great rite is the offering of first-fruits at the noon of harvest. Her worship is rural, ancient, and cheerful.

@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/A Typical Day in Ceneria.md",
+                "file": "Factions/Order of the Pale Maiden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Typical Day in Ceneria"
+              "title": "Order of the Pale Maiden"
             }
           },
           {
-            "id": "56be75fc814bd4c8",
+            "id": "1bbf7bef4096fcc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Adventure Starts.md",
+                "file": "Thalen Migration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adventure Starts"
+              "title": "Thalen Migration"
             }
           }
         ]
@@ -199,34 +199,35 @@
   },
   "active": "332c94358a976ba3",
   "lastOpenFiles": [
+    "Beings/Deities/Mor.md",
+    "Beings/Deities/Luminor.md",
+    "Beings/Deities/Melos.md",
+    "Beings/Deities/Verdhas.md",
+    "Events/Sons' War.md",
+    "Locations/Realms/Thalendor.md",
+    "Events/Voyage of Normund.md",
+    "Beings/Dramatis Personae/Normund.md",
+    "Events/The Thalen Migration.md",
+    "Events/Crowning of Andros.md",
+    "Thalen Migration.md",
+    "Overview.md",
+    "Beings/Deities/Pyos.md",
+    "Cultures/Thalen.md",
+    "Factions/Sect of Pyos.md",
+    "Beings/Dramatis Personae/Andros.md",
+    "Factions/Sect of Illumination.md",
+    "Other/A Typical Day in Ceneria.md",
     "Other/Adventures/Mission to Kantara.md",
     "Pasted image 20260717135355.png",
     "Other/Adventures",
     "Other/Adventure Starts.md",
-    "Overview.md",
     "Beings/Titans.md",
     "Beings/Lethe.md",
     "Beings/Horrors.md",
     "Beings/Creatures/Skrats.md",
     "Beings/Creatures/Rykes.md",
     "Beings/Creatures/Karrowhound.md",
-    "Beings/Creatures/Bana.md",
     "Beings/Creatures",
-    "Beings/Deities/Verdhas.md",
-    "Locations/Seas/Sea of Azuth.md",
-    "Locations/Seas/Aspolan Sea.md",
-    "Other/Tensions.md",
-    "Locations/Seas/Altom Ocean.md",
-    "Other/Lifepaths.md",
-    "Locations/Regions/Islands/Rausmoa Archipelago.md",
-    "Locations/Realms/Empire of Kantara.md",
-    "Locations/Regions/Far South East.md",
-    "Locations/Realms/Lonova.md",
-    "Locations/Realms/Mirena.md",
-    "Locations/Realms/Thalendor.md",
-    "Locations/Cities/Abandoned Cities/Ospora.md",
-    "Locations/Cities/Abandoned Cities/Oneos.md",
-    "Locations/Cities/League Cities/Aranesse.md",
     "z.Images/cenerian_classes.png",
     "z.Images",
     "Locations/Regions/Islands",
