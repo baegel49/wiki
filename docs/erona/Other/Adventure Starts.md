@@ -1,5 +1,7 @@
+
 Legend: From 1-5 -> (Combat/Roleplay/Survival) 
-##### The Eastern Marches --- Classic D&D (4/3/3) --- Easy
+
+##### The Eastern Marches --- Classic D&D (4/3/2) --- Easy
 The [[Thalen]] king [[Normund]] has put out a call for adventurers to venture east and protect the crumbling frontiers from the [[Skrats]] (goblins). The Duke responsible for its defence has been killed during the siege of the Red Keep, and opportunity is high for pacifying and claiming lands, even for non-nobles. Expect exploration, dungeons, and the chance to rule your own realm.
 
 
