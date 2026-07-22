@@ -1,0 +1,3 @@
+[[Mhorr]] is death personified, worshipped mostly by the citizens of [[Karsolam]] in [[Hespenor]] and by the [[Order of the Pale Maiden]], who quest across the [[Lands of Mor]] to guide souls to the [[Underworld]], [[Mhorr]]'s domain. 
+
+[[Mhorr]] is not part of the original [[Mycean]] pantheon, and it is unclear when worship of him started. In the original [[Mycean]] mythology, the [[Underworld]] is ruled by [[Bel]]. The [[Sect of Illumination]] unsuccessfully opposes his worship in [[Hespenor]]. 

@@ -1,0 +1,1 @@
+Son of [[Aldric]] and father of [[Normund]]. Died in the [[Sons' War]].

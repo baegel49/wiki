@@ -1,0 +1,1 @@
+Led his people across the [[Karrow]] from the [[Unsung Lands]] in the [[Thalen Migration]] to become first king of [[Thalendor]]. Father of [[Athelric]] and grandfather of [[Normund]]. Converted to the [[Sect of Pyos]] at the [[Battle of Oathbridge]], cementing his kingdom's conversion along with his own. 

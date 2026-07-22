@@ -1,4 +1,5 @@
 
+![[Pasted image 20260722105522.png]]
 
 Skrats are swamp and bog dwelling humanoids, not much larger than a child. They are, however, extremely strong for their size, on par with a late teenager, and can inflict serious wounds on unsuspecting travellers and undefended hamlets. 
 

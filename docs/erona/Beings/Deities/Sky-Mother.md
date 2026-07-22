@@ -1,1 +1,1 @@
-A [[Rurii]] and [[Brethiln]] deity who rules the heavens. The [[Brethiln]] believe that the [[Sky-Mother]] is the wife of the [[World-Father]], whose existence is not known among [[Rurii]] worship. 
+A [[Rurii]] and [[Brethiln]] deity who rules the heavens. The [[Brethiln]] believe that the [[Sky-Mother]] is the wife of the [[World-Father]], whose existence is not known among [[Rurii]] worship. The [[Rurii]] believe the [[Sky-Mother]] freed them from slavery of the [[Titans]]. 
