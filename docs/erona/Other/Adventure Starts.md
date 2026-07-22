@@ -41,8 +41,8 @@ The sages of the [[Seventh Sanctum]] have calculated that [[the Eye]] is too lar
 The [[Sea of Alvos]] is shallow, and beneath it lies the flooded heart of [[Halcyon]], the capital of [[Mycea]]. To find the fabled city, an expedition would have to begin by delving into the vaults rumoured to exist on the [[Barrier Islands]], which may contain more information. Expect wreck-diving and antiquarian greed.
 
 
-#### The Procession
-##### Esoteric (4/3/4) --- Hard
+#### [[The Procession]]
+##### Dark Fantasy (4/3/4) --- Hard
 The dead of [[Karsolam]] must walk west to the gates of the [[Underworld]], and the living sometimes escort them partway. A [[Qedhi]] family has paid for passage out of the fortress city for a body that the [[Sect of Illumination]] insists should have been burnt, and the roads beyond the walls belong to the [[Horrors]] and the [[Haze]]. Expect a funerary procession in dark lands, and truths nobody is ready to hear. 
 
 
