@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Adventure Starts.md",
+                "file": "Events/Crowning of Andros.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adventure Starts"
+              "title": "Crowning of Andros"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thalen Migration.md",
+                "file": "Locations/Realms/Thalendor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thalen Migration"
+              "title": "Thalendor"
             }
           }
         ]
@@ -199,6 +199,9 @@
   },
   "active": "332c94358a976ba3",
   "lastOpenFiles": [
+    "Events/Thalen Migration.md",
+    "Events/Thalen Migration.md",
+    "Other/Adventure Starts.md",
     "Factions/Order of the Pale Maiden.md",
     "Beings/Deities/Mor.md",
     "Beings/Deities/Luminor.md",
@@ -208,9 +211,7 @@
     "Locations/Realms/Thalendor.md",
     "Events/Voyage of Normund.md",
     "Beings/Dramatis Personae/Normund.md",
-    "Events/The Thalen Migration.md",
     "Events/Crowning of Andros.md",
-    "Thalen Migration.md",
     "Overview.md",
     "Beings/Deities/Pyos.md",
     "Cultures/Thalen.md",
@@ -221,7 +222,6 @@
     "Other/Adventures/Mission to Kantara.md",
     "Pasted image 20260717135355.png",
     "Other/Adventures",
-    "Other/Adventure Starts.md",
     "Beings/Titans.md",
     "Beings/Lethe.md",
     "Beings/Horrors.md",
