@@ -9,3 +9,17 @@ A [[Qedhi]] family involved as generational slaves in Gemcutting for the [[Sect 
 A local engineer aims to test his new contraption, in the form of a wagon, and has offered his services to escort the body into the [[Lands of Mhorr]]. 
 The [[Order of the Pale Maiden]] has also offered their services, believing that they can begin converting other [[Qedhi]] if they bring the body of this respected matriarch to the [[Underworld]]. 
 
+<!--
+Meta
+
+Act 1: Party has to quell unrest at the gates, convince or fight their way through Eluminoi protesters. Hit the road, face dangers, go into the pass of the dead. The wagon breaks in the pass, and Belith rises as an undead. 
+
+Act 2: Tame Belith, take whatever the party can carry. Choose the ashway or the corpse road. 
+Ashway: Burns, but is clean. Other undead walk it.
+Corpse road: Haze filled, full of horrors. Does not burn, but limits magic. 
+Arrive at the gates end of session.
+
+Act 3: The warden of the gates blocks passage. Mhorr is a parasite god, eating souls intended for Bel. Belith is Bel incarnate, and the two gods fight through their champions. The party has to ensure that Mhorr's servants do not enact a ritual to destroy Belith while she clashes with the Warden. 
+
+-->
+

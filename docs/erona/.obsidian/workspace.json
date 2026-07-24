@@ -27,44 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beings/Deities/Bel.md",
+                "file": "Locations/Cities/League Cities/Karsolam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bel"
+              "title": "Karsolam"
             }
           },
           {
-            "id": "75c4ed622d868271",
+            "id": "6e4b655025f56ec5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overview.md",
+                "file": "Locations/Cities/Conquered Cities/Essalon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overview"
+              "title": "Essalon"
             }
           },
           {
-            "id": "8ec7f4c629d88d69",
+            "id": "3ed41b43d5d5381e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cultures/Rurii.md",
+                "file": "Other/Adventures/The Procession.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rurii"
+              "title": "The Procession"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -226,16 +226,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "75c4ed622d868271",
+  "active": "3ed41b43d5d5381e",
   "lastOpenFiles": [
-    "draft.png",
+    "z.Images/Pasted image 20260724110731.png",
+    "Factions/Cult of Bel.md",
+    "Overview.md",
+    "z.Images/Pasted image 20260724111536.png",
+    "Locations/Cities/Conquered Cities/Essalon.md",
+    "Locations/Other/Pillars of Bel.md",
+    "z.Images/Pasted image 20260724110427.png",
+    "Locations/Other/Crater Coast.md",
+    "Locations/Cities/League Cities/Karsolam.md",
+    "z.Images/draft.png",
     "Other/Adventures/The Procession.md",
     "Cultures/Rurii.md",
     "Beings/Deities/Bel.md",
     "Cultures/Akkurim.md",
     "Locations/Regions/Lands of Mhorr.md",
     "Cultures/Qedhi.md",
-    "Locations/Cities/League Cities/Karsolam.md",
     "z.Images/Pasted image 20260722171754.png",
     "Beings/Creatures/Rykes.md",
     "z.Images/Pasted image 20260722165610.png",
@@ -247,23 +255,14 @@
     "Locations/Cities/Independent Cities/Bal-Gorund.md",
     "z.Images/Pasted image 20260722164129.png",
     "Locations/Cities/League Cities/Enetia.md",
-    "z.Images/enetia.png",
-    "z.Images/Pasted image 20260722130808.png",
     "Locations/Cities/Conquered Cities/Ostellyth.md",
     "Locations/Cities/Conquered Cities/Saphos.md",
-    "z.Images/Pasted image 20260722131338.png",
     "Locations/Cities/Conquered Cities/Zeutana.md",
-    "z.Images/Pasted image 20260722131257.png",
     "Locations/Cities/Independent Cities/Sydon.md",
     "Locations/Cities/League Cities/Aranesse.md",
     "Locations/Cities/League Cities/Movenna.md",
     "Locations/Cities/Independent Cities/Xento.md",
     "Locations/Cities/League Cities/Mara-Halyon.md",
-    "Locations/Cities/League Cities/Pallas.md",
-    "Locations/Cities/League Cities/Seleia.md",
-    "Beings/Lethe.md",
-    "Beings/Creatures/Skrats.md",
-    "Cultures/Altani.md",
     "Other/Adventures",
     "Beings/Creatures",
     "z.Images",
