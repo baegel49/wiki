@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Cities/League Cities/Karsolam.md",
+                "file": "Cultures/Akkurim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Karsolam"
+              "title": "Akkurim"
+            }
+          },
+          {
+            "id": "42f566d3d20aaf41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other/Adventure Starts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Adventure Starts"
             }
           },
           {
@@ -55,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Adventures/The Procession.md",
+                "file": "Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Procession"
+              "title": "Overview"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,43 +240,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "3ed41b43d5d5381e",
+  "active": "7a1b28583d3e9708",
   "lastOpenFiles": [
-    "z.Images/Pasted image 20260724110731.png",
-    "Factions/Cult of Bel.md",
+    "Events/Sons' War.md",
+    "Beings/Dramatis Personae/Normund.md",
+    "Locations/Realms/Thalendor.md",
     "Overview.md",
-    "z.Images/Pasted image 20260724111536.png",
-    "Locations/Cities/Conquered Cities/Essalon.md",
-    "Locations/Other/Pillars of Bel.md",
-    "z.Images/Pasted image 20260724110427.png",
-    "Locations/Other/Crater Coast.md",
-    "Locations/Cities/League Cities/Karsolam.md",
-    "z.Images/draft.png",
-    "Other/Adventures/The Procession.md",
-    "Cultures/Rurii.md",
-    "Beings/Deities/Bel.md",
-    "Cultures/Akkurim.md",
-    "Locations/Regions/Lands of Mhorr.md",
-    "Cultures/Qedhi.md",
-    "z.Images/Pasted image 20260722171754.png",
-    "Beings/Creatures/Rykes.md",
-    "z.Images/Pasted image 20260722165610.png",
-    "Locations/Other/Fort of Dawn.md",
-    "z.Images/Pasted image 20260722165317.png",
+    "Locations/Other/Afterworld.md",
     "Other/Adventure Starts.md",
+    "Locations/Regions/Islands/Barrier Islands.md",
+    "Locations/Cities/Abandoned Cities/Thenea Epeson.md",
+    "Other/Haze.md",
+    "Factions/Sigodo.md",
+    "Cultures/Southern.md",
+    "Cultures/Thalen.md",
+    "Locations/Cities/Conquered Cities/Essalon.md",
+    "Cultures/Manlings.md",
+    "Beings/Mountain Men.md",
+    "z.Images/Pasted image 20260722171754.png",
+    "z.Images/Pasted image 20260722165610.png",
+    "z.Images/Pasted image 20260724110427.png",
+    "z.Images/Pasted image 20260724110731.png",
+    "z.Images/Pasted image 20260724111536.png",
+    "z.Images/Pasted image 20260727112329.png",
+    "Locations/Cities/League Cities/Karsolam.md",
+    "Locations/Cities/League Cities/Aspola.md",
+    "Locations/Cities/League Cities/Enetia.md",
+    "Cultures/Qedhi.md",
+    "Cultures/Rurii.md",
+    "Beings/Echoes.md",
+    "Other/Adventures/The Procession.md",
+    "Factions/Cult of Bel.md",
+    "Locations/Other/Pillars of Bel.md",
+    "Locations/Other/Crater Coast.md",
+    "z.Images/draft.png",
+    "Beings/Deities/Bel.md",
+    "z.Images/Pasted image 20260722165317.png",
     "z.Images/Pasted image 20260722164614.png",
     "z.Images/Pasted image 20260722164436.png",
-    "Locations/Cities/Independent Cities/Bal-Gorund.md",
-    "z.Images/Pasted image 20260722164129.png",
-    "Locations/Cities/League Cities/Enetia.md",
-    "Locations/Cities/Conquered Cities/Ostellyth.md",
-    "Locations/Cities/Conquered Cities/Saphos.md",
-    "Locations/Cities/Conquered Cities/Zeutana.md",
-    "Locations/Cities/Independent Cities/Sydon.md",
-    "Locations/Cities/League Cities/Aranesse.md",
-    "Locations/Cities/League Cities/Movenna.md",
-    "Locations/Cities/Independent Cities/Xento.md",
-    "Locations/Cities/League Cities/Mara-Halyon.md",
     "Other/Adventures",
     "Beings/Creatures",
     "z.Images",

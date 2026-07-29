@@ -7,4 +7,5 @@ Enetia was founded as a small trading outpost during the [[Mycean]] Age, intende
 
 #### Culture
 
-#### 
+
+#### Population

@@ -1,0 +1,1 @@
+The [[Mountain Men]] are a hill tribes people living in the [[Cenerian Peaks]] and [[Akkron Wall]], driven away due to their beastlike nature. They are often hooved, beast-faced, or have other mutations which has resulted in their exile. They live in small bands and prey on whoever they can to survive. 

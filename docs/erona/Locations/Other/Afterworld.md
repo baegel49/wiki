@@ -1,0 +1,3 @@
+The [[Afterworld]] is the supposed place where souls are judged by [[Mhorr]]'s judges. It is mostly believed to exist by the citizens of [[Karsolam]], who worship [[Mhorr]] out of fear. It is a relatively obscure term in [[Osera]] and [[Zinnabar]], though some death cults there are known to exist. 
+
+For their part, worshippers of [[Pyos]] and [[Luminor]] do not believe in the [[Afterworld]]. Only if the dead body is burnt would it allow the soul (in forms of ashes) to rise to the heavens. The people of [[Karsolam]] believe that only mummifying or embalmment can allow souls to march west to the gates of the [[Afterworld]] in the [[Lands of Mhorr]], ideally found and guided by the [[Pale Maiden]]. 

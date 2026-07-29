@@ -43,7 +43,7 @@ The [[Sea of Alvos]] is shallow, and beneath it lies the flooded heart of [[Halc
 
 #### [[The Procession]]
 ##### Dark Fantasy (4/3/4) --- Hard
-The dead of [[Karsolam]] must walk west to the gates of the [[Underworld]], and the living sometimes escort them partway. A [[Qedhi]] family has paid for passage out of the fortress city for a body that the [[Sect of Illumination]] insists should have been burnt, and the roads beyond the walls belong to the [[Horrors]] and the [[Haze]]. Expect a funerary procession in dark lands, and truths nobody is ready to hear. 
+The dead of [[Karsolam]] must walk west to the gates of the [[Afterworld]], and the living sometimes escort them partway. A [[Qedhi]] family has paid for passage out of the fortress city for a body that the [[Sect of Illumination]] insists should have been burnt, and the roads beyond the walls belong to the [[Horrors]] and the [[Haze]]. Expect a funerary procession in dark lands, and truths nobody is ready to hear. 
 
 
 #### The Bal-Gorund Heist
@@ -58,6 +58,6 @@ Contact with the [[Empire of Kantara]] has been sporadic throughout [[Osera]]’
 
 #### Out of Time 
 ##### Eldritch Renaissance (4/3/2) --- Very Hard
-The year is 571. Scholars recovered [[Mycean powder]] from the ruins three centuries ago, and the powder-wrights have since learned to cut it with [[Haze]], which burns hotter and leaves the ground behind it dead to [[Echoes]]. Mages call it abomination. The armies call it the only thing that has ever pushed the [[Horrors]] back. Expect a doomed campaign of attrition, and the slow suspicion that the world has been here before.
+The year is 571. Scholars recovered [[Mycean powder]] from ruins three centuries ago, and the powder-wrights have since learned to cut it with [[Haze]], which burns hotter and leaves the ground behind it dead to [[Echoes]]. Mages call it abomination. The armies call it the only thing that has ever pushed the [[Horrors]] back. Expect a doomed campaign of attrition, and the slow suspicion that the world has been here before.
 
 
