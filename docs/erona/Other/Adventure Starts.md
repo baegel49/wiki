@@ -36,7 +36,7 @@ The [[Iphora]]n trading fellowship has quietly funded a survey expedition to the
 The sages of the [[Seventh Sanctum]] have calculated that [[the Eye]] is too large; a shard of that size should have left nothing of [[Erona]] at all. They are assembling an expedition east past the [[Akkron Wall]], into the [[Karrow]], to find out why their arithmetic is wrong among the [[Akkurim]] ruins. They need guides, hirelings, and adventurers to escort them.
 
 
-#### The Drowned Peaks 
+#### [[The Drowned Peaks]] 
 ##### Dungeon Delve (5/1/2) --- Medium
 The [[Sea of Alvos]] is shallow, and beneath it lies the flooded heart of [[Halcyon]], the capital of [[Mycea]]. To find the fabled city, an expedition would have to begin by delving into the vaults rumoured to exist on the [[Barrier Islands]], which may contain more information. Expect wreck-diving and antiquarian greed.
 
