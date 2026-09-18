@@ -1,6 +1,6 @@
 *A note from the Seventh Sanctum's comparative catalogue of magical traditions, compiled in the 137th year of the Cenerian Age.*
 
-'Kharakt' is our best approximation of the [[Anchorites]]' own word for their practice as the Cenerian tongue has no native equivalent. It refers to the ritual scarring, and in some cases tattooing, by which Anchorite practitioners inscribe their bodies in order to compel their [[Echoes]] to perform magic. The results, as attested by those Sanctum scholars who have observed Anchorites in the field, are remarkable.
+'Kharakt' is our best approximation of the [[Anchorites]]' own word for their practice as the Cenerian tongue has no native equivalent. It refers to the ritual scarring, and in some cases tattooing, by which Anchorite practitioners inscribe their bodies in order to compel their [[Beings/Echoes]] to perform magic. The results, as attested by those Sanctum scholars who have observed Anchorites in the field, are remarkable.
 
 The obvious parallel to [[Arcanum]] is not lost on us. Both traditions involve inscription as a means of compelling an Echo to act. Arcanum works in ink on parchment, Kharakt in scar tissue on skin. Whether this difference is merely practical or reflects some deeper divergence in how each tradition understands the relationship between inscription and Echo, we cannot say as the Anchorites have not been forthcoming on the subject, and our Cenerian concepts may simply be inadequate to describe what they are doing.
 

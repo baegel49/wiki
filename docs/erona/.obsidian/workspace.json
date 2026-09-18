@@ -8,77 +8,175 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1bbf7bef4096fcc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Realms/Thalendor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Thalendor"
-            }
-          },
-          {
             "id": "7a1b28583d3e9708",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Adventures/The Drowned Peaks.md",
+                "file": "Other/Adventures/The Last Light of Mycea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Drowned Peaks"
+              "title": "The Last Light of Mycea"
             }
           },
           {
-            "id": "42f566d3d20aaf41",
+            "id": "14744c313b8eed6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Adventure Starts.md",
+                "file": "Other/Echoes of Eternity/Equipment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adventure Starts"
+              "title": "Equipment"
             }
           },
           {
-            "id": "6e4b655025f56ec5",
+            "id": "ee46206d97d8a043",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Cities/Conquered Cities/Essalon.md",
+                "file": "Other/Echoes of Eternity/Resting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Essalon"
+              "title": "Resting"
             }
           },
           {
-            "id": "3ed41b43d5d5381e",
+            "id": "773e107625b5e413",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overview.md",
+                "file": "Other/Echoes of Eternity/Armour.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overview"
+              "title": "Armour"
+            }
+          },
+          {
+            "id": "c7fd0b40669ff90d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other/Echoes of Eternity/Weapons.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Weapons"
+            }
+          },
+          {
+            "id": "c15495d97462a897",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other/Echoes of Eternity/Wounds.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wounds"
+            }
+          },
+          {
+            "id": "2bac796800e18724",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other/Echoes of Eternity/Death Saves.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Death Saves"
+            }
+          },
+          {
+            "id": "75a9551e1fb10822",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other/Echoes of Eternity/Loadouts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Loadouts"
+            }
+          },
+          {
+            "id": "bd615a3f384efa1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other/Adventures/The Last Light of Mycea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Last Light of Mycea"
+            }
+          },
+          {
+            "id": "03c18ac88b8b57ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other/Echoes of Eternity/Character Creation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Character Creation"
+            }
+          },
+          {
+            "id": "fe2454af6938d503",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other/Echoes of Eternity/Resting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Resting"
+            }
+          },
+          {
+            "id": "2facc1d0c1cfe639",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other/Echoes of Eternity/Falter Table.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Falter Table"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -98,7 +196,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -240,40 +340,42 @@
       "bases:Create new base": false
     }
   },
-  "active": "7a1b28583d3e9708",
+  "active": "2facc1d0c1cfe639",
   "lastOpenFiles": [
-    "Other/Adventures/The Procession.md",
+    "Other/Echoes of Eternity/Echoes.md",
+    "Other/Echoes of Eternity/High Level Start.md",
+    "Other/Echoes of Eternity/Resting.md",
+    "Other/Echoes of Eternity/Ranges.md",
+    "Other/Echoes of Eternity/Equipment.md",
+    "Other/Echoes of Eternity/Falter Table.md",
+    "Other/Echoes of Eternity/Character Creation.md",
+    "Other/Adventures/The Last Light of Mycea.md",
+    "Other/Echoes of Eternity/Skills.md",
     "Other/Adventures/The Drowned Peaks.md",
+    "Other/Echoes of Eternity/Death Saves.md",
+    "Other/Echoes of Eternity/Wounds.md",
+    "Untitled",
+    "Other/Echoes of Eternity/Loadouts.md",
+    "Other/Echoes of Eternity/Weapons.md",
+    "Other/Echoes of Eternity/Armour.md",
+    "Factions/Anchorites.md",
+    "Other/Echoes of Eternity",
     "Other/Adventure Starts.md",
+    "Other/A Typical Day in Ceneria.md",
+    "Cultures/Cenerian.md",
+    "Other/Cultural Matrices.md",
+    "Other/Adventures/The Procession.md",
     "Cultures/Akkurim.md",
     "Events/Sons' War.md",
     "Beings/Dramatis Personae/Normund.md",
     "Locations/Realms/Thalendor.md",
-    "Overview.md",
-    "Locations/Other/Afterworld.md",
-    "Locations/Regions/Islands/Barrier Islands.md",
-    "Locations/Cities/Abandoned Cities/Thenea Epeson.md",
-    "Other/Haze.md",
-    "Factions/Sigodo.md",
-    "Cultures/Southern.md",
-    "Cultures/Thalen.md",
-    "Locations/Cities/Conquered Cities/Essalon.md",
-    "Cultures/Manlings.md",
-    "Beings/Mountain Men.md",
+    "Other/Echoes of Eternity/Overview.md",
     "z.Images/Pasted image 20260722171754.png",
     "z.Images/Pasted image 20260722165610.png",
     "z.Images/Pasted image 20260724110427.png",
     "z.Images/Pasted image 20260724110731.png",
     "z.Images/Pasted image 20260724111536.png",
     "z.Images/Pasted image 20260727112329.png",
-    "Locations/Cities/League Cities/Karsolam.md",
-    "Locations/Cities/League Cities/Aspola.md",
-    "Locations/Cities/League Cities/Enetia.md",
-    "Cultures/Qedhi.md",
-    "Cultures/Rurii.md",
-    "Beings/Echoes.md",
-    "Factions/Cult of Bel.md",
-    "Locations/Other/Pillars of Bel.md",
     "z.Images/draft.png",
     "z.Images/Pasted image 20260722165317.png",
     "z.Images/Pasted image 20260722164614.png",
@@ -285,8 +387,6 @@
     "Magic",
     "Beings/Dramatis Personae",
     "Beings/Deities",
-    "Locations/Seas",
-    "Other",
-    "Beings"
+    "Locations/Seas"
   ]
 }

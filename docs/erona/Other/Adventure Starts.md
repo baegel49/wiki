@@ -58,6 +58,6 @@ Contact with the [[Empire of Kantara]] has been sporadic throughout [[Osera]]’
 
 #### Out of Time 
 ##### Eldritch Renaissance (4/3/2) --- Very Hard
-The year is 571. Scholars recovered [[Mycean powder]] from ruins three centuries ago, and the powder-wrights have since learned to cut it with [[Haze]], which burns hotter and leaves the ground behind it dead to [[Echoes]]. Mages call it abomination. The armies call it the only thing that has ever pushed the [[Horrors]] back. Expect a doomed campaign of attrition, and the slow suspicion that the world has been here before.
+The year is 571. Scholars recovered [[Mycean powder]] from ruins three centuries ago, and the powder-wrights have since learned to cut it with [[Haze]], which burns hotter and leaves the ground behind it dead to [[Beings/Echoes]]. Mages call it abomination. The armies call it the only thing that has ever pushed the [[Horrors]] back. Expect a doomed campaign of attrition, and the slow suspicion that the world has been here before.
 
 

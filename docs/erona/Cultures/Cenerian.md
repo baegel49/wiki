@@ -21,7 +21,7 @@ Cenerians have three cultural norms that were passed down from [[Mycean]] days:
 - **Nemesis** - Anyone committing acts of hubris, shame, or disrespect welcome *nemesis* as a response to their social violations, which in extreme circumstances can mean exile or that one's life is forfeit to whoever chooses to take it, in essence, an outlaw.
 
 #### Beliefs
-Cenerians believe in four primary deities, two of which are considered 'good' and 'bad' respectively. Minor deities, 'Daemons' exist in all living things according to Cenerians and are referred to as '[[Echoes]]' of the soul. 
+Cenerians believe in four primary deities, two of which are considered 'good' and 'bad' respectively. Minor deities, 'Daemons' exist in all living things according to Cenerians and are referred to as '[[Beings/Echoes]]' of the soul. 
 The primary deities are further split in two: one 'primeval' deity and one 'human' deity, representing the grander beginnings before humanity and humanity's ascension/fall respectively.
 ##### Deities
 Listed in order of 'acceptability of worship' in Cenerian society:
@@ -51,3 +51,13 @@ Recently, [[Andros]], Archon of [[Pallas]] has revived the old title of 'Soverei
 - **Freemen** - free villagers, farmers, artisans not living within cities. Same rights as citizens but not allowed to live within the city
 - **Parasts** - military slaves that are exempt from manual labour as long as they fight
 - **Slaves** - hereditary slaves from the first peoples conquered by the [[Mycean]]s
+
+
+#### Warfare
+Cenerians have a dualistic approach to war. War for the sake of war is considered near-worship of [[Anzo]], and is to be avoided. But war in the defence of a city, or to found a new city, is considered righteous. This philosophy translates into the way Cenerians wage warfare. 
+
+##### Weapons
+The cultural weapon is the **axe**: useful as a tool to chop trees (for building ships and houses), as a close-quarters weapon on ships (and to cut ropes), and as a sidearm on the battlefield (particularly against shields). A newer development is the carrying of curved sabres among the nobility instead of an axe. Nevertheless, while nearly everyone carries an axe, and the axe is a *kulturgut* among Cenerians, more value is placed upon the bow. 
+**Archers** are drawn from citizens, the Seravon, and from the Lords, all of whom are trained in the way of the bow to defend a city's walls. It is considered the highest art of warfare. In addition, young Seravon cadets are trained in the use of the bow on horseback, a terrifying sight in pitched battles but relatively few in number. Seravon themselves are the shock cavalry, having progressed to the **lance** upon armoured war horse. 
+The **glaive** is the weapon of the citizen. Heavily armoured, they eschew the **shield** and **spear** used by the freemen and instead use heavy, overlapping armour so that both hands remain free for the use of their polearms. 
+**Parasts** are the light infantry, often using javelins, slings, and bows to harass the enemy before falling back. They use shortswords and bucklers for close-quarter fighting, though are unusually unarmoured save for helmets. 

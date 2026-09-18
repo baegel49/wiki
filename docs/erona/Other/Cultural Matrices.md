@@ -1,11 +1,11 @@
 
-| Culture  | Food  | Drink  | Sport     | Music   | Prayer                 | War    | Ents     |
-| -------- | ----- | ------ | --------- | ------- | ---------------------- | ------ | -------- |
-| Ceneria  | Fish  | Wine   | Wrestling | Strings | Chants / Contemplation | Slaves | Chariots |
-| Thalen   | Bread | Ale    | Jousts    | Lyres   | Contemplation / Oaths  | Nobles | Feasts   |
-| Brethiln | Meat  | Mead   | Javelin   | Flutes  | Ritual                 | All    | Races    |
-| Rurii    | Meat  | Grog   | Fights    | Ocarina | Battle                 | All    | Feasts   |
-| Ykrittar | Fish  | Liquor | Javelin   | Ocarina | Chants                 | Youth  | Dance    |
+| Culture  | Food  | Drink  | Sport     | Music   | Prayer                 | War    | Ents     | Wpn   |
+| -------- | ----- | ------ | --------- | ------- | ---------------------- | ------ | -------- | ----- |
+| Ceneria  | Fish  | Wine   | Wrestling | Strings | Chants / Contemplation | Slaves | Chariots | Axe   |
+| Thalen   | Bread | Ale    | Jousts    | Lyres   | Contemplation / Oaths  | Nobles | Feasts   | Lance |
+| Brethiln | Meat  | Mead   | Javelin   | Flutes  | Ritual                 | All    | Races    | Spear |
+| Rurii    | Meat  | Grog   | Fights    | Ocarina | Battle                 | All    | Feasts   | Jvln  |
+| Ykrittar | Fish  | Liquor | Javelin   | Ocarina | Chants                 | Youth  | Dance    | Spear |
 
 #### Cenerian Detailed Matrix
 

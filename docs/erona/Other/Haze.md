@@ -5,7 +5,7 @@ The sages of the [[Seventh Sanctum]] believe that the [[Haze]] is either caused 
 
 #### Properties
 The [[Haze]] is often described as similar to regular fog, but damper. When exposed to sunlight, fire, or heat, [[Haze]] eventually dries into powdery-crystal, perfect for transportation. On [[The Eye]], [[Haze]] is so abundant that is has dried in layers, making it ripe for harvesting. In other areas, the dried [[Haze]] often mixes with dirt, mud, and other impurities instead, making it unprofitable for harvest. Under damp conditions, dried [[Haze]] reconstitutes into an ether. 
-The [[Haze]] is often thought to enable the use of corrupted magic which can corrupt those exposed to it or who are not careful in its use. The sages of the [[Seventh Sanctum]] believe that [[Haze]] allow people to easily communicate with their [[Echoes]], but also corrupts those [[Echoes]] at the same time.
+The [[Haze]] is often thought to enable the use of corrupted magic which can corrupt those exposed to it or who are not careful in its use. The sages of the [[Seventh Sanctum]] believe that [[Haze]] allow people to easily communicate with their [[Beings/Echoes]], but also corrupts those [[Beings/Echoes]] at the same time.
 
 #### Trade
 Concoctions of the [[Haze]] are sold on many streets of the cities of [[Osera]], known simply as 'Haze', and are particularly sought after on [[Zinnabar]] where it has to be imported. [[Enetia]] has become the centre of [[Haze]] bottling, monopolising it as a trade secret. [[Enetia]] is particularly well-placed, as the [[Haze]] is weaker and stronger in certain areas, being strongest near [[The Eye]], relatively close to [[Enetia]]. 
