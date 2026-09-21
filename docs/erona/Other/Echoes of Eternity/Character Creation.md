@@ -1,10 +1,11 @@
 
-1. Roll Stats
-2. Roll Saves
+1. Roll Stats 4d10+20
+2. Roll Saves 3d10+20
 3. Choose Class
-4. Assign [[Skills]]
-5. Choose (or roll) [[Loadouts]]
-6. Choose (or roll) [[Other/Echoes of Eternity/Echoes|Echoes]] (if applicable)
+4. Divide stats for modifiers.
+5. Assign [[Skills]]
+6. Choose (or roll) [[Loadouts]]
+7. Choose (or roll) [[Other/Echoes of Eternity/Echoes|Echoes]] (if applicable)
 
 
 ### Stats

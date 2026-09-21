@@ -4,10 +4,10 @@
 | ---------------- | ---- | ------ | -------------- | ------------------------------------------------------------------- |
 | Dagger           |      | 1d5    | Bleeding [+]   | 2d5 impact with knifework skill.                                    |
 | Mace             |      | 1d10   | Blunt          | Ignores half of target's AP (but not shields)                       |
-| One-handed Sword |      | 2d10   | Bleeding       |                                                                     |
-| Two-handed Sword |      | 4d10   | Gore           | Two-handed.                                                         |
-| Boarding Axe     |      | 2d10   | Gore           | [+] on damage against wooden objects such as doors, shields, trees. |
-| Battleaxe        |      | 3d10   | Gore [+]       | Two-handed. Forego damage to trip an enemy                          |
+| One-handed Sword |      | 1d10   | Bleeding       | Can cleave enemies.                                                 |
+| Two-handed Sword |      | 3d10   | Gore           | Two-handed. Can cleave smaller enemies.                             |
+| Boarding Axe     |      | 1d10   | Gore           | [+] on damage against wooden objects such as doors, shields, trees. |
+| Battleaxe        |      | 2d10   | Gore [+]       | Two-handed. Forego damage to trip an enemy                          |
 | Halberd/Glaive   |      | 4d10   | Blunt/Bleeding | Two-handed.                                                         |
 | Spear            |      | 2d10   | Bleeding       | Can perform one attack as a reaction against a short weapon attack  |
 | Flail            |      | 1d10   | Gore           | Ignores shields                                                     |

@@ -19,7 +19,7 @@ Kara is less violently inclined, and her echo is capable of conjuring illusions.
 Her twin sister Lara has the opposite gift, that of invisibility. She can cast invisibility on a creature or object for SDx10 minutes, but the spell weakens with movement. Each round of movement reduces the duration by 10 minutes.
 
 ### Channelling your Echo
-Echoes are channelled through your Presence stat. Divide your Presence by 4 (rounding down). This is how many spell dice (SD) you have available to you innately, a measure of your echo's ability. 
+Echoes are channelled through your Presence stat. Divide your Presence by 20 (rounding down). This is how many spell dice (SD) you have available to you innately, a measure of your echo's ability. 
 
 In all cases, how many SD you commit to the spell is how effective it is. It also has a higher chance of going wrong. Rolling doubles on your SD results in a mishap, and an Ego save needs to be made. If this is as part of your own Echo, you simply suffer TOLL on a failure. If the spell was cast through an Echo other than your own, more dangerous things can occur: 
 

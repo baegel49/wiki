@@ -14,7 +14,7 @@
 | --- | ---------------------------------------------------------------------- |
 | 1   | Finery (AP 2), Spyglass, Map Case, Charcoal & Paper, Hooded Lantern    |
 | 2   | Leather Apron (AP 3), Surgeon's Tools, Stretcher, 2 Elixir             |
-| 3   | Magewear (AP 3), Cerebreus, Spellbook, 3 Candles, Orb (+1 MD)          |
+| 3   | Magewear (AP 3), Cerebreus, Spellbook, 3 Candles, Orb (+1 SD)          |
 | 4   | Plainclothes (AP 1), Alchemical Pouch, 2x Powderwork Flares, Tinderbox |
 | 5   | Classical Robes (AP 1), Bronze Mirror, 1 Live Chicken on a lead        |
 
@@ -33,6 +33,6 @@
 | --- | ------------------------------------------------------------------------------------ |
 | 1   | Studded Leather Armour (AP 5), 2 Daggers, 6 Throwing Knives, Vial of Poison          |
 | 2   | Leather Armour (AP 4), Composite Bow, 16 Arrows, Caltrops, 5 Rations                 |
-| 3   | Anchorite Wraps (AP 1), Beads, 1x Kharakt (Skin of Iron, Speed of the Ryke, Warding) |
+| 3   | Anchorite Wraps (AP 1), Beads, 2x Kharakt (Skin of Iron, Speed of the Ryke, Warding) |
 | 4   | Plainclothes (AP 1), Map Case, Compass, Rope, Boarding Axe                           |
 | 5   | Plainclothes (AP 1), Dagger, Pry-bar, Chalk, Lockpick Set                            |

@@ -17,14 +17,14 @@ The Sunglass is the key. The Barrier Islands were partly explored by Sanctum exp
 
 ### Factions
 
-| Faction                          | Champion / class                                                   | Objective                                                     | Secret Objective                                                                                                        |
-| -------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Cenerian League                  | Sea Lord (Fighter)                                                 | Chart the route, claim salvage, honour the Sovereign's memory | Find proof of Andros's descent from Alvos. If the proof runs the other way, make sure no one carries the disproof home. |
-| Seventh Sanctum                  | Sage (Wizard / Lore Bard)                                          | Recover Mycea's lost archives                                 | Get there before the Pyosians do, and keep the choicest texts for the Sanctum alone.                                    |
-| Sect of Illumination (Eluminoi)  | Priest (Light Cleric / Celestial Warlock)                          | Lead the expedition on Andros's warrant; Mycea is holy ground | Prove Luminor never abandoned the city. A silent Mycea is a theological wound they must dress before it spreads.        |
-| Sect of Pyos                     | Oathkeeper (Order Cleric / Paladin)                                | Watch the operation; recover early oath-relics                | Prove the Pyosian creed was part of founding Mycean culture. Retrieve or destroy whatever settles it.                   |
-| Sigodo                           | Shade (Rogue / Shadow Monk)                                        | Hired specialist for the deep and the dark                    | Serve a patron's errand the others must not learn of: a Mycean weapon, or a name on a list.                             |
-| Minor factions (NPC or extra PC) | Trading Fellowship envoy; Thalen noble; Dunwarden guide; Anchorite | Coin, adventure, guidance, or impartial witness               | Varies. Note: a **Thalen noble** is the natural cover for the inside agent (see Sir Aldre, below).                      |
+| Faction                          | Champion / class                                                   | Objective                                                     | Secret Objective                                                                                                        | Item                                                 |
+| -------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| Cenerian League                  | Sea Lord (Fighter)                                                 | Chart the route, claim salvage, honour the Sovereign's memory | Find proof of Andros's descent from Alvos. If the proof runs the other way, make sure no one carries the disproof home. | Shield of Alvos, relieve toll SUM SD                 |
+| Seventh Sanctum                  | Sage (Wizard / Lore Bard)                                          | Recover Mycea's lost archives                                 | Get there before the Pyosians do, and keep the choicest texts for the Sanctum alone.                                    |                                                      |
+| Sect of Illumination (Eluminoi)  | Priest (Light Cleric / Celestial Warlock)                          | Lead the expedition on Andros's warrant; Mycea is holy ground | Prove Luminor never abandoned the city. A silent Mycea is a theological wound they must dress before it spreads.        |                                                      |
+| Sect of Pyos                     | Oathkeeper (Order Cleric / Paladin)                                | Watch the operation; recover early oath-relics                | Prove the Pyosian creed was part of founding Mycean culture. Retrieve or destroy whatever settles it.                   | Oathband: +1 minimum toll, [+] against being charmed |
+| Sigodo                           | Shade (Rogue / Shadow Monk)                                        | Hired specialist for the deep and the dark                    | Serve a patron's errand the others must not learn of: a Mycean weapon, or a name on a list.                             |                                                      |
+| Minor factions (NPC or extra PC) | Trading Fellowship envoy; Thalen noble; Dunwarden guide; Anchorite | Coin, adventure, guidance, or impartial witness               | Varies. Note: a **Thalen noble** is the natural cover for the inside agent (see Sir Aldre, below).                      |                                                      |
 
 ### The Sunglass
 
@@ -251,3 +251,8 @@ Use existing 5e stat blocks where noted; the unique NPCs are given as "base crea
 - **Mycean relics** — golden-age craftwork; pure value to the Trading Fellowship, and leverage with Councillor Alvane.
 - **The scoured tablet** — the Drowned Power's suppressed name, half-reconstructed. Worthless as coin, priceless as a thread for the next campaign.
 - **The Sunglass** — if it survives, the expedition keeps a working Phasonomic scrying-and-warding instrument. If Bodhar was freed, he keeps it working; if not, it may fail when they need it.
+
+
+
+Ripper Swarm: 48
+19 + 21 + 2 = 44
