@@ -1,18 +1,19 @@
 ### Melee Weapons
 
-| Weapon           | Cost | Impact | Wound          | Special                                                             |
-| ---------------- | ---- | ------ | -------------- | ------------------------------------------------------------------- |
-| Dagger           |      | 1d5    | Bleeding [+]   | 2d5 impact with knifework skill.                                    |
-| Mace             |      | 1d10   | Blunt          | Ignores half of target's AP (but not shields)                       |
-| One-handed Sword |      | 1d10   | Bleeding       | Can cleave enemies.                                                 |
-| Two-handed Sword |      | 3d10   | Gore           | Two-handed. Can cleave smaller enemies.                             |
-| Boarding Axe     |      | 1d10   | Gore           | [+] on damage against wooden objects such as doors, shields, trees. |
-| Battleaxe        |      | 2d10   | Gore [+]       | Two-handed. Forego damage to trip an enemy                          |
-| Halberd/Glaive   |      | 4d10   | Blunt/Bleeding | Two-handed.                                                         |
-| Spear            |      | 2d10   | Bleeding       | Can perform one attack as a reaction against a short weapon attack  |
-| Flail            |      | 1d10   | Gore           | Ignores shields                                                     |
-| Staff            |      | 1d5    | Blunt [-]      | Two-handed.                                                         |
-| Maul             |      | 2d10   | Blunt [+]      | Two-handed. Ignores half of target's AP                             |
+| Weapon           | Cost | Impact   | Wound          | Special                                                             |
+| ---------------- | ---- | -------- | -------------- | ------------------------------------------------------------------- |
+| Unarmed          |      | STR / 20 | Blunt [-]      |                                                                     |
+| Dagger           |      | 1d5      | Bleeding [+]   | 2d5 impact with knifework skill.                                    |
+| Mace             |      | 1d10     | Blunt          | Ignores half of target's AP (but not shields)                       |
+| Maul             |      | 2d10     | Blunt [+]      | Two-handed. Ignores half of target's AP (but not shields)           |
+| One-handed Sword |      | 1d10     | Bleeding       | Can cleave smaller enemies.                                         |
+| Two-handed Sword |      | 2d10     | Bleeding [+]   | Two-handed. Can cleave smaller enemies.                             |
+| Boarding Axe     |      | 1d10     | Gore           | [+] on damage against wooden objects such as doors, shields, trees. |
+| Battleaxe        |      | 2d10     | Gore [+]       | Two-handed. Forego damage to trip an enemy                          |
+| Halberd/Glaive   |      | 3d10     | Blunt/Bleeding | Two-handed.                                                         |
+| Spear            |      | 1d10     | Bleeding       | Can perform one attack as a reaction against a short weapon attack  |
+| Flail            |      | 1d10     | Blunt          | Ignores shields.                                                    |
+| Staff            |      | 1d5      | Blunt [-]      | Two-handed.                                                         |
 
 ### Ranged Weapons
 
