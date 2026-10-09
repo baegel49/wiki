@@ -5,6 +5,7 @@ Make a REST SAVE by using your worst save. If you succeed, reduce your Toll by t
 Gain 1d5 Resistance.
 **Flesh Wounds** are healed during Short Rests.
 **Minor Injuries** can be attempted to be healed using the appropriate tools, skills, or decoctions.
+Roll all expended SD dice. Results of 1-4 are returned to your pool. 
 **Spells** can be moved from scrolls or books and committed to the mind, or vice versa. 
 
 Short rests are modified by:

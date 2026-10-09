@@ -2,17 +2,21 @@ The southern realm of [[Osera]], inhabited by the [[Cenerian]] people. [[Ceneria
 
 The Cenerian realms and their associated cities are: 
 
-- [[Valkyros]] - [[Varanth]]
-- [[Lithandor]] - [[Movenna]]
-- 
+- [[Valkyros]] - [[Varanth]], [[Lynara]]
+- [[Maravon]] - [[Movenna]], [[Ospora]] (abandoned), [[Tanura]] (re-settled)
+- [[Limora]] - [[Naporia]]
+- [[Sarenna]] - [[Iphora]], [[Aranesse]], [[Oneos]] (abandoned)
+- [[Lithandros]] - [[Thenea Deuteron]], [[Sydon]]
+
 
 Islands associated with [[Ceneria]]: 
-[[Pyrgoa]] - [[Pallas]] & [[Seleia]] 
-[[Rialta]] - [[Enetia]]
-[[Misoros]] - [[Myrdenia]]
-[[Gorgos]] - [[Essalon]] & [[Halessa]] (abandoned)
-[[Mycorai]] - [[Pylos]] (abandoned)
-[[Valia]] - [[Thenea Epeson]] (abandoned)
+
+- [[Pyrgoa]] - [[Pallas]] & [[Seleia]] 
+- [[Rielta]] - [[Enetia]]
+- [[Misoros]] - [[Myrdenia]]
+- [[Gorgos]] - [[Essalon]] & [[Halessa]] (abandoned)
+- [[Mycorai]] - [[Pylos]] (abandoned)
+- [[Valia]] - [[Thenea Epeson]] (abandoned)
 
 
 

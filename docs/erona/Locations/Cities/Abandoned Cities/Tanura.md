@@ -1,1 +1,1 @@
-A former [[Cenerian League]] city sacked, looted, and effectively razed to the ground after the [[Voyage of Normund]]. It has now been abandoned by its former [[Cenerian]] population.
+A former [[Cenerian League]] city sacked, looted, and effectively razed to the ground after the [[Voyage of Normund]]. It was abandoned by its former [[Cenerian]] population but has since been re-settled by a mixture of those who fled, [[Sect of Pyos |Pyosian]] clerics, and [[Thalen]] settlers.  

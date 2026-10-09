@@ -2,16 +2,16 @@ Thalendor is the realm located in central [[Osera]], with its capital at [[Ostel
 
 The kingdom is divided into great holdings, ruled by Hertogs:
 
-Central lands:
+Central lands (Crownlands):
 
 - Ecardun - ruled by Ecard II
-- Crownlands - ruled directly by [[Normund]]
 - Highkeep - ruled by Merovin
 - Falcgard - ruled by Falcor II
 - Merryn
 - Donadun
 
 Northern lands (Northern Marches): 
+
 - Northwatch - ruled by Balghin
 - Dinven - ruled by Bathert
 

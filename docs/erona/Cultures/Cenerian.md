@@ -46,7 +46,7 @@ Recently, [[Andros]], Archon of [[Pallas]] has revived the old title of 'Soverei
 
 ![[cenerian_classes.png]]
 
-- **Seravon** - the ruling elite who own farmland and are called to fight as heavy cavalry. This elite is further divided by offices, such as *Archons*, *Councillors*, and *Kephars* who rule over fortresses, towns, and important villages. 
+- **Seravon** - the ruling elite who own farmland and are called to fight as heavy cavalry. This elite is further divided by offices, such as *Archons*, *Councillors*, and *Kephars* who rule over fortresses, towns, and important villages. There are further subdivisions, such as a Seravon who rules a certain amount of rural land beind named "companion" to signify his importance in the Archon's circle. 
 - **Citizens** - anyone living within the walls of a city, pays tax, and provides military service.
 - **Freemen** - free villagers, farmers, artisans not living within cities. Same rights as citizens but not allowed to live within the city
 - **Parasts** - military slaves that are exempt from manual labour as long as they fight
