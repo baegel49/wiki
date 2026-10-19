@@ -1,3 +1,15 @@
+---
+natural_resource: Cattle
+manufactured:
+  - Hides
+  - Leather
+  - Shields
+imports:
+  - Ship timber
+  - Grain
+  - Arms
+  - Wine
+---
 One of the last remaining [[Cenerian League]] aligned city on [[Zinnabar]] (the other being [[Mara-Halyon]]), and the first founded there by the [[Mycean]]s. Its inhabitants are nominally [[Cenerian]] but often still refer to themselves as [[Mycean]], while others refer to them as [[Southern]]. 
 
 #### Name

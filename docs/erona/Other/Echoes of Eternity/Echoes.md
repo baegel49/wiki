@@ -21,13 +21,22 @@ Her twin sister Lara has the opposite gift, that of invisibility. She can cast i
 ### Channelling your Echo
 Echoes are channelled through your Presence stat. Divide your Presence by 20 (rounding down). This is how many spell dice (SD) you have available to you innately, a measure of your echo's ability. 
 
-In all cases, how many SD you commit to the spell is how effective it is. It also has a higher chance of going wrong. Rolling doubles on your SD results in a mishap, and an Ego save needs to be made. If this is as part of your own Echo, you simply suffer TOLL on a failure. If the spell was cast through an Echo other than your own, more dangerous things can occur: 
+In all cases, how many SD you commit to the spell is how effective it is. It also has a higher chance of going wrong. 
+Rolling doubles on your SD results in a panic roll being made.
+Rolling triples requires an Ego save. On a success, trigger a panic roll. On a failure, suffer a Mind Wound.
+Rolling quadruples or higher always result in a Mind Wound.
 
-| 1D6 | Mishap                                                                                |
-| --- | ------------------------------------------------------------------------------------- |
-| 1   | The Echo escapes. Lose the spell permanently.                                         |
-| 2   | Lose the ability to cast the spell for a day.                                         |
-| 3   | The spell has the opposite effect, targeting you if harmful or enemies if beneficial. |
-| 4   | The spell fizzles violently. Take 1d10+5 damage and suffer 1d5 TOLL.                  |
-| 5   | The spell fizzles chaotically. Suffer 1d5 TOLL.                                       |
-| 6   | The spell fizzles harmlessly. Recover 1 TOLL.                                         |
+| 1D10 | Mind Wound                                                                                                                                     |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0    | **Flinch.** You lose your next action.                                                                                                         |
+| 1    | **Headache.** [-] on your next roll. Suffer 1 TOLL.                                                                                            |
+| 2    | **Nosebleed.** Take 1d5 damage. [-] on Presence checks until you rest.                                                                         |
+| 3    | **Ringing.** Your ears ring and your vision swims. [-] on all rolls for 1d10 rounds.                                                           |
+| 4    | **Aphasia.** Your words come out wrong or not at all. You can’t speak coherently or cast for 1d10 minutes.                                     |
+| 5    | **Memory Gap.** You lose the last 1d10 hours. You also forget one Trained skill until your next full rest.                                     |
+| 6    | **Black Out.** You collapse unconcious for this round and the next. Lose the ability to cast the spell for until you rest.                     |
+| 7    | **Seizure.** You fall prone and convulse for 1d5 rounds, taking 1d10 damage. [-] on Presence checks and Ego saves until treated.               |
+| 8    | **Hemorrhage.** Blood from the eyes and ears. You’re unconscious for 1d10 hours and permanently lose 1d10 Presence, which also lowers your SD. |
+| 9    | **Coma.** The Echo escapes and you lose the spell permanently. You are unconscious until roused by extraordinary means.                        |
+
+

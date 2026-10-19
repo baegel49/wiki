@@ -7,4 +7,4 @@ The etymology of the [[Dunwarden]] name suggests a [[Brethiln]] origin, and inde
 The [[Dunwarden]] are organised around patrols and base camps, the locations of which are known only to them. They have a strong presence in [[Naporia]] and [[Linov]], which act as northern and southern axes of organisation and recruitment. 
 
 #### Recruitment
-The [[Dunwarden]] are a politically agnostic order, taking in members from any social strata, religion, and creed. Their primary method of recruitment is by offering sanctuary to persecuted peoples, such as criminals and traitors. 
+The [[Dunwarden]] are a politically agnostic order, taking in members from any social strata, religion, and creed. Their primary method of recruitment is by offering sanctuary to persecuted peoples, such as criminals and traitors, but prefer volunteers. 
