@@ -342,7 +342,7 @@ button:focus-visible,.radio:focus-visible{outline:2px solid var(--ink);outline-o
   // Roll formulas: [number of dice, die size, flat bonus]
   var ROLLS={
     stat:[2,10,25],        // Strength, Speed, Intellect, Presence, Combat
-    save:[2,10,10],        // Ego, Fear, Body, Faith
+    save:[2,10,20],        // Ego, Fear, Body, Faith
     resistance:[1,10,10]   // Resistance (current and max)
   };
   var BASE={wnd_max:3, luck:1};   // before class bonuses (Warrior/Cleric +1 Wounds, Adept +1 Luck)
@@ -350,7 +350,7 @@ button:focus-visible,.radio:focus-visible{outline:2px solid var(--ink);outline-o
   var CLASSES={
     warrior:{mods:{combat:25,body:20,fear:15,wnd_max:1},skills:['t_1','t_10']},
     sage:{mods:{intellect:20,ego:25,presence:10,sd:1},skills:[]},
-    cleric:{mods:{faith:50,presence:25,ego:-10,wnd_max:1},skills:['t_17']},
+    cleric:{mods:{faith:40,presence:25,ego:-10,wnd_max:1},skills:['t_17']},
     adept:{mods:{strength:10,speed:10,intellect:10,presence:10,combat:10,ego:15,fear:15,body:15,faith:15,luck:1},skills:['t_0']}
   };
 

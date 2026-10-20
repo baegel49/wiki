@@ -1,6 +1,6 @@
 
-1. Roll Stats 4d10+20
-2. Roll Saves 3d10+20
+1. Roll Stats 2d10+25
+2. Roll Saves 2d10+20
 3. Choose Class
 4. Divide stats for modifiers.
 5. Assign [[Skills]]
@@ -48,7 +48,7 @@ A master within their specialty.
 Skills: 1 Master Skill + prerequisites. 1 Trained Skill.
 ##### Cleric
 A servant of the faith. 
-+50 Faith Save
++40 Faith Save
 +20 Presence
 -10 Ego Save
 +1 Max Wounds
