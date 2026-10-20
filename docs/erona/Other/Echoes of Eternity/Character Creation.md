@@ -7,7 +7,7 @@
 6. Choose (or roll) [[Loadouts]]
 7. Choose (or roll) [[Other/Echoes of Eternity/Echoes|Echoes]] (if applicable)
 
-
+[Character sheet](https://baegel49.github.io/eoe-sheet/){target=_blank}
 ### Stats
 
 ##### Strength
