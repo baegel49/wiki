@@ -7,11 +7,11 @@
 6. Choose (or roll) [[Loadouts]]
 7. Choose (or roll) [[Other/Echoes of Eternity/Echoes|Echoes]] (if applicable)
 
-[Character sheet](https://baegel49.github.io/eoe-sheet/){target=_blank}
+[Character sheet](../eoe/sheet.html)
 ### Stats
 
 ##### Strength
-Measure of your raw power. Divide by 10 for unarmed damage and how many inventory slots you have.
+Measure of your raw power. Divide by 20 for unarmed damage.
 ##### Speed
 How fast you are under pressure. Divide by 20 for your innate Armour Points (AP).
 ##### Intellect
@@ -19,7 +19,7 @@ How capable you are with your mind. Divide by 20 for how many Echoes you can bin
 ##### Presence
 Your will and charisma manifest. Divide by 20 for how powerful your Echo is and gain that many Spell Dice (SD). 
 ##### Combat
-Your ability to fight. Divide by 10 for impact bonus dealt by weapons. 
+Your ability to fight. Divide by 20 for impact bonus dealt by weapons. 
 
 ### Saves
 ##### Ego
