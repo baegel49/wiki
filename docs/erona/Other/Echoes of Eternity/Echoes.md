@@ -1,8 +1,21 @@
-Except for rare cases, every character has an Echo. [[Beings/Echoes|Echoes]] are (mostly) permanent aspects of one's being, and are used to channel (one specific type of) magic. You can bind up to (INT/20) Echoes in your mind. For all intents and purposes, an Echo is synonymous with a spell.
+Except for rare cases, every character has an Echo. [[Beings/Echoes|Echoes]] are (mostly) permanent aspects of one's being, and are used to channel (one specific type of) magic. You can bind up to INT / 20 Echoes in your mind. For all intents and purposes, an Echo is synonymous with a spell.
 The only way to learn more spells is to capture another's Echo and bind it in your mind, on paper, objects, or even the earth, using Arcanum, Phasonomy, or Geomancery, respectively. 
 
 When creating your Echo, consult the table below for ideas as to its possible effects. Echoes are shaped by the likes, wants, and desires of their hosts, and your Echo will reflect your life experience. Echoes can change over time, but are often immutable by the time your character becomes an adult, unless undergoing severe life changes or trauma. 
+
 SD = Amount of spell dice used, SUM = the sum of the spell dice rolled.
+
+Echoes are not limitless in power. Roughly speaking, a character has 5 points to spend on their Echo's abilities:
+
+| Variable | Basic (0)              | Improved (1)           | Enhanced (2)                               | Superior (3)       |
+| -------- | ---------------------- | ---------------------- | ------------------------------------------ | ------------------ |
+| Range    | Touch                  | Close                  | Long                                       | Extreme            |
+| Target   | One creature or object | [SD] creatures/objects | [SUM] creatures/objects oOR [SD] x 5' area | [SD] x 10' area    |
+| Amount   | One                    | [SD]                   | [SUM]                                      | [SD] + [SUM]       |
+| Duration | Instant                | [SD] minutes           | [SD] * 10 minutes                          | [SUM] * 10 minutes |
+
+
+Examples of Echoes: 
 
 | D10 | Nature of Echo    | Examples                                                                                                                                                                                                                                                                                                        |
 | --- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -10,16 +23,12 @@ SD = Amount of spell dice used, SUM = the sum of the spell dice rolled.
 | 2   | Transform         | Transform [SD] pounds of wood, stone, iron, copper, silver, or gold for [SUM] minutes.<br>Shapeshift into an animal for [SUM] minutes. (1SD=tiny animal, 2=medium, 3=large, +1 SD for flying)                                                                                                                   |
 | 3   | Hasten/Slow       | Give [SD] allies the 'Fast' weapon trait OR [SD] enemies the 'unwieldy' trait for [SUM] minutes.<br>[-] OR [+] to speed checks to [SD] creature for [SUM] minutes.                                                                                                                                              |
 | 4   | Weaken/Strengthen | Weaken OR strengthen a creature's AP by [SD] for [SUM] minutes. <br>Weaken OR strengthen a creature's stat by [SUM] for [SD] rounds.                                                                                                                                                                            |
-| 5   | Protect/Damage    | Give [SD] extra AP to a creature for [SUM] minutes * 10. <br>Damage a creature for [SUM] + [SD] damage.                                                                                                                                                                                                         |
+| 5   | Protect/Damage    | Give [SD] extra AP to a creature for [SUM] minutes * 10. <br>Damage a creature for [SUM] + [SD] impact without a save.<br>Force all creatures in a [SD]x5' area to make a Body save or take [SUM] impact.                                                                                                       |
 | 6   | Restrain/Unleash  | Restrain a creature for [SD] rounds. Paralyse them completely with 3 SD. <br>Lock an object shut for [SUM] minutes, each [SD] giving -10 to strength tests to open them.                                                                                                                                        |
 | 7   | Enchant/Compel    | Make [SD] creatures afraid of you for [SUM] minutes.<br>Charm someone into liking you for [SUM] hours. 4 SD makes this permanent.                                                                                                                                                                               |
-| 8   | Conjure           | Summon a familiar for [SUM] hours. A 24 hour summon becomes permanent until killed.<br>Raise a corpse (C:25 I: 20) for [SD] hours with [SD] wounds. It will obey two-word commands.                                                                                                                             |
+| 8   | Conjure           | Summon a familiar for [SUM] hours. A 24 hour summon becomes permanent until killed.<br>Raise a corpse (C:25 I: 20) for [SD] hours with [SD] wounds. It will obey two-word commands.<br>Conjure an [SD]x5' area illusion OR [SD] illusory copies of yourself                                                     |
 | 9   | Utility           | Sleep [SD] creatures with 1 wound, or 1 creature with [SD] wounds for [SUM] minutes.<br>Become invisible for [SD] * 10 minutes. Each round of movement reduces the duration by 10 minutes.<br>Heal a wound of severity equal to [SD] OR heal [SUM] resistance. <br>Speak with a corpse's Echo for [SD] minutes. |
 | 10  | Wild              | A random effect triggers.                                                                                                                                                                                                                                                                                       |
-These are just guidelines. 
-For instance, Karn the Sage has a history of fire, being born near a burning orphanage. This has imprinted on his echo, and he channels it to damage those he deems deserving. He calls this spell "Fireball", and it damages everything in an SDx5' area via fiery explosion for the SUM of SD rolled.
-Kara is less violently inclined, and her echo is capable of conjuring illusions. She can conjure an SDx5' illusion for as long as she concentrates on it. Alternatively, she can conjure SD amount of illusions roughly her own size. 
-Her twin sister Lara has the opposite gift, that of invisibility. She can cast invisibility on a creature or object for SDx10 minutes, but the spell weakens with movement. Each round of movement reduces the duration by 10 minutes.
 
 ### Channelling your Echo
 Echoes are channelled through your Presence stat. Divide your Presence by 20 (rounding down). This is how many spell dice (SD) you have available to you innately, a measure of your echo's ability. 
