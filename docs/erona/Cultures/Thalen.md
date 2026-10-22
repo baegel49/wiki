@@ -2,7 +2,7 @@
 
 Migrants from the [[Unsung Lands]], the [[Thalen]] are master horsemen: lance and stirrup were both perfected under their hand. The harsh eastern threats of their homeland made fortifiers of them too, and the castle-building knowledge they carried into [[Osera]] gave them a sharp edge over the [[Brethiln]] on whose lands [[Thalendor]] was founded.
 
-**Male Names:** Alay, Alaren, Athegar, Amalric, Anbard, Baldulf, Borvald, Brunn, Chalric, Cunbert, Dalard, Durold, Ecard, Erdurand, Folc, Funbard, Galrec, Galthard, Gilvard, Gunteric, Hecard, Harobert, Inric, Lomarc, Lorgand, Merovic, Norbund, Olither, Osric, Perin, Romund, Rothard, Servic, Sigard, Sorgar, Thalric, Thalvin, Tharerd, Theodric, Ulvard, Varmund, Vigother
+**Male Names:** Alay, Alaren, Athegar, Amalric, Anbard, Baldulf, Borvald, Brunn, Chalric, Cunbert, Dalard, Durold, Ecard, Erdurand, Folc, Funbard, Galrec, Galthard, Gilvard, Gunteric, Hecard, Harobert, Inric, Lomarc, Lorgand, Merovic, Norbund, Olither, Osric, Perin, Rogard, Romund, Rothard, Servic, Sigard, Sorgar, Thalric, Thalvin, Tharerd, Theodric, Ulvard, Varmund, Vigother
 
 **Female Names:** Adalis, Asela, Beltrud, Beswinda, Brunda, Catalida, Carmenet, Daliset, Elta, Elys, Eywyn, Friduna, Gerta, Gisilind, Iliset, Isigund, Liena, Lis, Melind, Mitela, Roslind, Saraset, Sigalind, Silvind, Thalva, Theuda, Vilatrud
 #### Appearance

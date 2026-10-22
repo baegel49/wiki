@@ -1,18 +1,21 @@
-Except for rare cases, every character has an Echo. Echoes are (mostly) permanent aspects of one's being, and are used to channel (one specific type of) magic. You can bind up to (INT/20) Echoes in your mind.
-The only way to learn more spells is to capture another's Echo and bind it in paper, objects, or even the earth, using Arcanum, Phasonomy, or Geomancery, respectively. 
+Except for rare cases, every character has an Echo. [[Beings/Echoes|Echoes]] are (mostly) permanent aspects of one's being, and are used to channel (one specific type of) magic. You can bind up to (INT/20) Echoes in your mind. For all intents and purposes, an Echo is synonymous with a spell.
+The only way to learn more spells is to capture another's Echo and bind it in your mind, on paper, objects, or even the earth, using Arcanum, Phasonomy, or Geomancery, respectively. 
 
-| D10 | Nature of Echo    |
-| --- | ----------------- |
-| 1   | Null              |
-| 2   | Transform         |
-| 3   | Slow/Hasten       |
-| 4   | Weaken/Strengthen |
-| 5   | Protect           |
-| 6   | Damage            |
-| 7   | Restrain/Unleash  |
-| 8   | Enchant/Compel    |
-| 9   | Conjure           |
-| 10  | Utility           |
+When creating your Echo, consult the table below for ideas as to its possible effects. Echoes are shaped by the likes, wants, and desires of their hosts, and your Echo will reflect your life experience. Echoes can change over time, but are often immutable by the time your character becomes an adult, unless undergoing severe life changes or trauma. 
+SD = Amount of spell dice used, SUM = the sum of the spell dice rolled.
+
+| D10 | Nature of Echo    | Examples                                                                                                                                                                                                                                                                                                        |
+| --- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Null              | Unaffected by targeting of spells (except those which target the material world such as a fireball).                                                                                                                                                                                                            |
+| 2   | Transform         | Transform [SD] pounds of wood, stone, iron, copper, silver, or gold for [SUM] minutes.<br>Shapeshift into an animal for [SUM] minutes. (1SD=tiny animal, 2=medium, 3=large, +1 SD for flying)                                                                                                                   |
+| 3   | Hasten/Slow       | Give [SD] allies the 'Fast' weapon trait OR [SD] enemies the 'unwieldy' trait for [SUM] minutes.<br>[-] OR [+] to speed checks to [SD] creature for [SUM] minutes.                                                                                                                                              |
+| 4   | Weaken/Strengthen | Weaken OR strengthen a creature's AP by [SD] for [SUM] minutes. <br>Weaken OR strengthen a creature's stat by [SUM] for [SD] rounds.                                                                                                                                                                            |
+| 5   | Protect/Damage    | Give [SD] extra AP to a creature for [SUM] minutes * 10. <br>Damage a creature for [SUM] + [SD] damage.                                                                                                                                                                                                         |
+| 6   | Restrain/Unleash  | Restrain a creature for [SD] rounds. Paralyse them completely with 3 SD. <br>Lock an object shut for [SUM] minutes, each [SD] giving -10 to strength tests to open them.                                                                                                                                        |
+| 7   | Enchant/Compel    | Make [SD] creatures afraid of you for [SUM] minutes.<br>Charm someone into liking you for [SUM] hours. 4 SD makes this permanent.                                                                                                                                                                               |
+| 8   | Conjure           | Summon a familiar for [SUM] hours. A 24 hour summon becomes permanent until killed.<br>Raise a corpse (C:25 I: 20) for [SD] hours with [SD] wounds. It will obey two-word commands.                                                                                                                             |
+| 9   | Utility           | Sleep [SD] creatures with 1 wound, or 1 creature with [SD] wounds for [SUM] minutes.<br>Become invisible for [SD] * 10 minutes. Each round of movement reduces the duration by 10 minutes.<br>Heal a wound of severity equal to [SD] OR heal [SUM] resistance. <br>Speak with a corpse's Echo for [SD] minutes. |
+| 10  | Wild              | A random effect triggers.                                                                                                                                                                                                                                                                                       |
 These are just guidelines. 
 For instance, Karn the Sage has a history of fire, being born near a burning orphanage. This has imprinted on his echo, and he channels it to damage those he deems deserving. He calls this spell "Fireball", and it damages everything in an SDx5' area via fiery explosion for the SUM of SD rolled.
 Kara is less violently inclined, and her echo is capable of conjuring illusions. She can conjure an SDx5' illusion for as long as she concentrates on it. Alternatively, she can conjure SD amount of illusions roughly her own size. 
