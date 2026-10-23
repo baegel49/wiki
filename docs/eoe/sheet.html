@@ -179,6 +179,13 @@ button:focus-visible,.radio:focus-visible{outline:2px solid var(--ink);outline-o
 .skn{position:absolute;font-size:1.75cqw;font-family:inherit;text-align:center;padding:0;border-radius:4px}
 @media (prefers-reduced-motion:reduce){.sk .dot{transition:none}}
 
+.circ{position:relative;container-type:inline-size;overflow:hidden}
+.sheet .circ>input{position:absolute;inset:0;width:100%;height:100%;padding:0;margin:0;line-height:1;text-align:center;border-radius:50%;font-size:40cqw}
+.sheet .stat .mod>input{font-size:62cqw}
+.sheet .sd .circ>input{font-size:46cqw}
+.shape.faith{container-type:inline-size}
+.sheet .shape.faith>input{width:72%;padding:0;line-height:1;font-size:32cqw}
+.sheet .shape>input{padding:0}
 @media screen and (max-width:760px){
   body{font-size:16px}
   .top{grid-template-columns:1fr}
