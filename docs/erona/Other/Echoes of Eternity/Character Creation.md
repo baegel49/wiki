@@ -5,7 +5,7 @@
 4. Divide stats for modifiers.
 5. Assign [[Skills]]
 6. Choose (or roll) [[Loadouts]]
-7. Choose (or roll) [[Other/Echoes of Eternity/Echoes|Echoes]] (if applicable)
+7. Choose (or roll) [[Spellcasting|Spellcasting]] (if applicable)
 
 [Character sheet](../eoe/sheet.html)
 ### Stats

@@ -1,1 +1,3 @@
 Former city of the [[Cenerian League]] which was abandoned after a bright flash engulfed nearly all of the metropolis. Only fishermen and merchant ships survived the ensuing blast. Rumoured to have left behind a crater with perfectly smooth, mirror-like walls. It was the location of the Sixth Sanctum.
+
+Rumours abound that the [[Sect of Pyos]] had "written off" the city from reality after a dispute expelled all Pyosians from the city. The sect does not dispute this, but keeps mum as to its veracity.

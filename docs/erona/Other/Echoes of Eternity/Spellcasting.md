@@ -1,5 +1,5 @@
 Except for rare cases, every character has an Echo. [[Beings/Echoes|Echoes]] are (mostly) permanent aspects of one's being, and are used to channel (one specific type of) magic. You can bind up to INT / 20 Echoes in your mind. For all intents and purposes, an Echo is synonymous with a spell.
-The only way to learn more spells is to capture another's Echo and bind it in your mind, on paper, objects, or even the earth, using Arcanum, Phasonomy, or Geomancery, respectively. 
+The only way to learn more spells is to capture another's Echo and bind it in your mind, on paper/parchment, objects, or even the earth, using Arcanum, Phasonomy, or Geomancery, respectively. 
 
 When creating your Echo, consult the table below for ideas as to its possible effects. Echoes are shaped by the likes, wants, and desires of their hosts, and your Echo will reflect your life experience. Echoes can change over time, but are often immutable by the time your character becomes an adult, unless undergoing severe life changes or trauma. 
 
