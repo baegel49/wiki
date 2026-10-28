@@ -14,7 +14,7 @@
 | Detection Amulet*     |      1,000sp      | Vibrates quietly near bound Echoes.                                                                |
 | Elixir*               |       250sp       | Heal 1d10 Resistance or a flesh wound. Risk of addiction and overdosing.                           |
 | Fine Camping Kit      |       150sp       | Tent, canteen, stove, rucksack, compass, sleeping bag. +10 to rest saves.                          |
-| Gear Almanac          |     20,000sp      | [+] on navigation and calendar reckoning by stars and sun.                                         |
+| Gear Almanac          |      6,000sp      | [+] on navigation and calendar reckoning by stars and sun.                                         |
 | Glimstone Lamp        |       400sp       | Fireless light for 4 hours. Recharges after a full day in sunlight.                                |
 | Grappling Hook & Cord |       45sp        | Climbing, plus boarding from ship to ship.                                                         |
 | Healer’s Pouch        |       25sp        | Herbs and spices, [+] on body saves against disease, poisoning and minor ailments.                 |
@@ -29,7 +29,7 @@
 | Pilot Chart*          |  50sp per route   | [+] on navigation along that one sea route.                                                        |
 | Powderwork Flare*     |       50sp        | Shoots a bright light into the air. 1d5 Fire on a hit, [-] to hit. Explodes on a critical failure. |
 | Prayer Cord           |        5sp        |                                                                                                    |
-| Pry Bar               |        5sp        |                                                                                                    |
+| Pry Bar               |        5sp        | [+] on opening wooden doors, can be used as a club.                                                |
 | Rations (×7)          |       25sp        | One day of food each, water not included.                                                          |
 | Rope (30m)            |       15sp        |                                                                                                    |
 | Rucksack              |       10sp        |                                                                                                    |

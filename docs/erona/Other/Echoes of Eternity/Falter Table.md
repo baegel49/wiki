@@ -1,9 +1,9 @@
 
 | D20 |     Result     | Effect                                                                                                                                     |
 | :-: | :------------: | ------------------------------------------------------------------------------------------------------------------------------------------ |
-|  1  |  Second Wind   | [+] on next roll; relieve 1d5 Toll                                                                                                         |
+|  1  |  Second Wind   | [+] on next roll; relieve 1 Toll                                                                                                           |
 |  2  |    Nervous     | Suffer 1 Toll.                                                                                                                             |
-|  3  |   Trembling    | [-] on next roll.                                                                                                                          |
+|  3  |   Trembling    | [-] on next roll. Suffer 1 Toll.                                                                                                           |
 |  4  |     Fumble     | Gain 2 Toll. Drop what you're holding. All party members gain 1 toll.                                                                      |
 |  5  |    Rattled     | [-] on all rolls for 1 hour.                                                                                                               |
 |  6  |     Frozen     | Lose your next action. Gain 1 minimum Toll                                                                                                 |
@@ -20,4 +20,4 @@
 | 17  |     Doomed     | Affliction. All critical successes are critical failures instead.                                                                          |
 | 18  |    Wavering    | Affliction. Falter checks are made at [-].                                                                                                 |
 | 19  |    Collapse    | Reduce Max Wounds by 1. [-] on all rolls for the next week. Minimum Toll increases by 1.                                                   |
-| 20  |    Succumb     | You speak your last words, and die.                                                                                                        |
+| 20  |    Succumb     | You speak your last words, perform one action, and die.                                                                                    |
