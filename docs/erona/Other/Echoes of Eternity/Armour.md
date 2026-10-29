@@ -1,19 +1,20 @@
 Armour stacks with innate AP. 
 Armour degrades whenever an attack's impact exceeds its AP value.
-An armourpiece's AP is subtracted from incoming damage.
+An armour piece's AP is subtracted from incoming damage.
 When an armour's AP reaches 0, it breaks beyond repair.
 
-| Armor           |  Cost  | AP  |         Special         |
-| --------------- | :----: | :-: | :---------------------: |
-| Plainclothes    |  20sp  |  1  |                         |
-| Magewear        | 1000sp |  3  |          +1 SD          |
-| Finery          | 2500sp |  2  | [-] Speed, [+] Presence |
-| Leather         | 150sp  |  4  |                         |
-| Gambeson        | 250sp  |  5  |   [-] on Speed checks   |
-| Chainmail       | 1750sp |  7  |   [-] on Speed checks   |
-| Cenerian Scale  | 2500sp |  8  |   [-] on Speed checks   |
-| Feathered Scale | 3000sp |  6  |      [+] Presence       |
-| Segmented Plate | 4000sp | 10  |   [-] on Speed checks   |
+| Armor               |  Cost  | AP  |         Special         |
+| ------------------- | :----: | :-: | :---------------------: |
+| Plainclothes        |  20sp  |  1  |                         |
+| Traveller's Clothes |  75sp  |  2  |                         |
+| Magewear            | 1000sp |  3  |          +1 SD          |
+| Finery              | 2500sp |  2  | [-] Speed, [+] Presence |
+| Leather             | 150sp  |  4  |                         |
+| Gambeson            | 250sp  |  5  |   [-] on Speed checks   |
+| Chainmail           | 1750sp |  7  |   [-] on Speed checks   |
+| Cenerian Scale      | 2500sp |  8  |   [-] on Speed checks   |
+| Feathered Scale     | 3000sp |  6  |      [+] Presence       |
+| Segmented Plate     | 4000sp | 10  |   [-] on Speed checks   |
 
 ### Shields
 Shields' AP is not stackable with an amour pieces AP or innate AP, and degrade separately.

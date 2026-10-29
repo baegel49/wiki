@@ -1,3 +1,4 @@
+All characters gain one loadout from below and 2d10x10 silver pieces (sp), re-rolling ones. 
 ### Warrior
 
 | D10 | Loadout                                                                                                         |

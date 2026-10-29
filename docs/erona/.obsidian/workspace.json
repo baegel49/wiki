@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Echoes of Eternity/Equipment.md",
+                "file": "Other/Echoes of Eternity/Character Creation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Equipment"
+              "title": "Character Creation"
             }
           }
         ],
@@ -244,20 +244,21 @@
   },
   "active": "5671352ee51ee391",
   "lastOpenFiles": [
+    "Other/Echoes of Eternity/Armour.md",
+    "Other/Echoes of Eternity/Equipment.md",
+    "Other/Echoes of Eternity/Character Creation.md",
     "Other/Echoes of Eternity/Falter Table.md",
     "Other/Echoes of Eternity/Feats.md",
-    "Other/Echoes of Eternity/Equipment.md",
+    "Other/Echoes of Eternity/Ranges.md",
+    "Other/Echoes of Eternity/Loadouts.md",
     "Other/Echoes of Eternity/Wounds.md",
     "Other/Echoes of Eternity/Spellcasting.md",
     "Factions/Sect of the Lodestar.md",
     "Beings/Echoes.md",
     "Locations/Cities/Abandoned Cities/Thenea Epeson.md",
     "Other/Echoes of Eternity/Weather.md",
-    "Other/Echoes of Eternity/Loadouts.md",
     "Cultures/Thalen.md",
-    "Other/Echoes of Eternity/Character Creation.md",
     "Other/Echoes of Eternity/Weapons.md",
-    "Other/Echoes of Eternity/Armour.md",
     "Other/Trade.md",
     "Locations/Cities/League Cities/Aspola.md",
     "Locations/Cities/League Cities/Asparon.md",
@@ -269,7 +270,6 @@
     "Locations/Erona.md",
     "Cultures/Cenerian.md",
     "Other/Adventure Starts.md",
-    "Cultures/Rurii.md",
     "Untitled",
     "Other/Echoes of Eternity",
     "z.Images/Pasted image 20260722171754.png",
