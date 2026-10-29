@@ -16,6 +16,7 @@
 | Flail            | 40sp  |   1d10   |     Blunt      | Ignores shields.                                                              |
 | Staff            |  5sp  |   1d5    |   Blunt [-]    | Reach. Topple. Two-handed.                                                    |
 | Lance            | 20sp  |   4d10   |    Gore [+]    | Mounted. Reach.                                                               |
+
 ##### Fast
 Fast weapons can attack twice in one round.
 ##### Mounted
