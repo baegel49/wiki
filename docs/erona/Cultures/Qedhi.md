@@ -8,7 +8,7 @@ The [[Qedhi]] relationship with their conquerors was not always harmonious. Over
 
 
 #### Beliefs
-Originally, the [[Qedhi]] believed in their own god, its name now lost to time. Many [[Qedhi]] instead converted to the [[Mycean]] pantheon, being drawn in particular to [[Luminor]], though not as part of the [[Sect of Illumination]], preferring their own style of worship (most likely inherited from their previous religion, which likely fused). This includes differences such as preferring entombment over burning bodies, as would be traditional in the worship of [[Luminor]]. 
+Originally, the [[Qedhi]] believed in their own god, its name now lost to time. Many [[Qedhi]] instead converted to the [[Mycean]] pantheon, being drawn in particular to [[Luminor]], though not as part of the [[Sect of Illumination]], preferring their own style of worship (most likely inherited from their previous religion). This includes differences such as preferring entombment over burning bodies, as would be traditional in the worship of [[Luminor]]. 
 
 Over time, the [[Qedhi]]s' skill in masonry was translated into [[Glimstone]] cutting on behalf of the [[Sect of Illumination]], though often as indentured serfs. To this day, many [[Qedhi]] quarters still specialise in the cutting of the stone for the Eluminoi. 
 

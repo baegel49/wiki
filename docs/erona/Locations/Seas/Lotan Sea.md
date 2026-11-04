@@ -1,0 +1,1 @@
+The northernmost sea separating the northern stretches above [[The Eye]] between [[Osera]] and [[Hespenor]]. The [[Ykrittar]] are known to sail these cold waters.

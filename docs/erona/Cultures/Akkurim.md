@@ -1,5 +1,6 @@
-The [[Akkurim]] are an #extinct culture that used to inhabit the eastern parts of [[Halcyon]], long before it became [[Osera]]. They were one of the great challengers of the First League, being renowned for their chariots and pike formations. They were smaller people than the [[Mycean]]s, though not by much. 
+The [[Akkurim]] are an #extinct culture that used to inhabit the eastern parts of [[Halcyon]], long before it became [[Osera]]. They were one of the great challengers of the First League, being renowned for their chariots and pike formations. They were marginally smaller people than the [[Mycean]]s, and were known in particular for being in touch with their [[Echoes]].
 
+<!--
 #### Meta 
 - Responsible for [[Arcanum]] in its earliest form, later adopted by [[Mycean]]s
 - Worshipped a God of truth and order known as [[Ennu]], and an 'evil deity' of war and murder as counterweight known as [[Anzim]]. (Pyos, Anzo)

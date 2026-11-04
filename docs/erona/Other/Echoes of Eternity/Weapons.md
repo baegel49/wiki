@@ -51,3 +51,12 @@ Unwieldy weapons always go last, even with a successful combat check.
 | Powderwork Flare | 60sp  |   1d5   |   Long   | Fire [-] |                                                                     |
 | Weighted Net     | 25sp  |    -    | Adjacent |    -     | Body Save or entrap enemy, rendering them unable to fight           |
 | Ballista         |   -   | 1 Wound |   Long   | Gore [+] |                                                                     |
+
+#### Ammunition
+
+| Type         | Amount | Cost | Weapon      |
+| ------------ | ------ | ---- | ----------- |
+| Arrows       | 20     | 10sp | Bows        |
+| Bolts        | 12     | 10sp | Crossbows   |
+| Lead bullets | 50     | 10sp | Slings      |
+| Oil          | 1 skin | 20sp | Firethrower |

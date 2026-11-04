@@ -15,6 +15,7 @@ The Brethiln are believed to be the ancestral inhabitants of Osera. Their own st
 Brethiln are pastoralists with some limited agriculture, mostly dedicated to the eventual production of alcohol. They are a gregarious people, holding many feasts (especially after a bountiful hunt) that are celebrated with the wider village or town. Brethiln do not have cities as such, and the largest equivalent are fortress towns home to some hundreds of people but no more. 
 #### Beliefs
 The Brethiln believe in '[[World-Father]]' as a primary deity, attributing all life and existence to him. The Brethiln believe that he made all beings, and that he will judge them collectively in the end-times. Some Brethiln believe the [[Collapse]] were those end-times, and that any who survived are now doomed to wander the world, even after death. In their view, the World-Father judged the Brethiln poorly, and their recent setbacks as a people to the [[Thalen]] conquests is proof of this.
+The **Druids** are split on whether the end-times have been reached or not, and it remains a contentious issues at the moot. 
 
 ![](https://i.pinimg.com/736x/dc/a4/5a/dca45ad2935433f3830f8348eff5fde5.jpg)
 #### Politics

@@ -8,7 +8,7 @@ Cenerians are a proud urban & seafaring culture that traces its lineage back to 
 #### Appearance
 [[Cenerian]]s are average height people, often having a swarthier appearance than their [[Brethiln]] or [[Thalen]] neighbours, especially those who live on [[Zinnabar]]. Shorter hair is considered virtuous among males, especially the nobility, and females often grow their hair out but are expected to cover it, the covering's fabric revealing their social status. Colourful cloth is highly appreciated, particularly in the shades of the sea. 
 #### Origin
-Cenerians are named after the southern region of [[Osera]] initially named by the Mycean seafaring colonisers. In time, these colonies began to self-identify among themselves and others as Cenerian, a name and people that survived the [[Collapse]]. 
+Cenerians are named after the southern region of [[Osera]] initially named [[Ceneria]] by the Mycean seafaring colonisers. In time, these colonies began to self-identify among themselves and others as Cenerian, a name and people that survived the [[Collapse]]. 
 #### Culture
 Cenerians have inhabited much from their Mycean origin. They have continued the urban traditions upon which their initial colonisation efforts rested. They have also continued the seafaring traditions of their ancestors, and every city in their culture is linked by river, coast, or sea routes. 
 
@@ -21,8 +21,8 @@ Cenerians have three cultural norms that were passed down from [[Mycean]] days:
 - **Nemesis** - Anyone committing acts of hubris, shame, or disrespect welcome *nemesis* as a response to their social violations, which in extreme circumstances can mean exile or that one's life is forfeit to whoever chooses to take it, in essence, an outlaw.
 
 #### Beliefs
-Cenerians believe in four primary deities, two of which are considered 'good' and 'bad' respectively. Minor deities, 'Daemons' exist in all living things according to Cenerians and are referred to as '[[Beings/Echoes]]' of the soul. 
-The primary deities are further split in two: one 'primeval' deity and one 'human' deity, representing the grander beginnings before humanity and humanity's ascension/fall respectively.
+Cenerians believe in four primary deities, two of which are considered 'good' and 'evil' respectively. Minor deities, 'Daemons' or 'Genies' exist in all living things according to Cenerians and are referred to as '[[Beings/Echoes]]' of the soul. 
+The dichotomy of good and evil is further split in two: one 'primeval' deity and one 'human' deity, representing the grander beginnings before humanity and humanity's ascension/fall respectively.
 ##### Deities
 Listed in order of 'acceptability of worship' in Cenerian society:
 - **[[Luminor]]** - primeval deity of light, fire, life, and truth, represented by the sun. Worshipped by the [[Sect of Illumination]]
@@ -32,13 +32,11 @@ Listed in order of 'acceptability of worship' in Cenerian society:
 
 ![](https://i.redd.it/rurvtjw2lgn41.png)
 #### Politics
-Cenerians have strong political foundations. Their society is organised along urban foundations, each city making up its own polity. Though variations exist, most are headed by an 'Archon' and a 'Seneshals' who are elected from among the most powerful families who have proven their virtue (done through family records, general social gravitas, leading defences or navies, and through investing funds into public works). These elections can be for life, though this is uncommon. Most Archon-Seneshal duos are voted out when they fall out of favour, if they are not assassinated first. 
+Cenerians have a strong political history. Their society is organised along urban foundations, each city making up its own polity. Though variations exist, most are headed by an 'Archon' and a 'Vizier' who are elected from among the most powerful families who have proven their *honour* (done through family records, general social gravitas, leading defences or navies, and through investing funds into public works). These elections can be for life, though this is uncommon. Most Archon-Vizier duos are voted out when they fall out of favour, if they are not assassinated first. 
 
-The cities are linked via the [[Cenerian League]], founded in the aftermath of the [[Collapse]] by the Archon of [[Pallas]] and [[Enetia]] as a union of northern and southern [[Ceneria]]. 
+The cities are politically linked via the [[Cenerian League]], founded in the aftermath of the [[Collapse]] by the Archons of [[Pallas]] and [[Enetia]] as a union of northern and southern [[Ceneria]]. The exception to this is the far city of [[Karsolam]] which rules itself under different conditions while nominally remaining part of the wider Cenerian world. 
 
-The exception to this is the far city of [[Karsolam]] which rules itself under different conditions while nominally remaining part of the wider Cenerian world. 
-
-Recently, [[Andros]], Archon of [[Pallas]] has revived the old title of 'Sovereign', an event known as the [[Crowning of Andros]]. 
+Recently, [[Andros]], Archon of [[Pallas]] has revived the old title of 'Sovereign', during an event known as the [[Crowning of Andros]]. 
 
 #### Society
 [[Cenerian]] society is socially fluid among its free citizens, but not its slave caste. A rough outline: 
@@ -46,18 +44,18 @@ Recently, [[Andros]], Archon of [[Pallas]] has revived the old title of 'Soverei
 
 ![[cenerian_classes.png]]
 
-- **Seravon** - the ruling elite who own farmland and are called to fight as heavy cavalry. This elite is further divided by offices, such as *Archons*, *Councillors*, and *Kephars* who rule over fortresses, towns, and important villages. There are further subdivisions, such as a Seravon who rules a certain amount of rural land beind named "companion" to signify his importance in the Archon's circle. 
-- **Citizens** - anyone living within the walls of a city, pays tax, and provides military service.
-- **Freemen** - free villagers, farmers, artisans not living within cities. Same rights as citizens but not allowed to live within the city
-- **Parasts** - military slaves that are exempt from manual labour as long as they fight
-- **Slaves** - hereditary slaves from the first peoples conquered by the [[Mycean]]s
-
+- **Lords** - the upper caste includes Archons, Viziers, *Councillors*, and the *Kephars* who rule over fortresses, larger towns, and armies.
+- **Seravon** - the lower elite who own farmland and are called to fight as heavy cavalry. Seravon roughly translates to 'retainer', though in practice now means 'noble'. There are further subdivisions, such as a Seravon who rules a certain amount of rural land or small town or village being named "companion" to signify their importance. 
+- **Citizens** - anyone living within the walls of a city, paying tax, and providing military service.
+- **Freemen** - free villagers, farmers, artisans not living within cities. Same rights as citizens but not allowed to live within the city.
+- **Parasts** - military slaves that are exempt from manual labour as long as they fight. Are often released from their servile status if proving themselves on campaign.
+- **Slaves** - hereditary slaves from the first peoples conquered by the [[Mycean]]s and anyone unlucky enough to be captured.
 
 #### Warfare
-Cenerians have a dualistic approach to war. War for the sake of war is considered near-worship of [[Anzo]], and is to be avoided. But war in the defence of a city, or to found a new city, is considered righteous. This philosophy translates into the way Cenerians wage warfare. 
+Cenerians have a dualistic approach to war. War for the sake of war is considered near-worship of [[Anzo]], and is to be avoided. But war in the defence of a city, or to found a new city, is considered righteous. This philosophy translates into the way Cenerians wage warfare, which is defensive by nature except when rallying to conquer what was lost.
 
 ##### Weapons
-The cultural weapon is the **axe**: useful as a tool to chop trees (for building ships and houses), as a close-quarters weapon on ships (and to cut ropes), and as a sidearm on the battlefield (particularly against shields). A newer development is the carrying of curved sabres among the nobility instead of an axe. Nevertheless, while nearly everyone carries an axe, and the axe is a *kulturgut* among Cenerians, more value is placed upon the bow. 
-**Archers** are drawn from citizens, the Seravon, and from the Lords, all of whom are trained in the way of the bow to defend a city's walls. It is considered the highest art of warfare. In addition, young Seravon cadets are trained in the use of the bow on horseback, a terrifying sight in pitched battles but relatively few in number. Seravon themselves are the shock cavalry, having progressed to the **lance** upon armoured war horse. 
-The **glaive** is the weapon of the citizen. Heavily armoured, they eschew the **shield** and **spear** used by the freemen and instead use heavy, overlapping armour so that both hands remain free for the use of their polearms. 
+The cultural weapon is the **axe**: useful as a tool to chop trees (for building ships and houses), as a close-quarters weapon on ships (and to cut ropes), and as a sidearm on the battlefield (particularly against shields). A newer development is the carrying of curved sabres among the nobility instead of an axe. Nevertheless, while nearly everyone carries an axe, and the axe is a *kulturgut* among Cenerians, more social value is placed upon the bow. 
+**Archers** are drawn from citizens, the Seravon, and from the Lords, all of whom are trained in the way of the bow to defend a city's walls. It is considered the highest art of warfare. In addition, young Seravon cadets are trained in the use of the bow on horseback, a terrifying sight in pitched battles but relatively few in number. Seravon themselves are the shock cavalry, having progressed to the **lance** upon armoured war horses. 
+On foot, the **glaive** is the weapon of the elite. Heavily armoured, they eschew the **shield** and **spear** used by citizens and freemen and instead use heavy, overlapping armour so that both hands remain free for the use of their polearms. 
 **Parasts** are the light infantry, often using javelins, slings, and bows to harass the enemy before falling back. They use shortswords and bucklers for close-quarter fighting, though are unusually unarmoured save for helmets. 
