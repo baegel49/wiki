@@ -1,7 +1,7 @@
 ### Short Rests
 1-2 hours of catching your breath. 
-Make a REST SAVE by using your worst save. If you succeed, reduce your Toll by the ones digit rolled (e.g., if you rolled
-24 under your worst Save of 30, reduce your Toll by 4). If you fail, you gain 1 Toll instead.
+Make a REST SAVE by using your worst save in unsafe areas and your best in safe areas. 
+If you succeed, reduce your Toll by one. A critical fail results in taking toll.
 Gain 1d5 Resistance.
 **Flesh Wounds** are healed during Short Rests.
 **Minor Injuries** can be attempted to be healed using the appropriate tools, skills, or decoctions.

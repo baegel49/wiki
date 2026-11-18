@@ -1,0 +1,3 @@
+An ongoing war in south-eastern [[Ceneria]] and [[Zinnabar]], led by [[Andros]] and the [[Cenerian League]] against [[Xeril]] and his [[Rurii]] conquerors. 
+
+The [[War of Restoration]] was launched shortly after the [[Crowning of Andros]], who made peace with the [[Thalen]] after the [[Voyage of Normund]]. This freed up enough of [[Cenerian]] soldiers and capital to begin checking [[Xeril's Conquests]] in [[Zinnabar]]. The siege at [[Mara-Halyon]] was broken after a long and pyrrhic struggle, safeguarding the port but resulting in the Cenerian forces licking their wounds. A second campaign was launched two years later, taking the fortress of [[Osmoa]] and beginning the siege of [[Zeutana]] which continues into present day.

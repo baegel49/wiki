@@ -1,6 +1,6 @@
 Thalendor is the realm located in central [[Osera]], with its capital at [[Ostellyth]]. For the first time in their history, the [[Thalen]] people are united. After securing both the [[Thalen Migration|migration]] and victory over the [[Brethiln]], there was little doubt that [[Aldric]] would unite his people under one banner, and so he did. What was left out of that story was that the bureaucratic might of the [[Sect of Pyos]] allowed [[Aldric]] to codify his people's laws and institutionally rule them. Now, the [[Thalen]] are the dominant culture in central [[Osera]], and [[Aldric]]'s grandson [[Normund]] rules with an iron fist.
 
-The kingdom is divided into great holdings, ruled by Hertogs:
+The kingdom is divided into great holdings, ruled by princes:
 
 Central lands (Crownlands):
 
@@ -17,7 +17,7 @@ Northern lands (Northern Marches):
 
 Eastern lands (Eastern Marches): 
 
-- Osmark - ruled by Siggort
+- Osmark - ruled by Siggort III
 - Lanvar - ruled by Brennock
 
 Southern lands (Eindellyon): 
@@ -26,6 +26,6 @@ Southern lands (Eindellyon):
 - Lythmark - ruled by Norvan
 - Olervan - ruled by Sigholt
 
-The Great Holdings are further divided into Manorlands, smaller parcels each overseen by a Manorlord, or Groff. 
+The Great Holdings are further divided into Manorlands, smaller parcels each overseen by a Manorlord. 
 
-The various castles that dot the Thalen landscape directly belong to the king, however. Each castellan is appointed by and loyal to the crown, a fact which the Hertogs despise. The Hertogs circumvent the ineligibility to own their own castles by calling their fortifications "keeps". 
+The various castles that dot the Thalen landscape directly belong to the king, however. Each castellan is appointed by and loyal to the crown, a fact which the princes despise. The princes circumvent the ineligibility to own their own castles by calling their fortifications "keeps". 

@@ -23,7 +23,7 @@ The [[Sect of Pyos]] has ruled from [[Movenna]] since before the [[Collapse]], a
 
 #### The Varanthian Problem
 ##### Urban Intrigue (3/3/1) --- Medium
-The city of [[Varanth]] is experiencing a crisis. Nominally part of the [[Cenerian League]], it is de facto ruled by an [[Altani]] warlord Grag and his warband, initially hired to defend against [[Thalen]] aggression. The same [[Thalen]] have now settled across the Yenner river, founding what they call "Newtown". The original Archon is now a mere puppet, and [[Varanth]] risks falling into disarray. The League cannot afford open hostilities during the [[War of Recovery]], and a different solution is needed. The League, Grag, and the Thalen would all pay handsomely for an upper hand in the brewing conflict.
+The city of [[Varanth]] is experiencing a crisis. Nominally part of the [[Cenerian League]], it is de facto ruled by an [[Altani]] warlord Grag and his warband, initially hired to defend against [[Thalen]] aggression. The same [[Thalen]] have now settled across the Yenner river, founding what they call "Newtown". The original Archon is now a mere puppet, and [[Varanth]] risks falling into disarray. The League cannot afford open hostilities during the [[War of Restoration]], and a different solution is needed. The League, Grag, and the Thalen would all pay handsomely for an upper hand in the brewing conflict.
 
 #### Munnow's Malaise
 ##### River Expedition (4/2/4) --- Medium

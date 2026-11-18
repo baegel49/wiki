@@ -1,1 +1,0 @@
-A current war in south-eastern [[Ceneria]] and [[Zinnabar]], led by [[Andros]] and the [[Cenerian League]] against [[Xeril]] and his [[Rurii]] conquerors. 

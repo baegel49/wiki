@@ -69,12 +69,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cultures/Manlings.md",
+                "file": "Locations/Realms/Thalendor.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Manlings"
+              "title": "Thalendor"
             }
           }
         ],
@@ -244,32 +245,33 @@
   },
   "active": "5671352ee51ee391",
   "lastOpenFiles": [
-    "Cultures/Altani.md",
-    "Beings/Deities/Pyos.md",
-    "Cultures/Akkurim.md",
-    "Beings/Titans.md",
-    "Locations/Cities/Abandoned Cities/Mycea.md",
-    "Locations/Seas/Lotan Sea.md",
-    "Cultures/Ykrittar.md",
-    "Locations/Seas/Altom Ocean.md",
-    "Locations/Other/Pillars of Bel.md",
-    "Beings/Deities/Bel.md",
-    "Beings/Deities/World-Father.md",
-    "Beings/Deities/Verdhas.md",
-    "Beings/Deities/Sky-Mother.md",
-    "Cultures/Rurii.md",
-    "Cultures/Qedhi.md",
-    "Cultures/Brethiln.md",
-    "Cultures/Cenerian.md",
-    "Cultures/Southern.md",
     "Cultures/Thalen.md",
-    "Events/Crowning of Andros.md",
-    "Events/Voyage of Normund.md",
-    "Beings/Dramatis Personae/Normund.md",
-    "Events/Battle of Oathbridge.md",
+    "Other/Echoes of Eternity/Spellcasting.md",
+    "Other/Echoes of Eternity/Resting.md",
+    "Other/Echoes of Eternity/Wounds.md",
+    "Other/Echoes of Eternity/Armour.md",
     "Other/Echoes of Eternity/Weapons.md",
+    "Other/Echoes of Eternity/Equipment.md",
+    "Other/Echoes of Eternity/Ranges.md",
+    "Other/Echoes of Eternity/Conditions.md",
+    "Other/Heavenly Iron.md",
+    "Locations/Cities/Abandoned Cities/Thenea Epeson.md",
+    "Other/Haze.md",
+    "Other/A Typical Day in Ceneria.md",
+    "Locations/Realms/Ceneria.md",
+    "Locations/Realms/Cenerian Realms/Notos.md",
+    "Locations/Realms/Cenerian Realms/Almyra.md",
+    "Locations/Realms/Cenerian Realms/Nemmor.md",
+    "Locations/Realms/Cenerian Realms/The Aspolene.md",
+    "Locations/Realms/Empire of Kantara.md",
+    "Locations/Realms/Cenerian Realms/Lithandros.md",
+    "Locations/Realms/Cenerian Realms/Sarenna.md",
+    "Locations/Realms/Cenerian Realms/Limora.md",
+    "Locations/Realms/Cenerian Realms/Maravon.md",
+    "Locations/Realms/Cenerian Realms/Valkyros.md",
+    "Locations/Realms/Cenerian Realms",
+    "Locations/Realms/Velwynne.md",
     "Locations/Realms/Thalendor.md",
-    "Overview.md",
     "Untitled",
     "Other/Echoes of Eternity",
     "z.Images/Pasted image 20260722171754.png",
@@ -288,7 +290,6 @@
     "Locations/Regions/Islands",
     "Magic",
     "Beings/Dramatis Personae",
-    "Beings/Deities",
-    "Locations/Seas"
+    "Beings/Deities"
   ]
 }

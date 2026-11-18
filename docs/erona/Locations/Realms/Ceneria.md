@@ -8,6 +8,12 @@ The Cenerian realms and their associated cities are:
 - [[Sarenna]] - [[Iphora]], [[Aranesse]], [[Oneos]] (abandoned)
 - [[Lithandros]] - [[Thenea Deuteron]], [[Sydon]]
 
+On Zinnabar: 
+
+- [[The Aspolene]] - [[Aspola]]
+- [[Almyra]] - [[Mara-Halyon]]
+- [[Notos]] (known as Sura-Hadar to [[Rurii]]) - [[Zeutana]]
+- [[Nemmor]] (known as Gadu-Rhan to [[Rurii]]) - [[Saphos]]
 
 Islands associated with [[Ceneria]]: 
 
